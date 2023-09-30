@@ -1,0 +1,5897 @@
+[
+  {
+    "start": "1",
+    "end": "00:00:00,000 --> 00:00:03,400",
+    "text": "[MUSIC PLAYING]"
+  },
+  {
+    "start": "2",
+    "end": "00:00:03,400 --> 00:00:05,980",
+    "text": "(upbeat music)"
+  },
+  {
+    "start": "3",
+    "end": "00:00:05,980 --> 00:00:09,980",
+    "text": "We are the ones who, reading the code, look for the asshole who wrote that shit."
+  },
+  {
+    "start": "4",
+    "end": "00:00:09,980 --> 00:00:14,480",
+    "text": "But, alas, the asshole is not the same, he wrote it right yesterday."
+  },
+  {
+    "start": "5",
+    "end": "00:00:14,480 --> 00:00:20,980",
+    "text": "We are the ones who sanctify the new JavaScript framework, secretly preferring jQuery."
+  },
+  {
+    "start": "6",
+    "end": "00:00:20,980 --> 00:00:26,980",
+    "text": "The same for which testing is important, in fact, our codebase has only two tests, and flakes too."
+  },
+  {
+    "start": "7",
+    "end": "00:00:26,980 --> 00:00:30,980",
+    "text": "We are the ones who make your language sucks, but mine is worse."
+  },
+  {
+    "start": "8",
+    "end": "00:00:30,980 --> 00:00:36,980",
+    "text": "Those who clarify it in the comment messages first of all, and inside, he calls it all saints."
+  },
+  {
+    "start": "9",
+    "end": "00:00:36,980 --> 00:00:41,980",
+    "text": "Those who talk on call for 5 minutes before realizing that the mic is mute."
+  },
+  {
+    "start": "10",
+    "end": "00:00:41,980 --> 00:00:48,980",
+    "text": "Those who can't do default, it quickly becomes a \"everything is possible\" if you have resources, time and limited budget."
+  },
+  {
+    "start": "11",
+    "end": "00:00:48,980 --> 00:00:54,980",
+    "text": "We are the ones who have the AI regulated, have you ever seen this new model that kitten funamboli will design?"
+  },
+  {
+    "start": "12",
+    "end": "00:00:54,980 --> 00:00:58,980",
+    "text": "Those who depend on it and join the prison for free."
+  },
+  {
+    "start": "13",
+    "end": "00:00:58,980 --> 00:01:00,980",
+    "text": "and those who make the RAL..."
+  },
+  {
+    "start": "14",
+    "end": "00:01:00,980 --> 00:01:02,980",
+    "text": "no, come on, it's already funny like this."
+  },
+  {
+    "start": "15",
+    "end": "00:01:02,980 --> 00:01:06,980",
+    "text": "We are the ones who make the slalom"
+  },
+  {
+    "start": "16",
+    "end": "00:01:06,980 --> 00:01:08,980",
+    "text": "among the specifics that change constantly,"
+  },
+  {
+    "start": "17",
+    "end": "00:01:08,980 --> 00:01:11,980",
+    "text": "now resigned that the definition of ready"
+  },
+  {
+    "start": "18",
+    "end": "00:01:11,980 --> 00:01:13,980",
+    "text": "is just a pia illusion."
+  },
+  {
+    "start": "19",
+    "end": "00:01:13,980 --> 00:01:15,980",
+    "text": "Those who feel like saying"
+  },
+  {
+    "start": "20",
+    "end": "00:01:15,980 --> 00:01:17,980",
+    "text": "\"I have an idea for an app\""
+  },
+  {
+    "start": "21",
+    "end": "00:01:17,980 --> 00:01:19,980",
+    "text": "and it's immediately the umpteenth social"
+  },
+  {
+    "start": "22",
+    "end": "00:01:19,980 --> 00:01:21,980",
+    "text": "like Instagram, but better."
+  },
+  {
+    "start": "23",
+    "end": "00:01:21,980 --> 00:01:27,980",
+    "text": "We are the ones who, despite the failed deploy,"
+  },
+  {
+    "start": "24",
+    "end": "00:01:27,980 --> 00:01:35,980",
+    "text": "The seat is red, the business is fucked up, we are in front of a bar and everything seems a little less serious."
+  },
+  {
+    "start": "25",
+    "end": "00:01:35,980 --> 00:01:50,980",
+    "text": "Hello and welcome to Get Bar, finally in video! It's really cool to give you the chance to enter our circle of developers."
+  },
+  {
+    "start": "26",
+    "end": "00:01:50,980 --> 00:02:01,980",
+    "text": "I really have to say it! I'm really excited, I'm excited to open the doors, I'm excited to pour beer in this virtual pub."
+  },
+  {
+    "start": "27",
+    "end": "00:02:01,980 --> 00:02:08,980",
+    "text": "I'm excited, but I won't forget that Gitbar is a podcast."
+  },
+  {
+    "start": "28",
+    "end": "00:02:08,980 --> 00:02:11,980",
+    "text": "I want to make a small premise."
+  },
+  {
+    "start": "29",
+    "end": "00:02:11,980 --> 00:02:15,980",
+    "text": "Gitbar is and will always be a podcast."
+  },
+  {
+    "start": "30",
+    "end": "00:02:15,980 --> 00:02:19,980",
+    "text": "Where by podcast we mean a RSS feed."
+  },
+  {
+    "start": "31",
+    "end": "00:02:19,980 --> 00:02:27,980",
+    "text": "I know, we don't like XML, but RSS is the only use of XML that makes sense."
+  },
+  {
+    "start": "32",
+    "end": "00:02:27,980 --> 00:02:41,980",
+    "text": "So, GitBar will continue to be an audio podcast, with the possibility to see it and to use it in an increased way, through the video on YouTube, and then we'll see how to evolve."
+  },
+  {
+    "start": "33",
+    "end": "00:02:41,980 --> 00:02:45,980",
+    "text": "I don't know if you've seen the new acronym, it tells a little bit about who we are."
+  },
+  {
+    "start": "34",
+    "end": "00:02:45,980 --> 00:02:49,980",
+    "text": "and I use the plural"
+  },
+  {
+    "start": "35",
+    "end": "00:02:49,980 --> 00:02:52,980",
+    "text": "also because Gitbar is not a brainwrap"
+  },
+  {
+    "start": "36",
+    "end": "00:02:52,980 --> 00:02:55,980",
+    "text": "but a group of people"
+  },
+  {
+    "start": "37",
+    "end": "00:02:55,980 --> 00:02:57,980",
+    "text": "and the first people I want to thank"
+  },
+  {
+    "start": "38",
+    "end": "00:02:57,980 --> 00:03:00,980",
+    "text": "for this evolution of Gitbar"
+  },
+  {
+    "start": "39",
+    "end": "00:03:00,980 --> 00:03:03,980",
+    "text": "are my co-hosts, the baristas"
+  },
+  {
+    "start": "40",
+    "end": "00:03:03,980 --> 00:03:05,980",
+    "text": "the people who pour drinks in this"
+  },
+  {
+    "start": "41",
+    "end": "00:03:05,980 --> 00:03:07,980",
+    "text": "province of pubs"
+  },
+  {
+    "start": "42",
+    "end": "00:03:07,980 --> 00:03:10,980",
+    "text": "for all the frustrated developers"
+  },
+  {
+    "start": "43",
+    "end": "00:03:10,980 --> 00:03:13,980",
+    "text": "and I have with me Leo and Carmine"
+  },
+  {
+    "start": "44",
+    "end": "00:03:13,980 --> 00:03:15,980",
+    "text": "Hi guys, how are you?"
+  },
+  {
+    "start": "45",
+    "end": "00:03:15,980 --> 00:03:17,980",
+    "text": "Hi, all good."
+  },
+  {
+    "start": "46",
+    "end": "00:03:17,980 --> 00:03:21,980",
+    "text": "Unfortunately we are in video mode, so I can't say hello to you from my pool villa in Dubai,"
+  },
+  {
+    "start": "47",
+    "end": "00:03:21,980 --> 00:03:25,980",
+    "text": "which was the beginning I wanted to give to this new season, but it's okay anyway."
+  },
+  {
+    "start": "48",
+    "end": "00:03:25,980 --> 00:03:32,980",
+    "text": "You don't have, let's say, the passive intro, it wasn't as passive as you expected."
+  },
+  {
+    "start": "49",
+    "end": "00:03:32,980 --> 00:03:36,980",
+    "text": "Exactly, exactly. I put this green screen of a normal house."
+  },
+  {
+    "start": "50",
+    "end": "00:03:36,980 --> 00:03:40,980",
+    "text": "In fact, I also put the green screen. As you can see, everything is very static,"
+  },
+  {
+    "start": "51",
+    "end": "00:03:40,980 --> 00:03:45,980",
+    "text": "Static, this image is really stock, with our great and powerful tools."
+  },
+  {
+    "start": "52",
+    "end": "00:03:45,980 --> 00:03:48,980",
+    "text": "Thanks to the donors, who can allow us to make these videos."
+  },
+  {
+    "start": "53",
+    "end": "00:03:48,980 --> 00:03:52,980",
+    "text": "Donate, so I can also put it on a fridge here."
+  },
+  {
+    "start": "54",
+    "end": "00:03:52,980 --> 00:03:58,980",
+    "text": "Exactly, our video experience has costs, so if you like to support us,"
+  },
+  {
+    "start": "55",
+    "end": "00:03:58,980 --> 00:04:03,980",
+    "text": "please do it, you can find everything on www.gitbar.it"
+  },
+  {
+    "start": "56",
+    "end": "00:04:03,980 --> 00:04:08,980",
+    "text": "and on one of the last frames of this episode."
+  },
+  {
+    "start": "57",
+    "end": "00:04:08,980 --> 00:04:13,980",
+    "text": "We have great things in store for the fourth season of Geekbar."
+  },
+  {
+    "start": "58",
+    "end": "00:04:13,980 --> 00:04:19,980",
+    "text": "We have a series of ideas that are fermenting a bit, like good wine."
+  },
+  {
+    "start": "59",
+    "end": "00:04:19,980 --> 00:04:23,980",
+    "text": "I think this episode is already a bit too alcoholic, but..."
+  },
+  {
+    "start": "60",
+    "end": "00:04:23,980 --> 00:04:32,980",
+    "text": "I was saying, they are fermenting and you will find many, many news, but I will not spoil you more."
+  },
+  {
+    "start": "61",
+    "end": "00:04:32,980 --> 00:04:45,480",
+    "text": "Guys, today we're talking about open source and framework, which are two hot topics"
+  },
+  {
+    "start": "62",
+    "end": "00:04:45,480 --> 00:04:49,480",
+    "text": "But before we do that, we have to quickly remind our contacts"
+  },
+  {
+    "start": "63",
+    "end": "00:04:49,480 --> 00:04:54,480",
+    "text": "The contacts remain the same, despite this podcast refresh"
+  },
+  {
+    "start": "64",
+    "end": "00:04:54,480 --> 00:04:58,480",
+    "text": "info@gitbar.it and www.gitbar.it"
+  },
+  {
+    "start": "65",
+    "end": "00:04:58,480 --> 00:05:02,480",
+    "text": "@BrainRepo on Twitter, but..."
+  },
+  {
+    "start": "66",
+    "end": "00:05:02,480 --> 00:05:05,480",
+    "text": "Go Carmine, it's your turn today."
+  },
+  {
+    "start": "67",
+    "end": "00:05:05,480 --> 00:05:08,480",
+    "text": "Today it's me as always."
+  },
+  {
+    "start": "68",
+    "end": "00:05:08,480 --> 00:05:10,480",
+    "text": "We remind you of our Telegram group."
+  },
+  {
+    "start": "69",
+    "end": "00:05:10,480 --> 00:05:16,480",
+    "text": "You can find us on Telegram by typing \"Gitbar\" on your favorite Telegram client."
+  },
+  {
+    "start": "70",
+    "end": "00:05:16,480 --> 00:05:20,480",
+    "text": "We are more than a thousand, actually we are more than a thousand and more than a thousand people."
+  },
+  {
+    "start": "71",
+    "end": "00:05:20,480 --> 00:05:25,480",
+    "text": "We are waiting for you too and remembering that we are the group that distinguishes itself."
+  },
+  {
+    "start": "72",
+    "end": "00:05:25,480 --> 00:05:28,480",
+    "text": "This time I'm not saying anything about you, so we don't cut you off."
+  },
+  {
+    "start": "73",
+    "end": "00:05:28,480 --> 00:05:31,480",
+    "text": "Exactly, we're at 1417."
+  },
+  {
+    "start": "74",
+    "end": "00:05:31,480 --> 00:05:34,480",
+    "text": "I remember we were around 1300."
+  },
+  {
+    "start": "75",
+    "end": "00:05:34,480 --> 00:05:37,480",
+    "text": "I must have missed a few."
+  },
+  {
+    "start": "76",
+    "end": "00:05:37,480 --> 00:05:40,480",
+    "text": "There's a bot problem on Telegram, like on Twitter, on X."
+  },
+  {
+    "start": "77",
+    "end": "00:05:40,480 --> 00:05:44,480",
+    "text": "Ah, there's a bot. We don't have the bot tool."
+  },
+  {
+    "start": "78",
+    "end": "00:05:44,480 --> 00:05:46,480",
+    "text": "No, it's a joke."
+  },
+  {
+    "start": "79",
+    "end": "00:05:46,480 --> 00:05:51,480",
+    "text": "Clearly, they're all normal users, because we have the bots and we catch them right away."
+  },
+  {
+    "start": "80",
+    "end": "00:05:51,480 --> 00:05:57,720",
+    "text": "I think I'm completely crazy this period of losing everything"
+  },
+  {
+    "start": "81",
+    "end": "00:05:57,720 --> 00:06:03,320",
+    "text": "But that's okay, that's okay, we were focused on this passage to the video of Geetvar"
+  },
+  {
+    "start": "82",
+    "end": "00:06:03,320 --> 00:06:08,600",
+    "text": "It's already been seven minutes and we haven't started the episode yet and this is starting to worry me"
+  },
+  {
+    "start": "83",
+    "end": "00:06:08,600 --> 00:06:10,600",
+    "text": "Well, five minutes was the opening so..."
+  },
+  {
+    "start": "84",
+    "end": "00:06:10,600 --> 00:06:12,600",
+    "text": "Yes, it's true, it's true, it's true"
+  },
+  {
+    "start": "85",
+    "end": "00:06:12,600 --> 00:06:17,760",
+    "text": "It means that we will have to make a reduced version, I promise"
+  },
+  {
+    "start": "86",
+    "end": "00:06:17,760 --> 00:06:21,760",
+    "text": "In the next episode we will have a reduced version and we keep this as a trailer."
+  },
+  {
+    "start": "87",
+    "end": "00:06:21,760 --> 00:06:27,760",
+    "text": "But, let's get to work. It's time to introduce our guest."
+  },
+  {
+    "start": "88",
+    "end": "00:06:27,760 --> 00:06:46,760",
+    "text": "Here we are, here we are. Today we have with us a friend, a colleague too,"
+  },
+  {
+    "start": "89",
+    "end": "00:06:46,760 --> 00:06:54,760",
+    "text": "Senior Software Developer at NearForm and a Core Contributor at Fastify"
+  },
+  {
+    "start": "90",
+    "end": "00:06:54,760 --> 00:06:58,760",
+    "text": "We see him more and more often at conferences"
+  },
+  {
+    "start": "91",
+    "end": "00:06:58,760 --> 00:07:00,760",
+    "text": "We have with us our friend Manuel Spigolon"
+  },
+  {
+    "start": "92",
+    "end": "00:07:00,760 --> 00:07:02,760",
+    "text": "Hi Manuel, how are you?"
+  },
+  {
+    "start": "93",
+    "end": "00:07:02,760 --> 00:07:07,760",
+    "text": "Hi to all the hosts and a greeting to the audience of the Gitbar"
+  },
+  {
+    "start": "94",
+    "end": "00:07:07,760 --> 00:07:10,760",
+    "text": "I'm sorry, I said \"hosts\""
+  },
+  {
+    "start": "95",
+    "end": "00:07:10,760 --> 00:07:12,760",
+    "text": "because anyway..."
+  },
+  {
+    "start": "96",
+    "end": "00:07:12,760 --> 00:07:15,760",
+    "text": "It's beautiful, from now on we'll use this appellative"
+  },
+  {
+    "start": "97",
+    "end": "00:07:15,760 --> 00:07:18,760",
+    "text": "Thank you for the idea. Hi Manuel"
+  },
+  {
+    "start": "98",
+    "end": "00:07:18,760 --> 00:07:21,760",
+    "text": "Today you finally came to see us"
+  },
+  {
+    "start": "99",
+    "end": "00:07:21,760 --> 00:07:24,760",
+    "text": "and you know that I"
+  },
+  {
+    "start": "100",
+    "end": "00:07:24,760 --> 00:07:26,760",
+    "text": "I've been going through"
+  },
+  {
+    "start": "101",
+    "end": "00:07:26,760 --> 00:07:29,760",
+    "text": "the things you've said around"
+  },
+  {
+    "start": "102",
+    "end": "00:07:29,760 --> 00:07:32,760",
+    "text": "to try to understand"
+  },
+  {
+    "start": "103",
+    "end": "00:07:32,760 --> 00:07:35,760",
+    "text": "your idea of many things"
+  },
+  {
+    "start": "104",
+    "end": "00:07:35,760 --> 00:07:39,760",
+    "text": "The first topic we wanted to address with you"
+  },
+  {
+    "start": "105",
+    "end": "00:07:39,760 --> 00:07:43,760",
+    "text": "was the one from the Hello World to the open source."
+  },
+  {
+    "start": "106",
+    "end": "00:07:43,760 --> 00:07:49,760",
+    "text": "When you are a developer, there are a series of stages."
+  },
+  {
+    "start": "107",
+    "end": "00:07:49,760 --> 00:07:53,760",
+    "text": "There is the Hello World stage, where the first experiments begin,"
+  },
+  {
+    "start": "108",
+    "end": "00:07:53,760 --> 00:08:00,760",
+    "text": "better said, fueled by the idea of a side project,"
+  },
+  {
+    "start": "109",
+    "end": "00:08:00,760 --> 00:08:04,760",
+    "text": "which is the spark that pushes the experimentation towards a language,"
+  },
+  {
+    "start": "110",
+    "end": "00:08:04,760 --> 00:08:09,760",
+    "text": "to a framework, to whatever has a code underneath."
+  },
+  {
+    "start": "111",
+    "end": "00:08:09,760 --> 00:08:13,760",
+    "text": "Then there's the transition a little further"
+  },
+  {
+    "start": "112",
+    "end": "00:08:13,760 --> 00:08:15,760",
+    "text": "to the open source world."
+  },
+  {
+    "start": "113",
+    "end": "00:08:15,760 --> 00:08:19,760",
+    "text": "Not everyone takes this leap, many are scared."
+  },
+  {
+    "start": "114",
+    "end": "00:08:19,760 --> 00:08:23,760",
+    "text": "I want to know, though,"
+  },
+  {
+    "start": "115",
+    "end": "00:08:23,760 --> 00:08:28,760",
+    "text": "as a Java programmer,"
+  },
+  {
+    "start": "116",
+    "end": "00:08:28,760 --> 00:08:30,760",
+    "text": "as you said at the beginning of your career,"
+  },
+  {
+    "start": "117",
+    "end": "00:08:30,760 --> 00:08:32,760",
+    "text": "you think I got away with it, right?"
+  },
+  {
+    "start": "118",
+    "end": "00:08:32,760 --> 00:08:39,760",
+    "text": "to a core contributor of a widely used framework, Fastify"
+  },
+  {
+    "start": "119",
+    "end": "00:08:39,760 --> 00:08:44,760",
+    "text": "what are the milestones that you recognize"
+  },
+  {
+    "start": "120",
+    "end": "00:08:44,760 --> 00:08:52,760",
+    "text": "that lead you to say \"there was this transition, this transition\" and so on?"
+  },
+  {
+    "start": "121",
+    "end": "00:08:52,760 --> 00:09:08,760",
+    "text": "Ok, so now I will say a bit about buzzwords, because otherwise you can't define yourself as a developer if you don't say \"comfort zone\" to start"
+  },
+  {
+    "start": "122",
+    "end": "00:09:08,760 --> 00:09:14,760",
+    "text": "So the concept is \"stay hungry and stay foolish\" obviously"
+  },
+  {
+    "start": "123",
+    "end": "00:09:14,760 --> 00:09:18,760",
+    "text": "thank you, thank you"
+  },
+  {
+    "start": "124",
+    "end": "00:09:18,760 --> 00:09:20,760",
+    "text": "what happened?"
+  },
+  {
+    "start": "125",
+    "end": "00:09:20,760 --> 00:09:25,760",
+    "text": "the developer, like many others, basically"
+  },
+  {
+    "start": "126",
+    "end": "00:09:25,760 --> 00:09:29,760",
+    "text": "at the beginning I started working"
+  },
+  {
+    "start": "127",
+    "end": "00:09:29,760 --> 00:09:33,760",
+    "text": "I hadn't even finished high school, actually"
+  },
+  {
+    "start": "128",
+    "end": "00:09:33,760 --> 00:09:36,760",
+    "text": "because I already had the employment contract"
+  },
+  {
+    "start": "129",
+    "end": "00:09:36,760 --> 00:09:41,760",
+    "text": "and I hadn't yet passed the famous state exam"
+  },
+  {
+    "start": "130",
+    "end": "00:09:41,760 --> 00:09:43,760",
+    "text": "it was very funny"
+  },
+  {
+    "start": "131",
+    "end": "00:09:43,760 --> 00:09:49,760",
+    "text": "and what happened? I fell in love with the company I worked for"
+  },
+  {
+    "start": "132",
+    "end": "00:09:49,760 --> 00:09:55,760",
+    "text": "I fell in love with the people I worked with"
+  },
+  {
+    "start": "133",
+    "end": "00:09:55,760 --> 00:10:06,760",
+    "text": "but, actually, when I started the first Milestone, when I started to participate in the first conferences"
+  },
+  {
+    "start": "134",
+    "end": "00:10:06,760 --> 00:10:13,760",
+    "text": "I saw these developers on stage and I was ecstatic"
+  },
+  {
+    "start": "135",
+    "end": "00:10:13,760 --> 00:10:17,760",
+    "text": "by how they managed to involve the audience"
+  },
+  {
+    "start": "136",
+    "end": "00:10:17,760 --> 00:10:23,760",
+    "text": "and how they worked on projects that for me were really science fiction."
+  },
+  {
+    "start": "137",
+    "end": "00:10:23,760 --> 00:10:30,760",
+    "text": "And there was the first seed that instilled in me"
+  },
+  {
+    "start": "138",
+    "end": "00:10:30,760 --> 00:10:37,760",
+    "text": "I had this desire to be like these \"famous\" people"
+  },
+  {
+    "start": "139",
+    "end": "00:10:37,760 --> 00:10:39,760",
+    "text": "in my eyes, clearly"
+  },
+  {
+    "start": "140",
+    "end": "00:10:39,760 --> 00:10:42,760",
+    "text": "and so this was the first step"
+  },
+  {
+    "start": "141",
+    "end": "00:10:42,760 --> 00:10:52,760",
+    "text": "the second step was to throw myself on the latest technology that was fashionable in those years"
+  },
+  {
+    "start": "142",
+    "end": "00:10:52,760 --> 00:10:55,760",
+    "text": "in the JS, in particular"
+  },
+  {
+    "start": "143",
+    "end": "00:10:55,760 --> 00:11:03,280",
+    "text": "and so I simply filled the free time I had studying this language"
+  },
+  {
+    "start": "144",
+    "end": "00:11:03,280 --> 00:11:09,280",
+    "text": "and in the end there's the exit from the comfort zone"
+  },
+  {
+    "start": "145",
+    "end": "00:11:09,280 --> 00:11:21,280",
+    "text": "that is, to abandon the work, let's say, that is quiet and warm, as comfortable as winter blankets"
+  },
+  {
+    "start": "146",
+    "end": "00:11:21,280 --> 00:11:28,280",
+    "text": "and tell my boss, with whom I've been working for almost 10 years,"
+  },
+  {
+    "start": "147",
+    "end": "00:11:28,280 --> 00:11:42,280",
+    "text": "\"Look, I'm sorry, but I'm sorry, and I even had the opportunity to move to a new city,"
+  },
+  {
+    "start": "148",
+    "end": "00:11:42,280 --> 00:11:46,280",
+    "text": "get out of the house's nest"
+  },
+  {
+    "start": "149",
+    "end": "00:11:46,280 --> 00:11:52,280",
+    "text": "and start living alone and paying the bills"
+  },
+  {
+    "start": "150",
+    "end": "00:11:52,280 --> 00:11:55,280",
+    "text": "and so it was really a"
+  },
+  {
+    "start": "151",
+    "end": "00:11:55,280 --> 00:11:57,280",
+    "text": "how to say"
+  },
+  {
+    "start": "152",
+    "end": "00:11:57,280 --> 00:12:00,280",
+    "text": "a breaking wave"
+  },
+  {
+    "start": "153",
+    "end": "00:12:00,280 --> 00:12:05,280",
+    "text": "that single grain of the conference"
+  },
+  {
+    "start": "154",
+    "end": "00:12:05,280 --> 00:12:08,280",
+    "text": "to start participating in conferences"
+  },
+  {
+    "start": "155",
+    "end": "00:12:08,280 --> 00:12:10,280",
+    "text": "Manuel, sorry if I interrupt you"
+  },
+  {
+    "start": "156",
+    "end": "00:12:10,280 --> 00:12:16,280",
+    "text": "I want to ask you a question, because in my opinion it's one of the most interesting passages."
+  },
+  {
+    "start": "157",
+    "end": "00:12:16,280 --> 00:12:24,280",
+    "text": "You said that you left the company for which you had been working for many years."
+  },
+  {
+    "start": "158",
+    "end": "00:12:24,280 --> 00:12:25,280",
+    "text": "Exactly."
+  },
+  {
+    "start": "159",
+    "end": "00:12:25,280 --> 00:12:32,280",
+    "text": "I want to return to this concept, because actually many people I talk to,"
+  },
+  {
+    "start": "160",
+    "end": "00:12:32,280 --> 00:12:39,280",
+    "text": "who have to make that leap in terms of seniority, who have to go and run after those stimuli,"
+  },
+  {
+    "start": "161",
+    "end": "00:12:39,280 --> 00:12:45,280",
+    "text": "They say \"Yes, but the company I work for is a family."
+  },
+  {
+    "start": "162",
+    "end": "00:12:45,280 --> 00:12:55,280",
+    "text": "And the break-up of these ties, which also have an emotional relationship, becomes devastating."
+  },
+  {
+    "start": "163",
+    "end": "00:12:55,280 --> 00:13:00,280",
+    "text": "I remember when I left my company."
+  },
+  {
+    "start": "164",
+    "end": "00:13:00,280 --> 00:13:06,280",
+    "text": "For me it was a deep crisis of identity."
+  },
+  {
+    "start": "165",
+    "end": "00:13:06,280 --> 00:13:15,280",
+    "text": "leaving all the ties, leaving the certainties, but above all the people with whom you had built something that, being a small company,"
+  },
+  {
+    "start": "166",
+    "end": "00:13:15,280 --> 00:13:21,280",
+    "text": "and I don't know how big your company was initially, but mine was really small, so it was more like a family,"
+  },
+  {
+    "start": "167",
+    "end": "00:13:21,280 --> 00:13:33,280",
+    "text": "and it was like the son who falls in love with the girl who ran away from home and leaves leaving the parents, a kind of son to the prodigal, right?"
+  },
+  {
+    "start": "168",
+    "end": "00:13:33,280 --> 00:13:38,280",
+    "text": "How did you experience this distance, this separation?"
+  },
+  {
+    "start": "169",
+    "end": "00:13:38,280 --> 00:13:45,280",
+    "text": "I lost a bit of time, sorry if you're frozen"
+  },
+  {
+    "start": "170",
+    "end": "00:13:45,280 --> 00:13:48,280",
+    "text": "but I'm trying to answer the question"
+  },
+  {
+    "start": "171",
+    "end": "00:13:48,280 --> 00:13:56,280",
+    "text": "how was it to leave the company for which I worked for 9 years and 4 months"
+  },
+  {
+    "start": "172",
+    "end": "00:13:56,280 --> 00:14:01,280",
+    "text": "and I remember it because it was really bad for us"
+  },
+  {
+    "start": "173",
+    "end": "00:14:01,280 --> 00:14:06,280",
+    "text": "because when you gave up irrevocably"
+  },
+  {
+    "start": "174",
+    "end": "00:14:06,280 --> 00:14:16,280",
+    "text": "it seemed like if you had shot him"
+  },
+  {
+    "start": "175",
+    "end": "00:14:16,280 --> 00:14:22,280",
+    "text": "I felt a bit repudiated, I have to admit it"
+  },
+  {
+    "start": "176",
+    "end": "00:14:22,280 --> 00:14:36,280",
+    "text": "and this didn't do me any good, on the contrary, I thought \"well, I was just a number, the number 8\""
+  },
+  {
+    "start": "177",
+    "end": "00:14:36,280 --> 00:14:44,280",
+    "text": "and so it made me realize that yes, we are all \"a big family\""
+  },
+  {
+    "start": "178",
+    "end": "00:14:44,280 --> 00:14:51,620",
+    "text": "but in the end the money you make doesn't go into my pocket"
+  },
+  {
+    "start": "179",
+    "end": "00:14:51,620 --> 00:14:57,620",
+    "text": "and you're a person who has to make money"
+  },
+  {
+    "start": "180",
+    "end": "00:14:57,620 --> 00:15:00,620",
+    "text": "so that's how I felt"
+  },
+  {
+    "start": "181",
+    "end": "00:15:00,620 --> 00:15:04,020",
+    "text": "so it wasn't great, honestly"
+  },
+  {
+    "start": "182",
+    "end": "00:15:04,020 --> 00:15:09,620",
+    "text": "I would have imagined a goodbye where we would hug each other crying"
+  },
+  {
+    "start": "183",
+    "end": "00:15:09,620 --> 00:15:11,620",
+    "text": "\"thank you for the time we spent together\""
+  },
+  {
+    "start": "184",
+    "end": "00:15:11,620 --> 00:15:17,620",
+    "text": "but it wasn't like that, and I'm a bit sorry about that."
+  },
+  {
+    "start": "185",
+    "end": "00:15:17,620 --> 00:15:19,620",
+    "text": "But..."
+  },
+  {
+    "start": "186",
+    "end": "00:15:19,620 --> 00:15:24,620",
+    "text": "Sorry, I'll intervene for a moment, because you said that you gave them irrevocable submissions,"
+  },
+  {
+    "start": "187",
+    "end": "00:15:24,620 --> 00:15:30,620",
+    "text": "so you didn't leave them any space to try and see if they were up to it."
+  },
+  {
+    "start": "188",
+    "end": "00:15:30,620 --> 00:15:33,620",
+    "text": "You already had your idea, you made Ben go for it,"
+  },
+  {
+    "start": "189",
+    "end": "00:15:33,620 --> 00:15:38,620",
+    "text": "so considering the reaction of people, one who sees himself in front of them and says,"
+  },
+  {
+    "start": "190",
+    "end": "00:15:38,620 --> 00:15:40,620",
+    "text": "\"Look, you can do anything, but I'm leaving.\""
+  },
+  {
+    "start": "191",
+    "end": "00:15:40,620 --> 00:15:46,620",
+    "text": "I was invincible because it wasn't a matter of money"
+  },
+  {
+    "start": "192",
+    "end": "00:15:46,620 --> 00:15:53,620",
+    "text": "It's weird to say, but here money didn't matter"
+  },
+  {
+    "start": "193",
+    "end": "00:15:53,620 --> 00:16:01,620",
+    "text": "Only the cool projects I saw during the talks mattered"
+  },
+  {
+    "start": "194",
+    "end": "00:16:01,620 --> 00:16:03,620",
+    "text": "the technological stack was in the way"
+  },
+  {
+    "start": "195",
+    "end": "00:16:03,620 --> 00:16:05,620",
+    "text": "and so"
+  },
+  {
+    "start": "196",
+    "end": "00:16:05,620 --> 00:16:07,620",
+    "text": "everything else was"
+  },
+  {
+    "start": "197",
+    "end": "00:16:07,620 --> 00:16:09,620",
+    "text": "an excuse"
+  },
+  {
+    "start": "198",
+    "end": "00:16:09,620 --> 00:16:11,620",
+    "text": "to not decide"
+  },
+  {
+    "start": "199",
+    "end": "00:16:11,620 --> 00:16:13,620",
+    "text": "to make the big leap"
+  },
+  {
+    "start": "200",
+    "end": "00:16:13,620 --> 00:16:15,620",
+    "text": "Moving forward"
+  },
+  {
+    "start": "201",
+    "end": "00:16:15,620 --> 00:16:17,620",
+    "text": "with the career"
+  },
+  {
+    "start": "202",
+    "end": "00:16:17,620 --> 00:16:19,620",
+    "text": "I wanted to"
+  },
+  {
+    "start": "203",
+    "end": "00:16:19,620 --> 00:16:21,620",
+    "text": "understand for a moment"
+  },
+  {
+    "start": "204",
+    "end": "00:16:21,620 --> 00:16:23,620",
+    "text": "how and what was your first"
+  },
+  {
+    "start": "205",
+    "end": "00:16:23,620 --> 00:16:25,620",
+    "text": "contact"
+  },
+  {
+    "start": "206",
+    "end": "00:16:25,620 --> 00:16:27,620",
+    "text": "with open source"
+  },
+  {
+    "start": "207",
+    "end": "00:16:27,620 --> 00:16:29,620",
+    "text": "the moment you connected the socket"
+  },
+  {
+    "start": "208",
+    "end": "00:16:29,620 --> 00:16:34,620",
+    "text": "\"Ok, now I have to do something, raising my hands, right?\""
+  },
+  {
+    "start": "209",
+    "end": "00:16:34,620 --> 00:16:41,620",
+    "text": "Absolutely. And here too, we are filming in the buzzwords,"
+  },
+  {
+    "start": "210",
+    "end": "00:16:41,620 --> 00:16:47,620",
+    "text": "because we are in this new city, in this new company,"
+  },
+  {
+    "start": "211",
+    "end": "00:16:47,620 --> 00:16:52,620",
+    "text": "in this new adventure, because the technological stack is totally different."
+  },
+  {
+    "start": "212",
+    "end": "00:16:52,620 --> 00:16:58,620",
+    "text": "we are talking about the leap you made from Java with Oracle"
+  },
+  {
+    "start": "213",
+    "end": "00:16:58,620 --> 00:17:04,620",
+    "text": "practically in a banking environment, so really hyper-limited and limiting"
+  },
+  {
+    "start": "214",
+    "end": "00:17:04,620 --> 00:17:12,620",
+    "text": "towards Node.js, MongoDB, Redis and other nice companies"
+  },
+  {
+    "start": "215",
+    "end": "00:17:12,620 --> 00:17:22,620",
+    "text": "and what was the thing that supported me in all this migration journey"
+  },
+  {
+    "start": "216",
+    "end": "00:17:22,620 --> 00:17:32,620",
+    "text": "was the fact that I was in a new city, alone, and so I really spent the nights studying"
+  },
+  {
+    "start": "217",
+    "end": "00:17:32,620 --> 00:17:34,620",
+    "text": "\"Punto\""
+  },
+  {
+    "start": "218",
+    "end": "00:17:34,620 --> 00:17:39,620",
+    "text": "Like a student, I would go there in the morning"
+  },
+  {
+    "start": "219",
+    "end": "00:17:39,620 --> 00:17:44,620",
+    "text": "on some books, some tutorials on YouTube,"
+  },
+  {
+    "start": "220",
+    "end": "00:17:44,620 --> 00:17:49,620",
+    "text": "and buzzwords, motivational videos,"
+  },
+  {
+    "start": "221",
+    "end": "00:17:49,620 --> 00:17:51,620",
+    "text": "as if there was no tomorrow."
+  },
+  {
+    "start": "222",
+    "end": "00:17:51,620 --> 00:17:56,620",
+    "text": "There I learned the impostor syndrome,"
+  },
+  {
+    "start": "223",
+    "end": "00:17:56,620 --> 00:17:59,620",
+    "text": "there I learned a lot of nice things,"
+  },
+  {
+    "start": "224",
+    "end": "00:17:59,620 --> 00:18:10,620",
+    "text": "and we can say that the \"too long, didn't read\" is simply \"tu sei l'unico responsabile della tua formazione\""
+  },
+  {
+    "start": "225",
+    "end": "00:18:10,620 --> 00:18:14,620",
+    "text": "\"non devi demandare all'azienda questa cosa\""
+  },
+  {
+    "start": "226",
+    "end": "00:18:14,620 --> 00:18:19,620",
+    "text": "and that's where I made the first step towards open source"
+  },
+  {
+    "start": "227",
+    "end": "00:18:19,620 --> 00:18:29,620",
+    "text": "I took the holidays, I paid myself, I think, a lot of money, we're talking about 300-500 euros"
+  },
+  {
+    "start": "228",
+    "end": "00:18:29,620 --> 00:18:36,620",
+    "text": "of course, kept by Matteo Collina. This was my first contact with Open Source."
+  },
+  {
+    "start": "229",
+    "end": "00:18:36,620 --> 00:18:43,620",
+    "text": "So it's not a bit like the motivational videos said, just imagine and you'll have it,"
+  },
+  {
+    "start": "230",
+    "end": "00:18:43,620 --> 00:18:48,620",
+    "text": "like The Secret, right? It would be great to take a piece of The Secret and put it in the video,"
+  },
+  {
+    "start": "231",
+    "end": "00:18:48,620 --> 00:18:50,620",
+    "text": "but I'm sure they'll strike it"
+  },
+  {
+    "start": "232",
+    "end": "00:18:50,620 --> 00:18:55,620",
+    "text": "but in the end you opened the wallet"
+  },
+  {
+    "start": "233",
+    "end": "00:18:55,620 --> 00:18:57,620",
+    "text": "armed with patience and guts"
+  },
+  {
+    "start": "234",
+    "end": "00:18:57,620 --> 00:18:59,620",
+    "text": "and you said to yourself"
+  },
+  {
+    "start": "235",
+    "end": "00:18:59,620 --> 00:19:03,620",
+    "text": "\"ok, now I start\""
+  },
+  {
+    "start": "236",
+    "end": "00:19:03,620 --> 00:19:11,620",
+    "text": "Is this the first merge request or is this the one you want?"
+  },
+  {
+    "start": "237",
+    "end": "00:19:11,620 --> 00:19:21,620",
+    "text": "This is nice, because I did it on December 24th, 2018, if I remember correctly"
+  },
+  {
+    "start": "238",
+    "end": "00:19:21,620 --> 00:19:25,620",
+    "text": "You even remember the time, at this point"
+  },
+  {
+    "start": "239",
+    "end": "00:19:25,620 --> 00:19:28,620",
+    "text": "We can check on Github if it's true"
+  },
+  {
+    "start": "240",
+    "end": "00:19:28,620 --> 00:19:30,620",
+    "text": "Towards the evening, if I remember correctly"
+  },
+  {
+    "start": "241",
+    "end": "00:19:30,620 --> 00:19:35,620",
+    "text": "This was the first real pull request towards Fastify, if I remember correctly"
+  },
+  {
+    "start": "242",
+    "end": "00:19:35,620 --> 00:19:45,620",
+    "text": "So I let you imagine the fantastic evenings that we spent together"
+  },
+  {
+    "start": "243",
+    "end": "00:19:45,620 --> 00:19:48,620",
+    "text": "How did you get to this PURE QUEST?"
+  },
+  {
+    "start": "244",
+    "end": "00:19:48,620 --> 00:19:53,620",
+    "text": "Because everyone says \"take a good first issue\""
+  },
+  {
+    "start": "245",
+    "end": "00:19:53,620 --> 00:19:56,620",
+    "text": "Exactly, a simple good first issue, but you get pissed off"
+  },
+  {
+    "start": "246",
+    "end": "00:19:56,620 --> 00:20:02,140",
+    "text": "Every time you go to get it, how many times I write to myself in private and I tell him take a"
+  },
+  {
+    "start": "247",
+    "end": "00:20:02,140 --> 00:20:05,780",
+    "text": "Good first issue first good issue"
+  },
+  {
+    "start": "248",
+    "end": "00:20:05,780 --> 00:20:13,260",
+    "text": "We mix the words as you want to say it, but every time I suggest this the answer I get is"
+  },
+  {
+    "start": "249",
+    "end": "00:20:13,260 --> 00:20:19,620",
+    "text": "Well, my friends, but all the good first issue have a comment below, can I take it?"
+  },
+  {
+    "start": "250",
+    "end": "00:20:19,620 --> 00:20:24,140",
+    "text": "Yes, and they are almost all taken and in the end"
+  },
+  {
+    "start": "251",
+    "end": "00:20:24,500 --> 00:20:29,500",
+    "text": "Yes, it's easy to say, but 90% of the cases don't work."
+  },
+  {
+    "start": "252",
+    "end": "00:20:29,500 --> 00:20:31,500",
+    "text": "Sorry, this is my bold opinion."
+  },
+  {
+    "start": "253",
+    "end": "00:20:31,500 --> 00:20:38,500",
+    "text": "No, no, so, it's true, there are also many who say \"I'll do it and you'll never see them again\""
+  },
+  {
+    "start": "254",
+    "end": "00:20:38,500 --> 00:20:46,500",
+    "text": "and then the concept is \"take it and do it\" without being here to threaten the camperlaya."
+  },
+  {
+    "start": "255",
+    "end": "00:20:46,500 --> 00:21:01,500",
+    "text": "I know, but at that point Galatea comes in. I want to get to the concept of Galatea, of open source, because it's something that is very close to my heart. Sorry if I interrupt you."
+  },
+  {
+    "start": "256",
+    "end": "00:21:01,500 --> 00:21:08,500",
+    "text": "No, no, no, go easy, go easy. I'll answer the previous question first, otherwise I'll lose it."
+  },
+  {
+    "start": "257",
+    "end": "00:21:08,500 --> 00:21:14,500",
+    "text": "So, what was the engine for the first pull request?"
+  },
+  {
+    "start": "258",
+    "end": "00:21:14,500 --> 00:21:18,500",
+    "text": "Always at the course of Matteo Collina."
+  },
+  {
+    "start": "259",
+    "end": "00:21:18,500 --> 00:21:27,500",
+    "text": "In the end, he did teach me a lot of things about Node.js, how it works, etc."
+  },
+  {
+    "start": "260",
+    "end": "00:21:27,500 --> 00:21:38,780",
+    "text": "but in the breaks, listening to his stories, listening to his sentences, even banal questions"
+  },
+  {
+    "start": "261",
+    "end": "00:21:38,780 --> 00:21:45,180",
+    "text": "but that basically destroy all the opinion you have of yourself"
+  },
+  {
+    "start": "262",
+    "end": "00:21:45,180 --> 00:21:52,860",
+    "text": "because obviously there was a moment of sharing on the group, of the studio"
+  },
+  {
+    "start": "263",
+    "end": "00:21:52,860 --> 00:21:58,460",
+    "text": "in which many people were complaining about the company"
+  },
+  {
+    "start": "264",
+    "end": "00:21:58,460 --> 00:22:04,460",
+    "text": "many, not all, but several people were there self-financing"
+  },
+  {
+    "start": "265",
+    "end": "00:22:04,460 --> 00:22:11,460",
+    "text": "and so they said \"my company thinks it doesn't need this, it thinks it doesn't need that other\""
+  },
+  {
+    "start": "266",
+    "end": "00:22:11,460 --> 00:22:14,460",
+    "text": "and Matteo said \"why are you still there?\""
+  },
+  {
+    "start": "267",
+    "end": "00:22:14,460 --> 00:22:21,460",
+    "text": "\"I don't know how to change, I'm graduating, I have to plan\""
+  },
+  {
+    "start": "268",
+    "end": "00:22:21,460 --> 00:22:28,460",
+    "text": "1000 excuses of answer and he says and Matteo answers"
+  },
+  {
+    "start": "269",
+    "end": "00:22:28,460 --> 00:22:36,460",
+    "text": "\"Look, you can start to get some experience in open source, so you have the possibility to find mentors"
+  },
+  {
+    "start": "270",
+    "end": "00:22:36,460 --> 00:22:45,460",
+    "text": "because if in your company you are the best and you don't have the opportunity to change in a better company"
+  },
+  {
+    "start": "271",
+    "end": "00:22:45,460 --> 00:22:56,460",
+    "text": "You are surely blocked for the fact of mentoring. Go to the open source, you will find some maintainer that will lead you by the hand."
+  },
+  {
+    "start": "272",
+    "end": "00:22:56,460 --> 00:23:02,460",
+    "text": "And above all, how to start? Start from the issues that no one wants to do."
+  },
+  {
+    "start": "273",
+    "end": "00:23:02,460 --> 00:23:07,460",
+    "text": "Don't worry, you will receive loads non-stop."
+  },
+  {
+    "start": "274",
+    "end": "00:23:07,460 --> 00:23:13,460",
+    "text": "And so my first pull request is the documentation. Documentation as if there was no tomorrow."
+  },
+  {
+    "start": "275",
+    "end": "00:23:13,460 --> 00:23:16,460",
+    "text": "[Italian]"
+  },
+  {
+    "start": "276",
+    "end": "00:23:16,460 --> 00:23:22,980",
+    "text": "From what you were representing, you created the image"
+  },
+  {
+    "start": "277",
+    "end": "00:23:22,980 --> 00:23:26,640",
+    "text": "Today I'm caustic, be patient"
+  },
+  {
+    "start": "278",
+    "end": "00:23:26,640 --> 00:23:31,380",
+    "text": "I know you, I love you Manuel, so I can afford it with you"
+  },
+  {
+    "start": "279",
+    "end": "00:23:31,380 --> 00:23:39,300",
+    "text": "You represented, you represent, I always represent the maintainers, the contributors"
+  },
+  {
+    "start": "280",
+    "end": "00:23:39,820 --> 00:23:44,020",
+    "text": "Open Source is like San Francesco or Santa Rita,"
+  },
+  {
+    "start": "281",
+    "end": "00:23:44,020 --> 00:23:48,020",
+    "text": "which take you by the hand in the magical world of Open Source."
+  },
+  {
+    "start": "282",
+    "end": "00:23:48,020 --> 00:23:52,220",
+    "text": "Actually, every time I did Open Source,"
+  },
+  {
+    "start": "283",
+    "end": "00:23:52,220 --> 00:23:55,220",
+    "text": "maintaining, rather than taking me by the hand, was given to me by ciphones."
+  },
+  {
+    "start": "284",
+    "end": "00:23:55,220 --> 00:23:58,020",
+    "text": "And ciphones that were also quite powerful."
+  },
+  {
+    "start": "285",
+    "end": "00:23:58,020 --> 00:24:04,420",
+    "text": "Important ciphones, but still ciphones."
+  },
+  {
+    "start": "286",
+    "end": "00:24:04,420 --> 00:24:12,420",
+    "text": "On the other hand, I understand that for a maintainer, for a core contributor,"
+  },
+  {
+    "start": "287",
+    "end": "00:24:12,420 --> 00:24:16,420",
+    "text": "a fixed presence, that you read the Emerge Requests,"
+  },
+  {
+    "start": "288",
+    "end": "00:24:16,420 --> 00:24:22,420",
+    "text": "and it filters among tens, if not hundreds of \"puttanate\" that people write,"
+  },
+  {
+    "start": "289",
+    "end": "00:24:22,420 --> 00:24:29,420",
+    "text": "it becomes difficult to keep a certain lucidity,"
+  },
+  {
+    "start": "290",
+    "end": "00:24:29,420 --> 00:24:34,820",
+    "text": "and always be the San Francesco or the saint of the situation."
+  },
+  {
+    "start": "291",
+    "end": "00:24:34,820 --> 00:24:44,320",
+    "text": "So, actually, often times, we see answers that are not really soft,"
+  },
+  {
+    "start": "292",
+    "end": "00:24:44,320 --> 00:24:47,320",
+    "text": "that, I repeat, have their importance."
+  },
+  {
+    "start": "293",
+    "end": "00:24:47,320 --> 00:24:52,820",
+    "text": "So I wanted for a moment to move to the concept of the contributor and the maintainer,"
+  },
+  {
+    "start": "294",
+    "end": "00:24:52,820 --> 00:24:56,320",
+    "text": "the figure of the contributor and the maintainer."
+  },
+  {
+    "start": "295",
+    "end": "00:24:56,320 --> 00:25:03,920",
+    "text": "I've noticed that you're always present in the threads of the Emerging Quests and the Ishu"
+  },
+  {
+    "start": "296",
+    "end": "00:25:03,920 --> 00:25:06,320",
+    "text": "You're quite active from that point of view"
+  },
+  {
+    "start": "297",
+    "end": "00:25:06,320 --> 00:25:11,920",
+    "text": "How do you keep a certain lucidity?"
+  },
+  {
+    "start": "298",
+    "end": "00:25:11,920 --> 00:25:22,320",
+    "text": "So, the first question I'm asking you, which is more of a provocation"
+  },
+  {
+    "start": "299",
+    "end": "00:25:22,320 --> 00:25:28,720",
+    "text": "\"Did those slaps you received were instructive or not?\""
+  },
+  {
+    "start": "300",
+    "end": "00:25:28,720 --> 00:25:34,320",
+    "text": "This is something that one should ask oneself"
+  },
+  {
+    "start": "301",
+    "end": "00:25:34,320 --> 00:25:42,320",
+    "text": "And anyway, yes, you need to have a bit of hair on your stomach"
+  },
+  {
+    "start": "302",
+    "end": "00:25:42,320 --> 00:25:46,320",
+    "text": "to allow me this \"sillogismo\""
+  },
+  {
+    "start": "303",
+    "end": "00:25:46,320 --> 00:25:50,320",
+    "text": "Basically, it depends a lot on the personality"
+  },
+  {
+    "start": "304",
+    "end": "00:25:50,320 --> 00:25:53,320",
+    "text": "I, for example, am not the type of person who gets it"
+  },
+  {
+    "start": "305",
+    "end": "00:25:53,320 --> 00:25:55,320",
+    "text": "I'm really..."
+  },
+  {
+    "start": "306",
+    "end": "00:25:55,320 --> 00:25:58,320",
+    "text": "quite... I mean, you can tell me anything"
+  },
+  {
+    "start": "307",
+    "end": "00:25:58,320 --> 00:26:00,320",
+    "text": "and I don't care"
+  },
+  {
+    "start": "308",
+    "end": "00:26:00,320 --> 00:26:05,320",
+    "text": "and I definitely noticed that in open source"
+  },
+  {
+    "start": "309",
+    "end": "00:26:05,320 --> 00:26:09,320",
+    "text": "the more a person has repositories"
+  },
+  {
+    "start": "310",
+    "end": "00:26:09,320 --> 00:26:17,320",
+    "text": "the more he tends to reduce the number of words he uses during the review"
+  },
+  {
+    "start": "311",
+    "end": "00:26:17,320 --> 00:26:32,840",
+    "text": "But I learned that, by concentrating carefully, I read the reviews that were made 2000 times, I searched, I documented myself and I learned"
+  },
+  {
+    "start": "312",
+    "end": "00:26:32,840 --> 00:26:44,200",
+    "text": "I didn't take for granted \"look, he's telling me that he doesn't want my code, he's telling me that this if doesn't work\" etc."
+  },
+  {
+    "start": "313",
+    "end": "00:26:44,200 --> 00:26:54,200",
+    "text": "I'm learning to relate better with people, with \"superiors\""
+  },
+  {
+    "start": "314",
+    "end": "00:26:54,200 --> 00:27:04,200",
+    "text": "because if we relate this dialogue as if it were a job"
+  },
+  {
+    "start": "315",
+    "end": "00:27:04,200 --> 00:27:13,200",
+    "text": "you have a higher level, a person who is telling you to correct the code you wrote"
+  },
+  {
+    "start": "316",
+    "end": "00:27:13,200 --> 00:27:25,600",
+    "text": "and so, in my opinion, thanks to their being chaotic sometimes, which then, being chaotic, never offends the person"
+  },
+  {
+    "start": "317",
+    "end": "00:27:25,600 --> 00:27:30,640",
+    "text": "they write to you \"look, here the code is not right, here I would do it in another way\""
+  },
+  {
+    "start": "318",
+    "end": "00:27:30,640 --> 00:27:37,840",
+    "text": "nothing transcendental, surely the fourth time you make a pull request, they turn you a bit"
+  },
+  {
+    "start": "319",
+    "end": "00:27:37,840 --> 00:27:43,440",
+    "text": "but every time you rewrite it, you rewrite it better and better"
+  },
+  {
+    "start": "320",
+    "end": "00:27:43,440 --> 00:27:47,240",
+    "text": "and this approach then, you bring it to work"
+  },
+  {
+    "start": "321",
+    "end": "00:27:47,240 --> 00:27:54,640",
+    "text": "and learning communication in the world of work is very important"
+  },
+  {
+    "start": "322",
+    "end": "00:27:54,640 --> 00:28:03,240",
+    "text": "so contributing to open source has made my shoulders wide and even more solid"
+  },
+  {
+    "start": "323",
+    "end": "00:28:03,240 --> 00:28:11,560",
+    "text": "and all this interaction I bring it to work and it benefits the same work"
+  },
+  {
+    "start": "324",
+    "end": "00:28:11,560 --> 00:28:20,120",
+    "text": "because I learned that when you have a maintainer that presents a bug without the code to replicate it, for example"
+  },
+  {
+    "start": "325",
+    "end": "00:28:20,120 --> 00:28:24,840",
+    "text": "the maintainer says \"look, bye\" and closes it immediately"
+  },
+  {
+    "start": "326",
+    "end": "00:28:24,840 --> 00:28:28,600",
+    "text": "but they do it like that also on StarCoverFlow, in parentheses"
+  },
+  {
+    "start": "327",
+    "end": "00:28:28,600 --> 00:28:35,100",
+    "text": "The fact is that if I open a bug I get good answers"
+  },
+  {
+    "start": "328",
+    "end": "00:28:35,100 --> 00:28:36,600",
+    "text": "Same thing at work"
+  },
+  {
+    "start": "329",
+    "end": "00:28:36,600 --> 00:28:41,100",
+    "text": "If I ask for help and I say what I did, how I did it"
+  },
+  {
+    "start": "330",
+    "end": "00:28:41,100 --> 00:28:48,100",
+    "text": "and providing the code that makes sense to exist"
+  },
+  {
+    "start": "331",
+    "end": "00:28:48,100 --> 00:28:52,100",
+    "text": "I get smart answers"
+  },
+  {
+    "start": "332",
+    "end": "00:28:52,100 --> 00:28:54,600",
+    "text": "or I get coherent answers"
+  },
+  {
+    "start": "333",
+    "end": "00:28:54,600 --> 00:28:59,840",
+    "text": "Otherwise, try to reinstall and restart the PC"
+  },
+  {
+    "start": "334",
+    "end": "00:28:59,840 --> 00:29:01,840",
+    "text": "Let's finish there"
+  },
+  {
+    "start": "335",
+    "end": "00:29:01,840 --> 00:29:03,840",
+    "text": "I'm inserting myself with a motivational sentence"
+  },
+  {
+    "start": "336",
+    "end": "00:29:03,840 --> 00:29:07,440",
+    "text": "that if you want to have more, you have to give more"
+  },
+  {
+    "start": "337",
+    "end": "00:29:07,440 --> 00:29:11,520",
+    "text": "If you want to have better answers, you have to ask better questions"
+  },
+  {
+    "start": "338",
+    "end": "00:29:11,520 --> 00:29:16,480",
+    "text": "And then I also wanted to express a thought about the fact that even if the maintainer"
+  },
+  {
+    "start": "339",
+    "end": "00:29:16,480 --> 00:29:23,120",
+    "text": "who has this relationship, how to say, is the boss of the repository"
+  },
+  {
+    "start": "340",
+    "end": "00:29:23,120 --> 00:29:32,720",
+    "text": "Even if it doesn't answer you, it tries to answer you, but it doesn't answer 100 people in the same day."
+  },
+  {
+    "start": "341",
+    "end": "00:29:32,720 --> 00:29:33,720",
+    "text": "And it does it anyway."
+  },
+  {
+    "start": "342",
+    "end": "00:29:33,720 --> 00:29:42,120",
+    "text": "It's a stressful job for him, but for the project, we have to admit that we're not the only ones contributing to it."
+  },
+  {
+    "start": "343",
+    "end": "00:29:42,120 --> 00:29:46,520",
+    "text": "This person does it, so if he spends time, even the least amount of time,"
+  },
+  {
+    "start": "344",
+    "end": "00:29:46,520 --> 00:29:48,120",
+    "text": "for which he writes you \"bye\" and closes the door,"
+  },
+  {
+    "start": "345",
+    "end": "00:29:48,120 --> 00:29:52,520",
+    "text": "he sees it and says \"next time I'll do better because I want to improve the job\"."
+  },
+  {
+    "start": "346",
+    "end": "00:29:52,520 --> 00:29:55,020",
+    "text": "so I think this thought is also included."
+  },
+  {
+    "start": "347",
+    "end": "00:29:55,020 --> 00:30:00,520",
+    "text": "I wanted to make a note for those who are listening to us"
+  },
+  {
+    "start": "348",
+    "end": "00:30:00,520 --> 00:30:06,020",
+    "text": "or are watching us, it's nice that this season the viewers are watching us,"
+  },
+  {
+    "start": "349",
+    "end": "00:30:06,020 --> 00:30:10,520",
+    "text": "who are maybe interested in making their first contribution"
+  },
+  {
+    "start": "350",
+    "end": "00:30:10,520 --> 00:30:14,020",
+    "text": "but are a little scared by this situation,"
+  },
+  {
+    "start": "351",
+    "end": "00:30:14,020 --> 00:30:17,520",
+    "text": "no one is going to eat you, in the sense that"
+  },
+  {
+    "start": "352",
+    "end": "00:30:17,520 --> 00:30:25,120",
+    "text": "Every project, every repo, every community is the mirror of our human interactions."
+  },
+  {
+    "start": "353",
+    "end": "00:30:25,120 --> 00:30:33,320",
+    "text": "There are places, there are places, there are moments where it is possible to have a type of communication"
+  },
+  {
+    "start": "354",
+    "end": "00:30:33,320 --> 00:30:40,720",
+    "text": "that is even more welcoming for those who are starting."
+  },
+  {
+    "start": "355",
+    "end": "00:30:40,720 --> 00:30:47,120",
+    "text": "There are maybe those days when you can do better, those days when you can do worse."
+  },
+  {
+    "start": "356",
+    "end": "00:30:47,120 --> 00:30:53,520",
+    "text": "It was the right thing to do to make a point to go in that rhetoric"
+  },
+  {
+    "start": "357",
+    "end": "00:30:53,520 --> 00:31:03,920",
+    "text": "so it's right if they answer you badly because \"oh well, but I'm doing the validation library that you use and you didn't write it yourself\""
+  },
+  {
+    "start": "358",
+    "end": "00:31:03,920 --> 00:31:13,280",
+    "text": "and so ok, they are legitimate to do this thing, in the sense that they are a stupid person and stupid even if you have repositories with 15,000 stars"
+  },
+  {
+    "start": "359",
+    "end": "00:31:13,280 --> 00:31:18,280",
+    "text": "I heard you are a Storvald somewhere"
+  },
+  {
+    "start": "360",
+    "end": "00:31:18,280 --> 00:31:28,280",
+    "text": "No, no, my thing is a general thing, I mean, try us, if you don't like it, you have the chance to not like it too"
+  },
+  {
+    "start": "361",
+    "end": "00:31:28,280 --> 00:31:40,280",
+    "text": "Actually, I mentioned the concept of community because I wanted to connect to another thing, plus a question"
+  },
+  {
+    "start": "362",
+    "end": "00:31:40,280 --> 00:31:58,280",
+    "text": "I always have the impression that, if I have to choose a project that I want to follow, that I want to contribute, but also more extreme, that I want to use or not use,"
+  },
+  {
+    "start": "363",
+    "end": "00:31:58,280 --> 00:32:02,780",
+    "text": "for me it's very important, the type of community that you bring behind."
+  },
+  {
+    "start": "364",
+    "end": "00:32:02,780 --> 00:32:09,780",
+    "text": "By type of community I mean the type of communication that happens in the community,"
+  },
+  {
+    "start": "365",
+    "end": "00:32:09,780 --> 00:32:17,780",
+    "text": "how the controversies are resolved, the various processes for which you can bring your idea to be an idea,"
+  },
+  {
+    "start": "366",
+    "end": "00:32:17,780 --> 00:32:23,780",
+    "text": "let's say, maybe to RFC, to implementation, etc."
+  },
+  {
+    "start": "367",
+    "end": "00:32:23,780 --> 00:32:41,780",
+    "text": "and I noticed that often and willingly the proactivity of the community and the expectations of the community can differ"
+  },
+  {
+    "start": "368",
+    "end": "00:32:41,780 --> 00:32:51,060",
+    "text": "how do you manage, or how do you advise to manage the expectations of the company itself?"
+  },
+  {
+    "start": "369",
+    "end": "00:32:51,060 --> 00:32:57,020",
+    "text": "Because then, in a sense, you still enter that dynamic of social pressure of your peers,"
+  },
+  {
+    "start": "370",
+    "end": "00:32:57,020 --> 00:33:04,140",
+    "text": "or at least in this case, let's say, of your clients, if we want to call them that,"
+  },
+  {
+    "start": "371",
+    "end": "00:33:04,140 --> 00:33:06,340",
+    "text": "who obviously have expectations."
+  },
+  {
+    "start": "372",
+    "end": "00:33:06,340 --> 00:33:13,140",
+    "text": "and it's difficult to convey what's behind satisfying that expectation"
+  },
+  {
+    "start": "373",
+    "end": "00:33:13,140 --> 00:33:21,860",
+    "text": "because maybe the person is lucky and can contribute to that project as part of their work"
+  },
+  {
+    "start": "374",
+    "end": "00:33:21,860 --> 00:33:26,100",
+    "text": "so they are actually paid for a certain amount of hours that they can dedicate to that thing"
+  },
+  {
+    "start": "375",
+    "end": "00:33:26,100 --> 00:33:31,860",
+    "text": "and that's one of the sweet spots that you can reach"
+  },
+  {
+    "start": "376",
+    "end": "00:33:31,860 --> 00:33:42,600",
+    "text": "or maybe it's developing in the free time and so actually receiving a certain kind of pressure is not really a good thing"
+  },
+  {
+    "start": "377",
+    "end": "00:33:42,600 --> 00:33:47,800",
+    "text": "How do you relate to this and if you have any advice to give us?"
+  },
+  {
+    "start": "378",
+    "end": "00:33:47,800 --> 00:33:56,680",
+    "text": "So, I'll start with the simplest thing, that is, the quality of the community"
+  },
+  {
+    "start": "379",
+    "end": "00:33:56,680 --> 00:34:07,680",
+    "text": "I'll give you an example, at the moment, on active contributors, which are part of the Fastify collaborators,"
+  },
+  {
+    "start": "380",
+    "end": "00:34:07,680 --> 00:34:17,680",
+    "text": "there's a maintainer that's a bit sarcastic, for example, when they get questions that are a bit silly."
+  },
+  {
+    "start": "381",
+    "end": "00:34:17,680 --> 00:34:28,080",
+    "text": "Also here, I say it in the first person, when I see messages that are not healthy"
+  },
+  {
+    "start": "382",
+    "end": "00:34:28,080 --> 00:34:33,680",
+    "text": "or at least can be misunderstood by a person who asked a question"
+  },
+  {
+    "start": "383",
+    "end": "00:34:33,680 --> 00:34:41,280",
+    "text": "\"but why did you release this thing? It broke my whole production and I'm angry about it\""
+  },
+  {
+    "start": "384",
+    "end": "00:34:41,280 --> 00:34:49,280",
+    "text": "Also there, you don't have to take the anger of the people who write to you and throw it back"
+  },
+  {
+    "start": "385",
+    "end": "00:34:49,280 --> 00:34:54,280",
+    "text": "you have to teach respect to the person who is writing to you"
+  },
+  {
+    "start": "386",
+    "end": "00:34:54,280 --> 00:35:03,280",
+    "text": "and so I have some messages, simply prefacts, in which I quote the mid-license"
+  },
+  {
+    "start": "387",
+    "end": "00:35:03,280 --> 00:35:17,280",
+    "text": "and you also try to train other contributors so that they spread good intentions in the environment"
+  },
+  {
+    "start": "388",
+    "end": "00:35:17,280 --> 00:35:22,160",
+    "text": "and so you try to train this person who got angry"
+  },
+  {
+    "start": "389",
+    "end": "00:35:22,160 --> 00:35:27,960",
+    "text": "by saying \"look, if you're in production and I broke everything,"
+  },
+  {
+    "start": "390",
+    "end": "00:35:27,960 --> 00:35:33,320",
+    "text": "it means you're not working with a package lock\""
+  },
+  {
+    "start": "391",
+    "end": "00:35:33,320 --> 00:35:37,520",
+    "text": "and so you train them, you respond to hate with love"
+  },
+  {
+    "start": "392",
+    "end": "00:35:37,520 --> 00:35:41,120",
+    "text": "and this usually always pays off in the long run"
+  },
+  {
+    "start": "393",
+    "end": "00:35:41,120 --> 00:35:48,120",
+    "text": "There are maintainers that don't have time and don't answer, simply."
+  },
+  {
+    "start": "394",
+    "end": "00:35:48,120 --> 00:35:59,120",
+    "text": "I instead have the time for a link, so I always try to give, to form, to be useful if I comment."
+  },
+  {
+    "start": "395",
+    "end": "00:35:59,120 --> 00:36:10,620",
+    "text": "instead, but this is me now, in December I will be 5 years old as a contributor to Open Source"
+  },
+  {
+    "start": "396",
+    "end": "00:36:10,620 --> 00:36:17,620",
+    "text": "so I'm now a veteran, not to say a senior in this environment"
+  },
+  {
+    "start": "397",
+    "end": "00:36:17,620 --> 00:36:20,120",
+    "text": "you're a senior, right?"
+  },
+  {
+    "start": "398",
+    "end": "00:36:20,120 --> 00:36:22,620",
+    "text": "a little bit, yes"
+  },
+  {
+    "start": "399",
+    "end": "00:36:22,620 --> 00:36:34,620",
+    "text": "At the beginning of my \"career\" I felt all the pressure you mentioned"
+  },
+  {
+    "start": "400",
+    "end": "00:36:34,620 --> 00:36:45,620",
+    "text": "because in the first months of 2019 I made important changes to the validation part of Fastify"
+  },
+  {
+    "start": "401",
+    "end": "00:36:45,620 --> 00:36:49,620",
+    "text": "I can say that I did all the validation part of Fastify"
+  },
+  {
+    "start": "402",
+    "end": "00:36:49,620 --> 00:36:52,620",
+    "text": "Or better, I rewrote it, sorry"
+  },
+  {
+    "start": "403",
+    "end": "00:36:52,620 --> 00:36:55,620",
+    "text": "Thomas from Vedova wrote it"
+  },
+  {
+    "start": "404",
+    "end": "00:36:55,620 --> 00:36:59,620",
+    "text": "And then I refactored it on top"
+  },
+  {
+    "start": "405",
+    "end": "00:36:59,620 --> 00:37:02,620",
+    "text": "And then I rewrote it in parts"
+  },
+  {
+    "start": "406",
+    "end": "00:37:02,620 --> 00:37:06,620",
+    "text": "So, the first bugs"
+  },
+  {
+    "start": "407",
+    "end": "00:37:06,620 --> 00:37:09,620",
+    "text": "For me, I lost my hair"
+  },
+  {
+    "start": "408",
+    "end": "00:37:09,620 --> 00:37:13,620",
+    "text": "Because people wrote \"oh, it's not working anymore\""
+  },
+  {
+    "start": "409",
+    "end": "00:37:13,620 --> 00:37:17,620",
+    "text": "\"Why did it go up before? It's not going up anymore, what the hell did you do?\""
+  },
+  {
+    "start": "410",
+    "end": "00:37:17,620 --> 00:37:19,620",
+    "text": "And I felt guilty"
+  },
+  {
+    "start": "411",
+    "end": "00:37:19,620 --> 00:37:23,620",
+    "text": "And I had transformed my evenings"
+  },
+  {
+    "start": "412",
+    "end": "00:37:23,620 --> 00:37:27,620",
+    "text": "Maybe I had a free evening per week to watch a movie"
+  },
+  {
+    "start": "413",
+    "end": "00:37:27,620 --> 00:37:33,620",
+    "text": "No, I was up all night to fix that bug that I had caused"
+  },
+  {
+    "start": "414",
+    "end": "00:37:33,620 --> 00:37:35,620",
+    "text": "I felt guilty"
+  },
+  {
+    "start": "415",
+    "end": "00:37:35,620 --> 00:37:42,620",
+    "text": "It's like, I don't know, damaging a public property"
+  },
+  {
+    "start": "416",
+    "end": "00:37:42,620 --> 00:37:48,140",
+    "text": "you get anxious and try to repair it in some way"
+  },
+  {
+    "start": "417",
+    "end": "00:37:48,140 --> 00:37:52,300",
+    "text": "and this is not healthy, it's not healthy at all"
+  },
+  {
+    "start": "418",
+    "end": "00:37:52,300 --> 00:38:01,340",
+    "text": "I haven't reached the extreme level where people would maybe taunt me on social media"
+  },
+  {
+    "start": "419",
+    "end": "00:38:01,340 --> 00:38:08,220",
+    "text": "- but still - no, I don't think we'll get to that point"
+  },
+  {
+    "start": "420",
+    "end": "00:38:08,220 --> 00:38:16,700",
+    "text": "but surely some emails that said \"hey look, I have this issue, what do we do?\""
+  },
+  {
+    "start": "421",
+    "end": "00:38:16,700 --> 00:38:24,900",
+    "text": "so there was this feeling of debt towards the community"
+  },
+  {
+    "start": "422",
+    "end": "00:38:24,900 --> 00:38:33,300",
+    "text": "so maybe you had some experiences that you saw as third party"
+  },
+  {
+    "start": "423",
+    "end": "00:38:33,300 --> 00:38:37,480",
+    "text": "of burnout related to this topic here"
+  },
+  {
+    "start": "424",
+    "end": "00:38:37,480 --> 00:38:42,320",
+    "text": "because I imagine it can be a consequence"
+  },
+  {
+    "start": "425",
+    "end": "00:38:42,320 --> 00:38:47,280",
+    "text": "and then, in your opinion, another question like this, maybe this one too"
+  },
+  {
+    "start": "426",
+    "end": "00:38:47,280 --> 00:38:49,880",
+    "text": "a bit like this"
+  },
+  {
+    "start": "427",
+    "end": "00:38:49,880 --> 00:38:56,880",
+    "text": "the fact of being able to work and spend part of your working day"
+  },
+  {
+    "start": "428",
+    "end": "00:38:56,880 --> 00:39:00,400",
+    "text": "or work for an open source project"
+  },
+  {
+    "start": "429",
+    "end": "00:39:00,400 --> 00:39:04,400",
+    "text": "so being paid to do a certain thing"
+  },
+  {
+    "start": "430",
+    "end": "00:39:04,400 --> 00:39:10,400",
+    "text": "does it make you feel, or do you think it could make you feel less of this kind of pressure?"
+  },
+  {
+    "start": "431",
+    "end": "00:39:10,400 --> 00:39:16,400",
+    "text": "Like, \"ok, it's my job, I created a bug, I'll fix it tomorrow morning\""
+  },
+  {
+    "start": "432",
+    "end": "00:39:16,400 --> 00:39:23,400",
+    "text": "So, to quote a story, without saying names and surnames"
+  },
+  {
+    "start": "433",
+    "end": "00:39:23,400 --> 00:39:31,400",
+    "text": "they kept forcing me to do something"
+  },
+  {
+    "start": "434",
+    "end": "00:39:31,400 --> 00:39:45,400",
+    "text": "saying \"I have this pack, you haven't closed it yet, if you don't fix it I'll be fired, I have a family, I have kids, they won't be able to eat, what will I do? It's your fault\""
+  },
+  {
+    "start": "435",
+    "end": "00:39:45,400 --> 00:39:48,920",
+    "text": "but they told me this kind of stories"
+  },
+  {
+    "start": "436",
+    "end": "00:39:48,920 --> 00:39:54,720",
+    "text": "and so, receiving this kind of email..."
+  },
+  {
+    "start": "437",
+    "end": "00:39:54,720 --> 00:39:59,040",
+    "text": "I don't even want to think about it, luckily it didn't happen to me"
+  },
+  {
+    "start": "438",
+    "end": "00:39:59,040 --> 00:40:01,440",
+    "text": "because otherwise I don't know how I would react"
+  },
+  {
+    "start": "439",
+    "end": "00:40:01,440 --> 00:40:10,560",
+    "text": "but it's there that you understand that you have to \"get off\" the \"you\" person"
+  },
+  {
+    "start": "440",
+    "end": "00:40:10,560 --> 00:40:18,560",
+    "text": "and therefore your needs, your free time and your day"
+  },
+  {
+    "start": "441",
+    "end": "00:40:18,560 --> 00:40:21,560",
+    "text": "with the problems of others"
+  },
+  {
+    "start": "442",
+    "end": "00:40:21,560 --> 00:40:27,560",
+    "text": "Sometimes it's good to remember that you can't save the world every day"
+  },
+  {
+    "start": "443",
+    "end": "00:40:27,560 --> 00:40:32,560",
+    "text": "This is definitely something to remember"
+  },
+  {
+    "start": "444",
+    "end": "00:40:32,560 --> 00:40:36,560",
+    "text": "It's an open source project"
+  },
+  {
+    "start": "445",
+    "end": "00:40:36,560 --> 00:40:46,060",
+    "text": "and if you have a bug, maybe the previous version works, it does the pin of the dependency"
+  },
+  {
+    "start": "446",
+    "end": "00:40:46,060 --> 00:40:53,060",
+    "text": "at most you become an expert in suggesting workarounds, let's say"
+  },
+  {
+    "start": "447",
+    "end": "00:40:53,060 --> 00:41:01,060",
+    "text": "you do the eye, or maybe you even suggest the approach to solve"
+  },
+  {
+    "start": "448",
+    "end": "00:41:01,060 --> 00:41:08,560",
+    "text": "in a constructive way to receive a better feedback from the community"
+  },
+  {
+    "start": "449",
+    "end": "00:41:08,560 --> 00:41:12,560",
+    "text": "rather than only bad emotions."
+  },
+  {
+    "start": "450",
+    "end": "00:41:12,560 --> 00:41:19,560",
+    "text": "I want to ask you a question, shifting a bit to the side,"
+  },
+  {
+    "start": "451",
+    "end": "00:41:19,560 --> 00:41:27,560",
+    "text": "returning to the concept of contribution and speech on contributions."
+  },
+  {
+    "start": "452",
+    "end": "00:41:27,560 --> 00:41:35,560",
+    "text": "I don't know, I'm getting a little detached in the thread, but I think it's ok."
+  },
+  {
+    "start": "453",
+    "end": "00:41:35,560 --> 00:41:42,560",
+    "text": "What do you think, since I know you're also quite active on Stack Overflow,"
+  },
+  {
+    "start": "454",
+    "end": "00:41:42,560 --> 00:41:55,560",
+    "text": "what do you think is the difference between a commented issue and a thread on Stack Overflow?"
+  },
+  {
+    "start": "455",
+    "end": "00:41:55,560 --> 00:41:59,560",
+    "text": "Often, there's no difference."
+  },
+  {
+    "start": "456",
+    "end": "00:41:59,560 --> 00:42:06,560",
+    "text": "I mean, I add a variable to your speech,"
+  },
+  {
+    "start": "457",
+    "end": "00:42:06,560 --> 00:42:10,560",
+    "text": "and those who ask for support on Discord,"
+  },
+  {
+    "start": "458",
+    "end": "00:42:10,560 --> 00:42:15,560",
+    "text": "I find them unbearable, in fact I'm not very active on Discord,"
+  },
+  {
+    "start": "459",
+    "end": "00:42:15,560 --> 00:42:22,560",
+    "text": "because it's a chat and there's too much communication that tends to be synchronous."
+  },
+  {
+    "start": "460",
+    "end": "00:42:22,560 --> 00:42:25,560",
+    "text": "I don't like it at all."
+  },
+  {
+    "start": "461",
+    "end": "00:42:25,560 --> 00:42:31,560",
+    "text": "I think that support is required on GitHub or Stack Overflow."
+  },
+  {
+    "start": "462",
+    "end": "00:42:31,560 --> 00:42:34,560",
+    "text": "Stack Overflow is better in my opinion,"
+  },
+  {
+    "start": "463",
+    "end": "00:42:34,560 --> 00:42:43,560",
+    "text": "because it is more obvious and easier to find."
+  },
+  {
+    "start": "464",
+    "end": "00:42:43,560 --> 00:42:49,560",
+    "text": "Or people read it more than GitHub."
+  },
+  {
+    "start": "465",
+    "end": "00:42:49,560 --> 00:42:58,760",
+    "text": "But there is more vitality in the Fastify tag on Stack Overflow"
+  },
+  {
+    "start": "466",
+    "end": "00:42:58,760 --> 00:43:02,040",
+    "text": "but there is still not enough"
+  },
+  {
+    "start": "467",
+    "end": "00:43:02,040 --> 00:43:06,760",
+    "text": "because I think that if someone asks questions"
+  },
+  {
+    "start": "468",
+    "end": "00:43:06,760 --> 00:43:11,880",
+    "text": "the answers could be more useful for everyone"
+  },
+  {
+    "start": "469",
+    "end": "00:43:11,880 --> 00:43:14,680",
+    "text": "for all those who will have the same problem"
+  },
+  {
+    "start": "470",
+    "end": "00:43:14,680 --> 00:43:21,680",
+    "text": "So I prefer to stay on Stack Overflow for a long time between the two"
+  },
+  {
+    "start": "471",
+    "end": "00:43:21,680 --> 00:43:26,680",
+    "text": "and the best ones are the ones who ask the same question on Stack Overflow and GitHub"
+  },
+  {
+    "start": "472",
+    "end": "00:43:26,680 --> 00:43:34,680",
+    "text": "and then I systematically answer only on Stack Overflow and I close the issue on GitHub with the link to Stack Overflow"
+  },
+  {
+    "start": "473",
+    "end": "00:43:34,680 --> 00:43:42,680",
+    "text": "just to make it clear that a platform is enough, you don't need to write anywhere"
+  },
+  {
+    "start": "474",
+    "end": "00:43:42,680 --> 00:43:49,680",
+    "text": "We are talking about a lot of things that take a lot of time and therefore cost a lot of money"
+  },
+  {
+    "start": "475",
+    "end": "00:43:49,680 --> 00:43:54,680",
+    "text": "but this open source, who pays for it? Who has to pay for it? We have to pay for it, the company has to pay for it,"
+  },
+  {
+    "start": "476",
+    "end": "00:43:54,680 --> 00:44:02,680",
+    "text": "you have to do the open collective, you have to not pay for it because it is right,"
+  },
+  {
+    "start": "477",
+    "end": "00:44:02,680 --> 00:44:06,680",
+    "text": "people who do open source and do not wash themselves do not need money"
+  },
+  {
+    "start": "478",
+    "end": "00:44:06,680 --> 00:44:11,680",
+    "text": "just because they live like this on the street with their computers"
+  },
+  {
+    "start": "479",
+    "end": "00:44:11,680 --> 00:44:13,680",
+    "text": "In your opinion?"
+  },
+  {
+    "start": "480",
+    "end": "00:44:13,680 --> 00:44:26,680",
+    "text": "I'll answer for myself, which is important, because from your previous question it seemed there was a bit of smoke in my kind of work."
+  },
+  {
+    "start": "481",
+    "end": "00:44:26,680 --> 00:44:35,680",
+    "text": "I am paid to do my client project. I am not paid minimally to do open source."
+  },
+  {
+    "start": "482",
+    "end": "00:44:35,680 --> 00:44:45,680",
+    "text": "All the open source I do, all the questions I answer, all the assistance, it's all free time."
+  },
+  {
+    "start": "483",
+    "end": "00:44:45,680 --> 00:45:00,680",
+    "text": "All my coffee breaks are spent maybe on spitting out the GitHub notifications or emails, but at the moment I'm not part of the team in NearForm,"
+  },
+  {
+    "start": "484",
+    "end": "00:45:00,680 --> 00:45:05,680",
+    "text": "we have a team in NearForm that normally works free time"
+  },
+  {
+    "start": "485",
+    "end": "00:45:05,680 --> 00:45:10,680",
+    "text": "I wanted to mention that, because at the same time there are \"enlightened\" companies"
+  },
+  {
+    "start": "486",
+    "end": "00:45:10,680 --> 00:45:16,680",
+    "text": "Absolutely, but unfortunately at the moment I'm not in that team"
+  },
+  {
+    "start": "487",
+    "end": "00:45:16,680 --> 00:45:22,680",
+    "text": "and therefore, I repeat, all my contributions are free time"
+  },
+  {
+    "start": "488",
+    "end": "00:45:22,680 --> 00:45:26,680",
+    "text": "and who pays it? At the moment no one"
+  },
+  {
+    "start": "489",
+    "end": "00:45:26,680 --> 00:45:36,680",
+    "text": "and the fact is that it depends a lot on the person, on how he feels repaid by the community"
+  },
+  {
+    "start": "490",
+    "end": "00:45:36,680 --> 00:45:46,680",
+    "text": "it's very important, because I would like to underline, if it wasn't clear, I started to contribute to Open Source for pure selfishness"
+  },
+  {
+    "start": "491",
+    "end": "00:45:46,680 --> 00:46:02,680",
+    "text": "because I wanted a mentor, because I wanted a better job, because I wanted to work with the stars that went on stage during the conferences"
+  },
+  {
+    "start": "492",
+    "end": "00:46:02,680 --> 00:46:08,680",
+    "text": "and so that seemed to me to be the best way to reach my goals"
+  },
+  {
+    "start": "493",
+    "end": "00:46:08,680 --> 00:46:19,080",
+    "text": "and I received a lot, I keep saying that I still receive, precisely because I learn"
+  },
+  {
+    "start": "494",
+    "end": "00:46:19,080 --> 00:46:26,280",
+    "text": "what I learn by answering the questions, even the most disparate ones in some respects"
+  },
+  {
+    "start": "495",
+    "end": "00:46:26,280 --> 00:46:30,680",
+    "text": "then, clearly, I \"resell\" it to my work"
+  },
+  {
+    "start": "496",
+    "end": "00:46:30,680 --> 00:46:38,680",
+    "text": "as simply looking more professional, looking like someone who knows one more page of the book"
+  },
+  {
+    "start": "497",
+    "end": "00:46:38,680 --> 00:46:44,680",
+    "text": "so that job is... I consider it training"
+  },
+  {
+    "start": "498",
+    "end": "00:46:44,680 --> 00:46:51,680",
+    "text": "be careful, but it's not like that anymore in the last period"
+  },
+  {
+    "start": "499",
+    "end": "00:46:51,680 --> 00:46:57,680",
+    "text": "before moving on to the last period, which we talked about a bit"
+  },
+  {
+    "start": "500",
+    "end": "00:46:57,680 --> 00:47:01,680",
+    "text": "I know the situation you are living."
+  },
+  {
+    "start": "501",
+    "end": "00:47:01,680 --> 00:47:06,680",
+    "text": "I want to ask you a question, I want to get to it like this."
+  },
+  {
+    "start": "502",
+    "end": "00:47:06,680 --> 00:47:11,680",
+    "text": "We have said that a good part of our industry,"
+  },
+  {
+    "start": "503",
+    "end": "00:47:11,680 --> 00:47:14,680",
+    "text": "and we have always said it, a good part of our industry"
+  },
+  {
+    "start": "504",
+    "end": "00:47:14,680 --> 00:47:18,680",
+    "text": "is based, it has its roots in open source."
+  },
+  {
+    "start": "505",
+    "end": "00:47:18,680 --> 00:47:21,680",
+    "text": "If there was no open source, probably our industry"
+  },
+  {
+    "start": "506",
+    "end": "00:47:21,680 --> 00:47:23,680",
+    "text": "would not be as it is."
+  },
+  {
+    "start": "507",
+    "end": "00:47:23,680 --> 00:47:30,680",
+    "text": "We also have the numbers, if you want I can share them in the Telegram group, I was reading a beautiful book on open source."
+  },
+  {
+    "start": "508",
+    "end": "00:47:30,680 --> 00:47:37,680",
+    "text": "We have the numbers that tell us that individual contributions are a very high number."
+  },
+  {
+    "start": "509",
+    "end": "00:47:37,680 --> 00:47:51,760",
+    "text": "And at this point I ask myself, is it sustainable to bring an industry, an ecosystem that is"
+  },
+  {
+    "start": "510",
+    "end": "00:47:51,760 --> 00:47:59,760",
+    "text": "is repaid, for the most part, by visibility,"
+  },
+  {
+    "start": "511",
+    "end": "00:47:59,760 --> 00:48:09,760",
+    "text": "by the possibility of working with famous people or rock stars of the situation."
+  },
+  {
+    "start": "512",
+    "end": "00:48:09,760 --> 00:48:15,760",
+    "text": "This thing is sustainable, because it's okay if it's selfish,"
+  },
+  {
+    "start": "513",
+    "end": "00:48:15,760 --> 00:48:27,760",
+    "text": "But if this driver, as selfish as it is, is as stable as the money that pays the contributions?"
+  },
+  {
+    "start": "514",
+    "end": "00:48:27,760 --> 00:48:33,760",
+    "text": "I think it's as stable as the sand in the Sahara, probably."
+  },
+  {
+    "start": "515",
+    "end": "00:48:33,760 --> 00:48:36,440",
+    "text": "I think its stability is"
+  },
+  {
+    "start": "516",
+    "end": "00:48:36,440 --> 00:48:39,160",
+    "text": "fluctuating because the only"
+  },
+  {
+    "start": "517",
+    "end": "00:48:39,160 --> 00:48:42,000",
+    "text": "real element"
+  },
+  {
+    "start": "518",
+    "end": "00:48:42,000 --> 00:48:44,680",
+    "text": "Of the open source"
+  },
+  {
+    "start": "519",
+    "end": "00:48:44,680 --> 00:48:51,600",
+    "text": "The only element that actually defines its stability is related to motivation"
+  },
+  {
+    "start": "520",
+    "end": "00:48:51,600 --> 00:48:59,000",
+    "text": "And motivation can be of two types, indeed it can be of different types"
+  },
+  {
+    "start": "521",
+    "end": "00:49:01,000 --> 00:49:06,240",
+    "text": "But let's say the most striking elements are intrinsic and extrinsic motivation"
+  },
+  {
+    "start": "522",
+    "end": "00:49:06,240 --> 00:49:09,200",
+    "text": "Let's call them"
+  },
+  {
+    "start": "523",
+    "end": "00:49:09,200 --> 00:49:13,120",
+    "text": "exogenous and endogenous motivation, therefore internal to yourself"
+  },
+  {
+    "start": "524",
+    "end": "00:49:13,120 --> 00:49:16,120",
+    "text": "that pushes from the outside"
+  },
+  {
+    "start": "525",
+    "end": "00:49:16,120 --> 00:49:20,800",
+    "text": "If at the beginning the motivation is"
+  },
+  {
+    "start": "526",
+    "end": "00:49:20,800 --> 00:49:25,120",
+    "text": "Endogenous"
+  },
+  {
+    "start": "527",
+    "end": "00:49:25,640 --> 00:49:37,640",
+    "text": "So you feel it pushing from the inside, that you want to do something cool, you want to know new topics, and that's fine."
+  },
+  {
+    "start": "528",
+    "end": "00:49:37,640 --> 00:49:46,640",
+    "text": "In the end, a good part of the motivation in evolution will come to you as an element that comes to you from outside,"
+  },
+  {
+    "start": "529",
+    "end": "00:49:46,640 --> 00:49:52,640",
+    "text": "outside of your control, of social recognition in the community,"
+  },
+  {
+    "start": "530",
+    "end": "00:49:52,640 --> 00:49:57,640",
+    "text": "of becoming a visible element."
+  },
+  {
+    "start": "531",
+    "end": "00:49:57,640 --> 00:50:02,640",
+    "text": "And this thing, in my opinion, is at high risk."
+  },
+  {
+    "start": "532",
+    "end": "00:50:02,640 --> 00:50:05,640",
+    "text": "I have a previous experience."
+  },
+  {
+    "start": "533",
+    "end": "00:50:05,640 --> 00:50:10,640",
+    "text": "Many of you know that in my previous life I was a DJ, in clubs."
+  },
+  {
+    "start": "534",
+    "end": "00:50:10,640 --> 00:50:14,060",
+    "text": "Okay, and there was a specific period around the year"
+  },
+  {
+    "start": "535",
+    "end": "00:50:14,060 --> 00:50:21,560",
+    "text": "2003 2004 when the djs became the rockstar djs"
+  },
+  {
+    "start": "536",
+    "end": "00:50:21,560 --> 00:50:25,880",
+    "text": "When there was this passage"
+  },
+  {
+    "start": "537",
+    "end": "00:50:25,880 --> 00:50:28,820",
+    "text": "a good part of the tracks"
+  },
+  {
+    "start": "538",
+    "end": "00:50:28,820 --> 00:50:30,960",
+    "text": "were"
+  },
+  {
+    "start": "539",
+    "end": "00:50:30,960 --> 00:50:37,000",
+    "text": "fed, therefore the record production was fed by the search for that"
+  },
+  {
+    "start": "540",
+    "end": "00:50:37,000 --> 00:50:39,440",
+    "text": "exogenous motivation"
+  },
+  {
+    "start": "541",
+    "end": "00:50:40,240 --> 00:50:45,440",
+    "text": "And so everyone wanted to be rockstar djs to do rockstar djs they had to do more open source"
+  },
+  {
+    "start": "542",
+    "end": "00:50:45,440 --> 00:50:48,880",
+    "text": "possible no now I'm shifting the perspective"
+  },
+  {
+    "start": "543",
+    "end": "00:50:48,880 --> 00:50:54,600",
+    "text": "Here at the end this thing was a disaster for the world of djs"
+  },
+  {
+    "start": "544",
+    "end": "00:50:54,600 --> 00:51:00,520",
+    "text": "because all the research part of underground is all lost"
+  },
+  {
+    "start": "545",
+    "end": "00:51:00,520 --> 00:51:06,480",
+    "text": "so when I see in the conference halls the new framework"
+  },
+  {
+    "start": "546",
+    "end": "00:51:07,880 --> 00:51:15,200",
+    "text": "Script the figuissimo Bobo next js puto stock a a tutti vogliono contribuire la"
+  },
+  {
+    "start": "547",
+    "end": "00:51:15,200 --> 00:51:21,440",
+    "text": "questa contributione che guidata prevalentemente dalla parte strinseca e"
+  },
+  {
+    "start": "548",
+    "end": "00:51:21,440 --> 00:51:26,920",
+    "text": "Rischiosa e la mia domanda è a livello personale come ti trovi in questo in questo"
+  },
+  {
+    "start": "549",
+    "end": "00:51:26,920 --> 00:51:30,160",
+    "text": "in questo"
+  },
+  {
+    "start": "550",
+    "end": "00:51:30,160 --> 00:51:36,920",
+    "text": "Allora, c'è tantissimo da dire anche qui, ma mi dispiace per il tempo benvenuto su github"
+  },
+  {
+    "start": "551",
+    "end": "00:51:36,920 --> 00:51:45,920",
+    "text": "I'll start with a recent example that made me think"
+  },
+  {
+    "start": "552",
+    "end": "00:51:45,920 --> 00:51:51,920",
+    "text": "Recently there was the release of BUN, version 1"
+  },
+  {
+    "start": "553",
+    "end": "00:51:51,920 --> 00:51:57,920",
+    "text": "It was a big talk"
+  },
+  {
+    "start": "554",
+    "end": "00:51:57,920 --> 00:52:04,920",
+    "text": "In the Facts of the Species, they were comparing JS and BUN"
+  },
+  {
+    "start": "555",
+    "end": "00:52:04,920 --> 00:52:15,420",
+    "text": "And in the middle of the cycle, one of the leaders of the NoJS team on the performance"
+  },
+  {
+    "start": "556",
+    "end": "00:52:15,420 --> 00:52:24,420",
+    "text": "I don't remember the name, I know that Jag has something on Twitter, I'll get it back to you later"
+  },
+  {
+    "start": "557",
+    "end": "00:52:24,420 --> 00:52:26,420",
+    "text": "I'll get it back later"
+  },
+  {
+    "start": "558",
+    "end": "00:52:26,420 --> 00:52:30,420",
+    "text": "and it ended up in Cyclone's eye"
+  },
+  {
+    "start": "559",
+    "end": "00:52:30,420 --> 00:52:37,420",
+    "text": "because he was the reference of this team"
+  },
+  {
+    "start": "560",
+    "end": "00:52:37,420 --> 00:52:40,420",
+    "text": "and everyone started to talk about it"
+  },
+  {
+    "start": "561",
+    "end": "00:52:40,420 --> 00:52:43,420",
+    "text": "nobody knew who he was"
+  },
+  {
+    "start": "562",
+    "end": "00:52:43,420 --> 00:52:49,420",
+    "text": "and this is already a moral blow to the low"
+  },
+  {
+    "start": "563",
+    "end": "00:52:49,420 --> 00:52:52,420",
+    "text": "that really makes you bleed"
+  },
+  {
+    "start": "564",
+    "end": "00:52:52,420 --> 00:52:56,420",
+    "text": "everyone started to criticize him"
+  },
+  {
+    "start": "565",
+    "end": "00:52:56,420 --> 00:52:58,420",
+    "text": "very funny"
+  },
+  {
+    "start": "566",
+    "end": "00:52:58,420 --> 00:53:00,420",
+    "text": "then it ended"
+  },
+  {
+    "start": "567",
+    "end": "00:53:00,420 --> 00:53:02,420",
+    "text": "in the youtube cycle"
+  },
+  {
+    "start": "568",
+    "end": "00:53:02,420 --> 00:53:04,420",
+    "text": "with the"
+  },
+  {
+    "start": "569",
+    "end": "00:53:04,420 --> 00:53:06,420",
+    "text": "the prisma"
+  },
+  {
+    "start": "570",
+    "end": "00:53:06,420 --> 00:53:08,420",
+    "text": "i will never remember the names"
+  },
+  {
+    "start": "571",
+    "end": "00:53:08,420 --> 00:53:10,420",
+    "text": "they have too complex nicknames"
+  },
+  {
+    "start": "572",
+    "end": "00:53:10,420 --> 00:53:12,420",
+    "text": "the one that always does all the videos"
+  },
+  {
+    "start": "573",
+    "end": "00:53:12,420 --> 00:53:14,420",
+    "text": "prime gem"
+  },
+  {
+    "start": "574",
+    "end": "00:53:14,420 --> 00:53:16,420",
+    "text": "very good prime gem"
+  },
+  {
+    "start": "575",
+    "end": "00:53:16,420 --> 00:53:18,420",
+    "text": "it ended in the cycle"
+  },
+  {
+    "start": "576",
+    "end": "00:53:18,420 --> 00:53:20,420",
+    "text": "and"
+  },
+  {
+    "start": "577",
+    "end": "00:53:20,420 --> 00:53:22,420",
+    "text": "What was the result?"
+  },
+  {
+    "start": "578",
+    "end": "00:53:22,420 --> 00:53:29,920",
+    "text": "He said \"Guys, it's all free time, I spend it on improving Nod's performance\""
+  },
+  {
+    "start": "579",
+    "end": "00:53:29,920 --> 00:53:32,920",
+    "text": "It ended up on Cyclone's eye, it was crushed"
+  },
+  {
+    "start": "580",
+    "end": "00:53:32,920 --> 00:53:37,920",
+    "text": "And the next day, I think, he opened a pull request"
+  },
+  {
+    "start": "581",
+    "end": "00:53:37,920 --> 00:53:43,920",
+    "text": "In which he said \"Guys, I'm leaving the performance team\""
+  },
+  {
+    "start": "582",
+    "end": "00:53:43,920 --> 00:53:45,920",
+    "text": "\"Get ready\""
+  },
+  {
+    "start": "583",
+    "end": "00:53:45,920 --> 00:53:52,920",
+    "text": "Here is the danger of open source"
+  },
+  {
+    "start": "584",
+    "end": "00:53:52,920 --> 00:53:56,920",
+    "text": "and also the advantage, in the sense that when you get bored,"
+  },
+  {
+    "start": "585",
+    "end": "00:53:56,920 --> 00:54:06,920",
+    "text": "when you are really targeted as the worst developer of the last 20 years"
+  },
+  {
+    "start": "586",
+    "end": "00:54:06,920 --> 00:54:11,920",
+    "text": "one gets angry, one gets angry and says \"but who makes me do it?\""
+  },
+  {
+    "start": "587",
+    "end": "00:54:11,920 --> 00:54:20,300",
+    "text": "And his last tweets were him playing Call of Duty"
+  },
+  {
+    "start": "588",
+    "end": "00:54:20,300 --> 00:54:29,680",
+    "text": "Let's realize that, because sometimes we forget that if there is no Manuel who releases the game"
+  },
+  {
+    "start": "589",
+    "end": "00:54:29,680 --> 00:54:33,300",
+    "text": "And sometimes they ping me, thanks, because I lose them"
+  },
+  {
+    "start": "590",
+    "end": "00:54:33,300 --> 00:54:37,720",
+    "text": "If there is no Manuel who releases the game, the features, the bugfixes and so on"
+  },
+  {
+    "start": "591",
+    "end": "00:54:37,720 --> 00:54:40,720",
+    "text": "they are not released"
+  },
+  {
+    "start": "592",
+    "end": "00:54:40,720 --> 00:54:45,720",
+    "text": "all Fastify maintainers have access and can release them"
+  },
+  {
+    "start": "593",
+    "end": "00:54:45,720 --> 00:54:48,720",
+    "text": "it's clear, I'm not saying that I have a centralized power"
+  },
+  {
+    "start": "594",
+    "end": "00:54:48,720 --> 00:54:50,720",
+    "text": "but the concept is"
+  },
+  {
+    "start": "595",
+    "end": "00:54:50,720 --> 00:54:53,720",
+    "text": "treat us like people"
+  },
+  {
+    "start": "596",
+    "end": "00:54:53,720 --> 00:54:56,720",
+    "text": "we are human beings too"
+  },
+  {
+    "start": "597",
+    "end": "00:54:56,720 --> 00:54:58,720",
+    "text": "but it's not the same as in a company"
+  },
+  {
+    "start": "598",
+    "end": "00:54:58,720 --> 00:55:00,720",
+    "text": "because then I relate to what you said before"
+  },
+  {
+    "start": "599",
+    "end": "00:55:00,720 --> 00:55:03,720",
+    "text": "only that, apart from the fact that in a company they pay you"
+  },
+  {
+    "start": "600",
+    "end": "00:55:03,720 --> 00:55:05,720",
+    "text": "and maybe the boss is one or two"
+  },
+  {
+    "start": "601",
+    "end": "00:55:05,720 --> 00:55:07,720",
+    "text": "it's not all about the internet"
+  },
+  {
+    "start": "602",
+    "end": "00:55:07,720 --> 00:55:09,720",
+    "text": "but it's a similar thing"
+  },
+  {
+    "start": "603",
+    "end": "00:55:09,720 --> 00:55:11,720",
+    "text": "if you want to be good"
+  },
+  {
+    "start": "604",
+    "end": "00:55:11,720 --> 00:55:13,720",
+    "text": "if a person feels good in an environment"
+  },
+  {
+    "start": "605",
+    "end": "00:55:13,720 --> 00:55:15,720",
+    "text": "that can be his own project"
+  },
+  {
+    "start": "606",
+    "end": "00:55:15,720 --> 00:55:17,720",
+    "text": "it doesn't go away"
+  },
+  {
+    "start": "607",
+    "end": "00:55:17,720 --> 00:55:19,720",
+    "text": "if it goes away, it's obviously not"
+  },
+  {
+    "start": "608",
+    "end": "00:55:19,720 --> 00:55:21,720",
+    "text": "something that comes from the outside"
+  },
+  {
+    "start": "609",
+    "end": "00:55:21,720 --> 00:55:23,720",
+    "text": "but it's much easier"
+  },
+  {
+    "start": "610",
+    "end": "00:55:23,720 --> 00:55:25,720",
+    "text": "since those who use fastify"
+  },
+  {
+    "start": "611",
+    "end": "00:55:25,720 --> 00:55:27,720",
+    "text": "don't pay you"
+  },
+  {
+    "start": "612",
+    "end": "00:55:27,720 --> 00:55:29,720",
+    "text": "to say \"hey, if you don't like me, go away\""
+  },
+  {
+    "start": "613",
+    "end": "00:55:29,720 --> 00:55:31,720",
+    "text": "and then you don't realize"
+  },
+  {
+    "start": "614",
+    "end": "00:55:31,720 --> 00:55:33,720",
+    "text": "that you're actually leaving us"
+  },
+  {
+    "start": "615",
+    "end": "00:55:33,720 --> 00:55:43,720",
+    "text": "I would like to add a note of folklore, a post that I share on our backchannel today, on the performances of Node.js."
+  },
+  {
+    "start": "616",
+    "end": "00:55:43,720 --> 00:56:01,720",
+    "text": "Today, Jared Summer has shared on Twitter, a link to an issue that he had raised in 2021 regarding the Node.js performances."
+  },
+  {
+    "start": "617",
+    "end": "00:56:01,720 --> 00:56:09,720",
+    "text": "Our mutual friend Matteo has made one of his and he gave a beautiful answer."
+  },
+  {
+    "start": "618",
+    "end": "00:56:09,720 --> 00:56:22,720",
+    "text": "He wrote \"Imagine a different world where you open a pull request to fix this and become a Node collaborator making it work even faster\"."
+  },
+  {
+    "start": "619",
+    "end": "00:56:22,720 --> 00:56:24,720",
+    "text": "This is..."
+  },
+  {
+    "start": "620",
+    "end": "00:56:24,720 --> 00:56:27,520",
+    "text": "This is something that..."
+  },
+  {
+    "start": "621",
+    "end": "00:56:27,520 --> 00:56:29,520",
+    "text": "In my opinion, it's pure psychology."
+  },
+  {
+    "start": "622",
+    "end": "00:56:29,520 --> 00:56:31,520",
+    "text": "At this moment, I was thinking about Matteo Collina,"
+  },
+  {
+    "start": "623",
+    "end": "00:56:31,520 --> 00:56:33,520",
+    "text": "who is really pissed off when he sees this."
+  },
+  {
+    "start": "624",
+    "end": "00:56:33,520 --> 00:56:35,520",
+    "text": "Okay?"
+  },
+  {
+    "start": "625",
+    "end": "00:56:35,520 --> 00:56:37,520",
+    "text": "And he says, \"What do I do?\""
+  },
+  {
+    "start": "626",
+    "end": "00:56:37,520 --> 00:56:39,520",
+    "text": "\"Do I feed the flame in a way..."
+  },
+  {
+    "start": "627",
+    "end": "00:56:39,520 --> 00:56:43,520",
+    "text": "Huh? Or do I try to...\""
+  },
+  {
+    "start": "628",
+    "end": "00:56:43,520 --> 00:56:45,520",
+    "text": "- In a constructive way! - In a nice way."
+  },
+  {
+    "start": "629",
+    "end": "00:56:45,520 --> 00:56:47,520",
+    "text": "Actually, it's a big-ass joke."
+  },
+  {
+    "start": "630",
+    "end": "00:56:47,520 --> 00:56:49,520",
+    "text": "But at least..."
+  },
+  {
+    "start": "631",
+    "end": "00:56:49,520 --> 00:56:51,520",
+    "text": "At least he made me understand,"
+  },
+  {
+    "start": "632",
+    "end": "00:56:51,520 --> 00:56:56,520",
+    "text": "that you can communicate in a slightly ironic,"
+  },
+  {
+    "start": "633",
+    "end": "00:56:56,520 --> 00:56:59,520",
+    "text": "pungent, but also polite way."
+  },
+  {
+    "start": "634",
+    "end": "00:56:59,520 --> 00:57:02,520",
+    "text": "I've seen the worst things in the ban context."
+  },
+  {
+    "start": "635",
+    "end": "00:57:02,520 --> 00:57:06,520",
+    "text": "Yes, however, the first tweet was also pungent,"
+  },
+  {
+    "start": "636",
+    "end": "00:57:06,520 --> 00:57:08,520",
+    "text": "how to say, controversial."
+  },
+  {
+    "start": "637",
+    "end": "00:57:08,520 --> 00:57:10,520",
+    "text": "I mean, he meant, \"I opened it in 2021,"
+  },
+  {
+    "start": "638",
+    "end": "00:57:10,520 --> 00:57:12,520",
+    "text": "no one has sh*t on me,"
+  },
+  {
+    "start": "639",
+    "end": "00:57:12,520 --> 00:57:15,520",
+    "text": "I did my run time with...\""
+  },
+  {
+    "start": "640",
+    "end": "00:57:15,520 --> 00:57:16,520",
+    "text": "Blackjack."
+  },
+  {
+    "start": "641",
+    "end": "00:57:16,520 --> 00:57:18,520",
+    "text": "\"Blackjack, the Russian guy.\""
+  },
+  {
+    "start": "642",
+    "end": "00:57:20,520 --> 00:57:42,520",
+    "text": "Actually, between No Jays and Banner, I'm seeing a flame between the beginning of the game and the other games, like Symphony of the Aravel and Symphony of the Colors."
+  },
+  {
+    "start": "643",
+    "end": "00:57:42,520 --> 00:57:49,720",
+    "text": "I wanted to ask you a question that has nothing to do with it, but it's related to what we were saying before, at the beginning."
+  },
+  {
+    "start": "644",
+    "end": "00:57:49,720 --> 00:58:01,120",
+    "text": "In your opinion, how can we create an open source training process?"
+  },
+  {
+    "start": "645",
+    "end": "00:58:01,120 --> 00:58:04,720",
+    "text": "I'll tell you something like this."
+  },
+  {
+    "start": "646",
+    "end": "00:58:04,720 --> 00:58:09,360",
+    "text": "a few years ago, to participate in a workshop"
+  },
+  {
+    "start": "647",
+    "end": "00:58:09,360 --> 00:58:15,560",
+    "text": "held by GNOME contributors and maintainers"
+  },
+  {
+    "start": "648",
+    "end": "00:58:15,560 --> 00:58:18,880",
+    "text": "on how to make a pull request on GNOME"
+  },
+  {
+    "start": "649",
+    "end": "00:58:18,880 --> 00:58:23,520",
+    "text": "and how the architecture worked in general."
+  },
+  {
+    "start": "650",
+    "end": "00:58:23,520 --> 00:58:29,680",
+    "text": "So, it was a mistake to work on a..."
+  },
+  {
+    "start": "651",
+    "end": "00:58:29,680 --> 00:58:31,880",
+    "text": "not on the desktop environment,"
+  },
+  {
+    "start": "652",
+    "end": "00:58:31,880 --> 00:58:35,480",
+    "text": "if that would have been utopian to do the workshop interview"
+  },
+  {
+    "start": "653",
+    "end": "00:58:35,480 --> 00:58:39,980",
+    "text": "but on an application that was included by default in the desktop environment"
+  },
+  {
+    "start": "654",
+    "end": "00:58:39,980 --> 00:58:48,780",
+    "text": "so to see a little how to integrate the UI with GTK inside GNOME"
+  },
+  {
+    "start": "655",
+    "end": "00:58:48,780 --> 00:58:53,280",
+    "text": "how to use BUS in the way everyone expects to use BUS"
+  },
+  {
+    "start": "656",
+    "end": "00:58:53,280 --> 00:58:59,180",
+    "text": "in short, it was a session on how to introduce people"
+  },
+  {
+    "start": "657",
+    "end": "00:58:59,180 --> 00:59:04,680",
+    "text": "that were never developed for Gnome"
+  },
+  {
+    "start": "658",
+    "end": "00:59:04,680 --> 00:59:07,680",
+    "text": "because, like all open source projects,"
+  },
+  {
+    "start": "659",
+    "end": "00:59:07,680 --> 00:59:11,180",
+    "text": "they need people to contribute to them."
+  },
+  {
+    "start": "660",
+    "end": "00:59:11,180 --> 00:59:14,180",
+    "text": "In my opinion, is it possible to do something like that?"
+  },
+  {
+    "start": "661",
+    "end": "00:59:14,180 --> 00:59:17,180",
+    "text": "It's just a matter of fact,"
+  },
+  {
+    "start": "662",
+    "end": "00:59:17,180 --> 00:59:21,680",
+    "text": "I don't have any idea about projects in the ecosystem."
+  },
+  {
+    "start": "663",
+    "end": "00:59:21,680 --> 00:59:24,180",
+    "text": "As I said, it can be or not."
+  },
+  {
+    "start": "664",
+    "end": "00:59:24,180 --> 00:59:27,180",
+    "text": "If tomorrow morning I want to wake up and say"
+  },
+  {
+    "start": "665",
+    "end": "00:59:27,180 --> 00:59:37,180",
+    "text": "I know about C++, I know about JavaScript, I want to contribute to this thing here. Where can I start?"
+  },
+  {
+    "start": "666",
+    "end": "00:59:38,180 --> 00:59:47,180",
+    "text": "So, clearly, as the initial title says, it depends."
+  },
+  {
+    "start": "667",
+    "end": "00:59:47,180 --> 00:59:55,180",
+    "text": "I clearly remember that the Node.js Core project has several talks"
+  },
+  {
+    "start": "668",
+    "end": "00:59:55,180 --> 01:00:03,180",
+    "text": "where, in live, the person explained the Node.js codebase for a moment"
+  },
+  {
+    "start": "669",
+    "end": "01:00:03,180 --> 01:00:08,180",
+    "text": "because it is clearly very important in terms of dimensions"
+  },
+  {
+    "start": "670",
+    "end": "01:00:08,180 --> 01:00:13,180",
+    "text": "and it did a pull request during the talk"
+  },
+  {
+    "start": "671",
+    "end": "01:00:13,180 --> 01:00:16,180",
+    "text": "so this kind of training is there"
+  },
+  {
+    "start": "672",
+    "end": "01:00:16,180 --> 01:00:20,180",
+    "text": "but many projects don't have it"
+  },
+  {
+    "start": "673",
+    "end": "01:00:20,180 --> 01:00:27,180",
+    "text": "and certainly the initial entry barrier"
+  },
+  {
+    "start": "674",
+    "end": "01:00:27,180 --> 01:00:31,180",
+    "text": "for people who are approaching"
+  },
+  {
+    "start": "675",
+    "end": "01:00:31,180 --> 01:00:35,180",
+    "text": "I'm assuming that at least Git knows it"
+  },
+  {
+    "start": "676",
+    "end": "01:00:35,180 --> 01:00:47,180",
+    "text": "because we often had people who closed the pull request and created a new one every time you asked them to change something"
+  },
+  {
+    "start": "677",
+    "end": "01:00:47,180 --> 01:00:58,180",
+    "text": "and so you train them and tell them \"read a bit of GitHub's documentation, which is very well done, so you can explain the pull request process\""
+  },
+  {
+    "start": "678",
+    "end": "01:00:58,180 --> 01:01:14,180",
+    "text": "I think that explaining the codebase lowers the level of fear that a normal person has as soon as they approach a framework"
+  },
+  {
+    "start": "679",
+    "end": "01:01:14,180 --> 01:01:23,180",
+    "text": "because you feel a bit out of place, where do I start, where do I not start, the first steps, these things here"
+  },
+  {
+    "start": "680",
+    "end": "01:01:23,180 --> 01:01:31,180",
+    "text": "would simplify the entry barrier a lot, in my opinion."
+  },
+  {
+    "start": "681",
+    "end": "01:01:31,180 --> 01:01:37,180",
+    "text": "I don't think I've seen it done a lot, honestly."
+  },
+  {
+    "start": "682",
+    "end": "01:01:37,180 --> 01:01:43,180",
+    "text": "And on Fastify there's definitely a high level."
+  },
+  {
+    "start": "683",
+    "end": "01:01:43,180 --> 01:01:50,180",
+    "text": "There's the contributing file, which explains the basic steps."
+  },
+  {
+    "start": "684",
+    "end": "01:01:50,180 --> 01:02:00,180",
+    "text": "you fork, you check out, you modify the code and then you start the pull request process"
+  },
+  {
+    "start": "685",
+    "end": "01:02:00,180 --> 01:02:12,180",
+    "text": "but something that explains the codebase, that explains where the validation is, that explains how the validation works, that explains these things doesn't exist"
+  },
+  {
+    "start": "686",
+    "end": "01:02:13,180 --> 01:02:26,180",
+    "text": "It needs a little bit of strength from the developer"
+  },
+  {
+    "start": "687",
+    "end": "01:02:26,180 --> 01:02:31,180",
+    "text": "and he says \"ok, I don't know the apocode base, I have to start reading it\""
+  },
+  {
+    "start": "688",
+    "end": "01:02:31,180 --> 01:02:36,180",
+    "text": "I start, obviously from the package.json and I look at the starting point"
+  },
+  {
+    "start": "689",
+    "end": "01:02:36,180 --> 01:02:40,180",
+    "text": "and from there I try to understand the \"smoke\" cycle"
+  },
+  {
+    "start": "690",
+    "end": "01:02:40,180 --> 01:02:42,180",
+    "text": "because otherwise..."
+  },
+  {
+    "start": "691",
+    "end": "01:02:42,180 --> 01:02:48,180",
+    "text": "let's say, if you wait..."
+  },
+  {
+    "start": "692",
+    "end": "01:02:48,180 --> 01:02:53,180",
+    "text": "when I say that the maintainer accompanies you like San Francesco"
+  },
+  {
+    "start": "693",
+    "end": "01:02:53,180 --> 01:02:55,180",
+    "text": "taking you by the hand, etc."
+  },
+  {
+    "start": "694",
+    "end": "01:02:55,180 --> 01:02:57,180",
+    "text": "it's not really like that"
+  },
+  {
+    "start": "695",
+    "end": "01:02:57,180 --> 01:02:59,180",
+    "text": "I should say that it's more like the Spartans"
+  },
+  {
+    "start": "696",
+    "end": "01:02:59,180 --> 01:03:02,180",
+    "text": "He accompanies you by taking you by the ass, maybe it's better"
+  },
+  {
+    "start": "697",
+    "end": "01:03:02,180 --> 01:03:04,180",
+    "text": "It's more like the Spartans"
+  },
+  {
+    "start": "698",
+    "end": "01:03:04,180 --> 01:03:06,180",
+    "text": "he takes you and throws you in the forest"
+  },
+  {
+    "start": "699",
+    "end": "01:03:06,180 --> 01:03:09,180",
+    "text": "if you survive and go, you'll get out of it faster"
+  },
+  {
+    "start": "700",
+    "end": "01:03:09,180 --> 01:03:25,180",
+    "text": "But yes, learning to read the code is the first step, unfortunately, when you don't have a light accompanying process to the codebase."
+  },
+  {
+    "start": "701",
+    "end": "01:03:25,180 --> 01:03:31,180",
+    "text": "Sorry, I just want to make a small remark on this. I use the podcast as a personal thing."
+  },
+  {
+    "start": "702",
+    "end": "01:03:31,180 --> 01:03:35,180",
+    "text": "Right on this topic I will do a talk at Code in Motion"
+  },
+  {
+    "start": "703",
+    "end": "01:03:35,180 --> 01:03:37,180",
+    "text": "on the exploration of codebase"
+  },
+  {
+    "start": "704",
+    "end": "01:03:37,180 --> 01:03:41,180",
+    "text": "So if you come to Code in Motion, I'll be waiting for you"
+  },
+  {
+    "start": "705",
+    "end": "01:03:41,180 --> 01:03:43,180",
+    "text": "with the flags, the stripes"
+  },
+  {
+    "start": "706",
+    "end": "01:03:43,180 --> 01:03:49,180",
+    "text": "I wanted to say about this thing"
+  },
+  {
+    "start": "707",
+    "end": "01:03:49,180 --> 01:03:52,180",
+    "text": "that I did some talks on some conferences on Aravel"
+  },
+  {
+    "start": "708",
+    "end": "01:03:52,180 --> 01:03:55,180",
+    "text": "starting from that reason"
+  },
+  {
+    "start": "709",
+    "end": "01:03:55,180 --> 01:03:57,180",
+    "text": "because I didn't understand how some things worked"
+  },
+  {
+    "start": "710",
+    "end": "01:03:57,180 --> 01:04:04,180",
+    "text": "The documentation is explained very well, but for how to use a feature, but to know how it works,"
+  },
+  {
+    "start": "711",
+    "end": "01:04:04,180 --> 01:04:10,180",
+    "text": "because I was interested in that, because sometimes you reach edge cases that are not explained in the documentation,"
+  },
+  {
+    "start": "712",
+    "end": "01:04:10,180 --> 01:04:21,180",
+    "text": "and exploring, I did several talks on some aspects of Laravel, on the template engine, on the authorization."
+  },
+  {
+    "start": "713",
+    "end": "01:04:21,180 --> 01:04:26,180",
+    "text": "Actually, you realize that Laravel is a PHP-based framework, so we're not talking about PHP,"
+  },
+  {
+    "start": "714",
+    "end": "01:04:26,180 --> 01:04:29,680",
+    "text": "where there are also things called to the system, but a much more complex thing."
+  },
+  {
+    "start": "715",
+    "end": "01:04:29,680 --> 01:04:37,680",
+    "text": "But they have been very appreciated, because even if one does not contribute to the codebase of Laravel,"
+  },
+  {
+    "start": "716",
+    "end": "01:04:37,680 --> 01:04:42,680",
+    "text": "when he writes the code, he knows what happens underneath, and therefore he knows what to fix,"
+  },
+  {
+    "start": "717",
+    "end": "01:04:42,680 --> 01:04:47,180",
+    "text": "and if he should find some bugs, he also knows where to go to see,"
+  },
+  {
+    "start": "718",
+    "end": "01:04:47,180 --> 01:04:50,680",
+    "text": "which thanks to the ideas like PHPStorm"
+  },
+  {
+    "start": "719",
+    "end": "01:04:50,680 --> 01:04:52,180",
+    "text": "it's easy to get into it"
+  },
+  {
+    "start": "720",
+    "end": "01:04:52,180 --> 01:04:55,680",
+    "text": "you just click on a function and it brings you into the framework"
+  },
+  {
+    "start": "721",
+    "end": "01:04:55,680 --> 01:04:59,680",
+    "text": "and you see that it's PHP code, there's nothing else"
+  },
+  {
+    "start": "722",
+    "end": "01:04:59,680 --> 01:05:03,680",
+    "text": "then PHP loads everything in a PHP file and executes it"
+  },
+  {
+    "start": "723",
+    "end": "01:05:03,680 --> 01:05:08,680",
+    "text": "I have to say that, just to connect to the Telegram group"
+  },
+  {
+    "start": "724",
+    "end": "01:05:08,680 --> 01:05:13,680",
+    "text": "seeing that \"go to\" inside Laravel's codebase was beautiful"
+  },
+  {
+    "start": "725",
+    "end": "01:05:13,680 --> 01:05:16,180",
+    "text": "I didn't see it, but it must be one of those secrets"
+  },
+  {
+    "start": "726",
+    "end": "01:05:16,180 --> 01:05:18,680",
+    "text": "like there are some Easter eggs in Monkey Island."
+  },
+  {
+    "start": "727",
+    "end": "01:05:18,680 --> 01:05:20,680",
+    "text": "And then another thing I wanted to say"
+  },
+  {
+    "start": "728",
+    "end": "01:05:20,680 --> 01:05:23,180",
+    "text": "about a complex codebase like Node.js,"
+  },
+  {
+    "start": "729",
+    "end": "01:05:23,180 --> 01:05:27,180",
+    "text": "Paolo Insogna, who we all know,"
+  },
+  {
+    "start": "730",
+    "end": "01:05:27,180 --> 01:05:30,680",
+    "text": "he's part of Nirvana, he's someone who talks a lot,"
+  },
+  {
+    "start": "731",
+    "end": "01:05:30,680 --> 01:05:36,180",
+    "text": "he's a core contributor of HTTP and something else,"
+  },
+  {
+    "start": "732",
+    "end": "01:05:36,180 --> 01:05:37,680",
+    "text": "he says he doesn't know anything else."
+  },
+  {
+    "start": "733",
+    "end": "01:05:37,680 --> 01:05:42,680",
+    "text": "So we can't even claim to know the whole codebase"
+  },
+  {
+    "start": "734",
+    "end": "01:05:42,680 --> 01:05:44,680",
+    "text": "to have the knowledge of the frameworks."
+  },
+  {
+    "start": "735",
+    "end": "01:05:44,680 --> 01:05:52,680",
+    "text": "If you're working on the HTTP, the stream, like Matteo was doing a lot in the stream,"
+  },
+  {
+    "start": "736",
+    "end": "01:05:52,680 --> 01:06:00,680",
+    "text": "you focus on that, and that's enough to make you, if you want to,"
+  },
+  {
+    "start": "737",
+    "end": "01:06:00,680 --> 01:06:07,680",
+    "text": "your position in the contributor, but we can't know everything."
+  },
+  {
+    "start": "738",
+    "end": "01:06:07,680 --> 01:06:10,680",
+    "text": "In some way, we have to trust something, so we have to follow our instincts"
+  },
+  {
+    "start": "739",
+    "end": "01:06:10,680 --> 01:06:15,680",
+    "text": "and see what we like and what we don't like about such a big database."
+  },
+  {
+    "start": "740",
+    "end": "01:06:15,680 --> 01:06:20,680",
+    "text": "I wanted to go back to a topic we left unsaid for a moment,"
+  },
+  {
+    "start": "741",
+    "end": "01:06:20,680 --> 01:06:23,680",
+    "text": "and that is the topic of motivation."
+  },
+  {
+    "start": "742",
+    "end": "01:06:23,680 --> 01:06:28,680",
+    "text": "Sorry if I jump ahead, but I've found a tweet of yours,"
+  },
+  {
+    "start": "743",
+    "end": "01:06:28,680 --> 01:06:30,680",
+    "text": "which we're watching right now."
+  },
+  {
+    "start": "744",
+    "end": "01:06:30,680 --> 01:06:34,680",
+    "text": "Actually, you can imagine it, because you're not watching it, but it will be on YouTube."
+  },
+  {
+    "start": "745",
+    "end": "01:06:34,680 --> 01:06:35,680",
+    "text": "No, really."
+  },
+  {
+    "start": "746",
+    "end": "01:06:36,680 --> 01:06:57,680",
+    "text": "And it's a tweet that says \"Sometimes I wonder why I'm doing open source, managing a thousand small modules, rather than making the big tool that would give me great visibility\""
+  },
+  {
+    "start": "747",
+    "end": "01:06:57,680 --> 01:07:00,680",
+    "text": "Did I get it right? More or less, that was the meaning?"
+  },
+  {
+    "start": "748",
+    "end": "01:07:00,680 --> 01:07:06,080",
+    "text": "That's exactly the point you gave us"
+  },
+  {
+    "start": "749",
+    "end": "01:07:06,080 --> 01:07:10,080",
+    "text": "Going back to your previous question"
+  },
+  {
+    "start": "750",
+    "end": "01:07:10,080 --> 01:07:15,080",
+    "text": "where I told you \"yes, we know how to move, we know how to chop meat\""
+  },
+  {
+    "start": "751",
+    "end": "01:07:15,080 --> 01:07:18,080",
+    "text": "for the poor maintainer of Nod"
+  },
+  {
+    "start": "752",
+    "end": "01:07:18,080 --> 01:07:24,580",
+    "text": "But, attention, that's a cause for which we give up everything"
+  },
+  {
+    "start": "753",
+    "end": "01:07:24,580 --> 01:07:30,580",
+    "text": "that is, the community really treats you like a dirty rag"
+  },
+  {
+    "start": "754",
+    "end": "01:07:30,580 --> 01:07:39,580",
+    "text": "the other motivation, on which I feel a little inside, if I have to be honest"
+  },
+  {
+    "start": "755",
+    "end": "01:07:39,580 --> 01:07:42,580",
+    "text": "is that I have achieved my goals"
+  },
+  {
+    "start": "756",
+    "end": "01:07:42,580 --> 01:07:47,580",
+    "text": "I had set some goals when I started to contribute to Open Source"
+  },
+  {
+    "start": "757",
+    "end": "01:07:47,580 --> 01:07:49,580",
+    "text": "and I have achieved them"
+  },
+  {
+    "start": "758",
+    "end": "01:07:49,580 --> 01:07:54,080",
+    "text": "and now I have to find new goals"
+  },
+  {
+    "start": "759",
+    "end": "01:07:54,080 --> 01:07:58,080",
+    "text": "and look for new motivation"
+  },
+  {
+    "start": "760",
+    "end": "01:07:58,080 --> 01:07:59,580",
+    "text": "basically"
+  },
+  {
+    "start": "761",
+    "end": "01:07:59,580 --> 01:08:03,580",
+    "text": "and it's not an easy search, in my opinion"
+  },
+  {
+    "start": "762",
+    "end": "01:08:03,580 --> 01:08:06,580",
+    "text": "and I'm in that phase"
+  },
+  {
+    "start": "763",
+    "end": "01:08:06,580 --> 01:08:12,080",
+    "text": "and that tweet condenses exactly what I'm trying now"
+  },
+  {
+    "start": "764",
+    "end": "01:08:12,080 --> 01:08:16,580",
+    "text": "because, often and willingly"
+  },
+  {
+    "start": "765",
+    "end": "01:08:16,580 --> 01:08:28,580",
+    "text": "If a pull request is emerged, ok, good, but if it is not released, your code remains on GitHub and that's it."
+  },
+  {
+    "start": "766",
+    "end": "01:08:28,580 --> 01:08:35,580",
+    "text": "So there are daily operations that I find myself doing."
+  },
+  {
+    "start": "767",
+    "end": "01:08:35,580 --> 01:08:42,860",
+    "text": "check the notifications on the github, check all the billions of pull requests"
+  },
+  {
+    "start": "768",
+    "end": "01:08:42,860 --> 01:08:49,660",
+    "text": "that the pendabot sends and press mark as done after having done if they give them all"
+  },
+  {
+    "start": "769",
+    "end": "01:08:49,660 --> 01:08:58,540",
+    "text": "and now for me it's routine, now I do it automatically"
+  },
+  {
+    "start": "770",
+    "end": "01:08:58,540 --> 01:09:10,940",
+    "text": "I have my tool, \"LazyFy\", which is kept together with the tape, probably older than my grandmother"
+  },
+  {
+    "start": "771",
+    "end": "01:09:10,940 --> 01:09:19,740",
+    "text": "but it does its job, and I don't intend to update it, honestly, because... who makes me do it?"
+  },
+  {
+    "start": "772",
+    "end": "01:09:19,740 --> 01:09:27,740",
+    "text": "I'm in that phase, I'm in the phase where I see a lot of content creators"
+  },
+  {
+    "start": "773",
+    "end": "01:09:27,740 --> 01:09:32,740",
+    "text": "that make a career, that get great results"
+  },
+  {
+    "start": "774",
+    "end": "01:09:32,740 --> 01:09:39,740",
+    "text": "and for great results, guys, let's be clear, I'm not just talking about money"
+  },
+  {
+    "start": "775",
+    "end": "01:09:39,740 --> 01:09:47,740",
+    "text": "but I'm talking about, for example, if you need a beautiful O1 visa for America"
+  },
+  {
+    "start": "776",
+    "end": "01:09:47,740 --> 01:09:55,740",
+    "text": "and you don't have a degree, like in my case, you need to have won awards"
+  },
+  {
+    "start": "777",
+    "end": "01:09:55,740 --> 01:10:02,740",
+    "text": "if you won the MVP or the Google Developer Expert, these things here"
+  },
+  {
+    "start": "778",
+    "end": "01:10:02,740 --> 01:10:10,740",
+    "text": "you can ask for a VISTO or ONE, which is crazy if you think about it"
+  },
+  {
+    "start": "779",
+    "end": "01:10:10,740 --> 01:10:16,340",
+    "text": "and so you see people who use what you do,"
+  },
+  {
+    "start": "780",
+    "end": "01:10:16,340 --> 01:10:20,940",
+    "text": "go further than what you've never done before"
+  },
+  {
+    "start": "781",
+    "end": "01:10:20,940 --> 01:10:25,140",
+    "text": "and so it's a bit of a drag, it's a drag on the inside, yeah, of course"
+  },
+  {
+    "start": "782",
+    "end": "01:10:25,140 --> 01:10:31,140",
+    "text": "on this, they're talking about envy, is envy bad as an emotion?"
+  },
+  {
+    "start": "783",
+    "end": "01:10:31,140 --> 01:10:37,740",
+    "text": "Yes, a bit, yes, but if we take envy and, how to say,"
+  },
+  {
+    "start": "784",
+    "end": "01:10:37,740 --> 01:10:41,740",
+    "text": "if we become sour, it's bad"
+  },
+  {
+    "start": "785",
+    "end": "01:10:41,740 --> 01:10:45,740",
+    "text": "but if we take this envy and transform it into motivation"
+  },
+  {
+    "start": "786",
+    "end": "01:10:45,740 --> 01:10:49,740",
+    "text": "or admiration"
+  },
+  {
+    "start": "787",
+    "end": "01:10:49,740 --> 01:10:55,740",
+    "text": "I don't know if I admire all these content creators"
+  },
+  {
+    "start": "788",
+    "end": "01:10:55,740 --> 01:11:01,740",
+    "text": "anyway, you take it and transform it into energy"
+  },
+  {
+    "start": "789",
+    "end": "01:11:01,740 --> 01:11:05,740",
+    "text": "to find new goals"
+  },
+  {
+    "start": "790",
+    "end": "01:11:05,740 --> 01:11:09,740",
+    "text": "and then say \"ok, you know what?"
+  },
+  {
+    "start": "791",
+    "end": "01:11:09,740 --> 01:11:13,740",
+    "text": "the plugin should be re-made\""
+  },
+  {
+    "start": "792",
+    "end": "01:11:13,740 --> 01:11:17,740",
+    "text": "I'm ok with that, I know how to use it"
+  },
+  {
+    "start": "793",
+    "end": "01:11:17,740 --> 01:11:21,740",
+    "text": "and if someone wants to use it again,"
+  },
+  {
+    "start": "794",
+    "end": "01:11:21,740 --> 01:11:25,740",
+    "text": "they should do it, otherwise"
+  },
+  {
+    "start": "795",
+    "end": "01:11:25,740 --> 01:11:29,740",
+    "text": "I work on my projects, and in the last"
+  },
+  {
+    "start": "796",
+    "end": "01:11:29,740 --> 01:11:33,740",
+    "text": "4-5 months I've been doing this"
+  },
+  {
+    "start": "797",
+    "end": "01:11:33,740 --> 01:11:37,180",
+    "text": "I'm doing maintenance for sure, for the Fastify projects"
+  },
+  {
+    "start": "798",
+    "end": "01:11:37,180 --> 01:11:43,020",
+    "text": "I was going back to the train on Sunday, there were the test of Fastify that didn't work"
+  },
+  {
+    "start": "799",
+    "end": "01:11:43,020 --> 01:11:47,180",
+    "text": "I fixed them, a little bit of maintenance, I have to do it"
+  },
+  {
+    "start": "800",
+    "end": "01:11:47,180 --> 01:11:50,780",
+    "text": "But big features, I'm not doing them"
+  },
+  {
+    "start": "801",
+    "end": "01:11:50,780 --> 01:11:56,540",
+    "text": "The last big feature I think is in July, June"
+  },
+  {
+    "start": "802",
+    "end": "01:11:56,540 --> 01:12:01,900",
+    "text": "So I'm going a little bit slow if I have to be honest"
+  },
+  {
+    "start": "803",
+    "end": "01:12:01,900 --> 01:12:05,900",
+    "text": "And what does this mean for you, community?"
+  },
+  {
+    "start": "804",
+    "end": "01:12:05,900 --> 01:12:13,900",
+    "text": "It means that the 5.0 version of Fastify, if we don't implement all the necessary things,"
+  },
+  {
+    "start": "805",
+    "end": "01:12:13,900 --> 01:12:17,900",
+    "text": "it won't be released at the beginning of next year."
+  },
+  {
+    "start": "806",
+    "end": "01:12:17,900 --> 01:12:19,900",
+    "text": "It will be released, maybe, at the end."
+  },
+  {
+    "start": "807",
+    "end": "01:12:19,900 --> 01:12:22,900",
+    "text": "Now, clearly, there's Matteo with his startup,"
+  },
+  {
+    "start": "808",
+    "end": "01:12:22,900 --> 01:12:26,900",
+    "text": "he's really giving a crazy boost to Fastify."
+  },
+  {
+    "start": "809",
+    "end": "01:12:26,900 --> 01:12:31,900",
+    "text": "but it may not be enough"
+  },
+  {
+    "start": "810",
+    "end": "01:12:31,900 --> 01:12:38,900",
+    "text": "and this goes back to the discussion we made about sustainability"
+  },
+  {
+    "start": "811",
+    "end": "01:12:38,900 --> 01:12:44,900",
+    "text": "if the currency you pay with, or one of the few currencies you pay with"
+  },
+  {
+    "start": "812",
+    "end": "01:12:44,900 --> 01:12:50,900",
+    "text": "all the effort, the visibility, when it doesn't arrive, the land starts to falter"
+  },
+  {
+    "start": "813",
+    "end": "01:12:50,900 --> 01:12:56,900",
+    "text": "If you are that programmer in Massachusetts or in Culandia"
+  },
+  {
+    "start": "814",
+    "end": "01:12:56,900 --> 01:12:59,900",
+    "text": "who manages the module that does..."
+  },
+  {
+    "start": "815",
+    "end": "01:12:59,900 --> 01:13:04,900",
+    "text": "(as far as JavaScript is concerned, this is very present)"
+  },
+  {
+    "start": "816",
+    "end": "01:13:04,900 --> 01:13:08,900",
+    "text": "the module that does a specific thing but nobody cares about it"
+  },
+  {
+    "start": "817",
+    "end": "01:13:08,900 --> 01:13:11,900",
+    "text": "because it is used by everyone..."
+  },
+  {
+    "start": "818",
+    "end": "01:13:11,900 --> 01:13:13,900",
+    "text": "but... well..."
+  },
+  {
+    "start": "819",
+    "end": "01:13:13,900 --> 01:13:15,900",
+    "text": "an example..."
+  },
+  {
+    "start": "820",
+    "end": "01:13:15,900 --> 01:13:18,900",
+    "text": "Babel is quite famous, right?"
+  },
+  {
+    "start": "821",
+    "end": "01:13:18,900 --> 01:13:28,900",
+    "text": "but we could draw the example of some modulino that is everywhere and no one gives a shit about it"
+  },
+  {
+    "start": "822",
+    "end": "01:13:28,900 --> 01:13:35,900",
+    "text": "in the end you really risk that the whole industry that is built above does not hold"
+  },
+  {
+    "start": "823",
+    "end": "01:13:35,900 --> 01:13:41,900",
+    "text": "very simple, because the currency with which it is paying is the \"we want if it's good\""
+  },
+  {
+    "start": "824",
+    "end": "01:13:41,900 --> 01:13:47,900",
+    "text": "and among other things \"we want if it's good\" does not always hold because there are shitty bullets"
+  },
+  {
+    "start": "825",
+    "end": "01:13:47,900 --> 01:13:51,900",
+    "text": "because the new super framework is coming out"
+  },
+  {
+    "start": "826",
+    "end": "01:13:51,900 --> 01:13:54,900",
+    "text": "which has the investment fund under its hood"
+  },
+  {
+    "start": "827",
+    "end": "01:13:54,900 --> 01:13:56,900",
+    "text": "which is unhooking cash"
+  },
+  {
+    "start": "828",
+    "end": "01:13:56,900 --> 01:14:00,900",
+    "text": "and we are building the products"
+  },
+  {
+    "start": "829",
+    "end": "01:14:00,900 --> 01:14:03,900",
+    "text": "It was quite recent, a few months ago"
+  },
+  {
+    "start": "830",
+    "end": "01:14:03,900 --> 01:14:06,900",
+    "text": "I don't remember which project, Node.js"
+  },
+  {
+    "start": "831",
+    "end": "01:14:06,900 --> 01:14:09,900",
+    "text": "that Mantini said \"I won't do it anymore"
+  },
+  {
+    "start": "832",
+    "end": "01:14:09,900 --> 01:14:11,900",
+    "text": "because I saw that whoever uses it\""
+  },
+  {
+    "start": "833",
+    "end": "01:14:11,900 --> 01:14:15,900",
+    "text": "and we were talking about Microsoft, Google, etc"
+  },
+  {
+    "start": "834",
+    "end": "01:14:15,900 --> 01:14:20,900",
+    "text": "I don't do it anymore, I asked for help and no one gives me a penny"
+  },
+  {
+    "start": "835",
+    "end": "01:14:20,900 --> 01:14:26,900",
+    "text": "so I quit and you keep it. I don't remember the name of the event"
+  },
+  {
+    "start": "836",
+    "end": "01:14:26,900 --> 01:14:32,900",
+    "text": "I remember the event that made a big impact on Twitter"
+  },
+  {
+    "start": "837",
+    "end": "01:14:32,900 --> 01:14:37,900",
+    "text": "but then nothing was done there"
+  },
+  {
+    "start": "838",
+    "end": "01:14:37,900 --> 01:14:39,900",
+    "text": "Yes"
+  },
+  {
+    "start": "839",
+    "end": "01:14:39,900 --> 01:14:45,960",
+    "text": "I would say, I was looking at the time, I actually have a lot of questions"
+  },
+  {
+    "start": "840",
+    "end": "01:14:45,960 --> 01:14:48,620",
+    "text": "I want to ask you one"
+  },
+  {
+    "start": "841",
+    "end": "01:14:48,620 --> 01:14:51,020",
+    "text": "that"
+  },
+  {
+    "start": "842",
+    "end": "01:14:51,020 --> 01:14:56,920",
+    "text": "you manage, in addition to the codebase, in some way you collaborate in addition to the codebase of Fastify, also"
+  },
+  {
+    "start": "843",
+    "end": "01:14:56,920 --> 01:15:01,720",
+    "text": "has a gazillion of plugins, because how Fastify did everything"
+  },
+  {
+    "start": "844",
+    "end": "01:15:02,900 --> 01:15:09,480",
+    "text": "Can be a plugin. You said you have your tooling to do it when there are hundreds of"
+  },
+  {
+    "start": "845",
+    "end": "01:15:09,480 --> 01:15:14,500",
+    "text": "A poly rep that touches hundreds of points"
+  },
+  {
+    "start": "846",
+    "end": "01:15:14,500 --> 01:15:20,860",
+    "text": "How how how how how how you manage them that you have"
+  },
+  {
+    "start": "847",
+    "end": "01:15:20,860 --> 01:15:26,380",
+    "text": "So, of course, the ocean board is a"
+  },
+  {
+    "start": "848",
+    "end": "01:15:27,900 --> 01:15:37,340",
+    "text": "a project that has open source on github very banal very spartan version 0 but it works and simply"
+  },
+  {
+    "start": "849",
+    "end": "01:15:37,340 --> 01:15:46,780",
+    "text": "At a regular rate it takes all the information from github and puts them on a table in ocean"
+  },
+  {
+    "start": "850",
+    "end": "01:15:46,780 --> 01:15:54,340",
+    "text": "End this is basic this gives me the overview of the projects and what I do by looking"
+  },
+  {
+    "start": "851",
+    "end": "01:15:56,180 --> 01:16:01,880",
+    "text": "This table I look at which repositories have more open issues"
+  },
+  {
+    "start": "852",
+    "end": "01:16:01,880 --> 01:16:08,060",
+    "text": "Because and then I go to check there was some problem"
+  },
+  {
+    "start": "853",
+    "end": "01:16:08,060 --> 01:16:12,660",
+    "text": "if a repository is too much and this part means that"
+  },
+  {
+    "start": "854",
+    "end": "01:16:12,660 --> 01:16:16,140",
+    "text": "It's staying a little behind with the review"
+  },
+  {
+    "start": "855",
+    "end": "01:16:16,140 --> 01:16:23,100",
+    "text": "I do this kind of analysis this usually on Saturday morning"
+  },
+  {
+    "start": "856",
+    "end": "01:16:24,220 --> 01:16:30,460",
+    "text": "Instead, for the releases, I rely on the guitar notifications."
+  },
+  {
+    "start": "857",
+    "end": "01:16:30,460 --> 01:16:35,340",
+    "text": "I have constantly 300 notifications, basically."
+  },
+  {
+    "start": "858",
+    "end": "01:16:35,340 --> 01:16:42,940",
+    "text": "And I go to a hundred a day, which is constantly refilled the next day."
+  },
+  {
+    "start": "859",
+    "end": "01:16:42,940 --> 01:16:50,580",
+    "text": "So when I see something that has been merged, or something that has been approved by other people,"
+  },
+  {
+    "start": "860",
+    "end": "01:16:50,580 --> 01:16:54,580",
+    "text": "I emerge and off I go on the launch ramp."
+  },
+  {
+    "start": "861",
+    "end": "01:16:54,580 --> 01:16:58,780",
+    "text": "So, it's a routine now."
+  },
+  {
+    "start": "862",
+    "end": "01:16:58,780 --> 01:17:02,700",
+    "text": "It's a routine that requires to be done."
+  },
+  {
+    "start": "863",
+    "end": "01:17:02,700 --> 01:17:10,260",
+    "text": "You can't hear me, right?"
+  },
+  {
+    "start": "864",
+    "end": "01:17:10,260 --> 01:17:12,980",
+    "text": "Here, as the opening says, right?"
+  },
+  {
+    "start": "865",
+    "end": "01:17:12,980 --> 01:17:17,380",
+    "text": "This time it's not five minutes, but I was talking without a microphone."
+  },
+  {
+    "start": "866",
+    "end": "01:17:20,460 --> 01:17:32,180",
+    "text": "I would have liked to talk about Fastify, but we don't have the time, we'll probably do a day where we'll try to talk in detail about Fastify"
+  },
+  {
+    "start": "867",
+    "end": "01:17:32,180 --> 01:17:38,780",
+    "text": "and do an episode like \"Fastify vs Express\" or \"Fastify vs Nest\""
+  },
+  {
+    "start": "868",
+    "end": "01:17:38,780 --> 01:17:45,260",
+    "text": "But I know that Carmine has a question about Fastify that he can't keep to himself"
+  },
+  {
+    "start": "869",
+    "end": "01:17:45,260 --> 01:17:52,260",
+    "text": "Actually it's not a question about FF6 but in general, because this is something we often ask ourselves"
+  },
+  {
+    "start": "870",
+    "end": "01:17:52,260 --> 01:17:56,260",
+    "text": "and we also asked our internal group of hosts of Github a few weeks ago"
+  },
+  {
+    "start": "871",
+    "end": "01:17:56,260 --> 01:18:04,260",
+    "text": "Why JavaScript, in your opinion, unlike PHP, Ruby, Python, doesn't have..."
+  },
+  {
+    "start": "872",
+    "end": "01:18:04,260 --> 01:18:15,260",
+    "text": "But, leaving out NEST, I don't want to go into my opinions, please, if you want to do Java, do Java, Java is really nice"
+  },
+  {
+    "start": "873",
+    "end": "01:18:15,260 --> 01:18:25,760",
+    "text": "But, in your opinion, why isn't there a monolithic framework, I don't mean by reference, because there are different ecosystems"
+  },
+  {
+    "start": "874",
+    "end": "01:18:25,760 --> 01:18:37,560",
+    "text": "Why isn't there a monolithic framework or opinionated to do production, to do RAD, but also the equivalent of Rails for JavaScript?"
+  },
+  {
+    "start": "875",
+    "end": "01:18:37,560 --> 01:18:48,560",
+    "text": "I remember that a while ago, I'm talking about years ago, when I started, there was something about IBM Loop something, but then I think that it has also lost that in Ether."
+  },
+  {
+    "start": "876",
+    "end": "01:18:48,560 --> 01:18:58,560",
+    "text": "Why? There's no need and if Fastify can become something like that,"
+  },
+  {
+    "start": "877",
+    "end": "01:18:58,560 --> 01:19:02,560",
+    "text": "by joining it to some plugins, a bit like React,"
+  },
+  {
+    "start": "878",
+    "end": "01:19:02,560 --> 01:19:08,560",
+    "text": "which was born as a UI framework but with various libraries around it,"
+  },
+  {
+    "start": "879",
+    "end": "01:19:08,560 --> 01:19:13,560",
+    "text": "it can become something more structured for single-page applications"
+  },
+  {
+    "start": "880",
+    "end": "01:19:13,560 --> 01:19:18,560",
+    "text": "for things that are a bit different from his original goal"
+  },
+  {
+    "start": "881",
+    "end": "01:19:18,560 --> 01:19:20,560",
+    "text": "Well..."
+  },
+  {
+    "start": "882",
+    "end": "01:19:20,560 --> 01:19:24,560",
+    "text": "I don't know if I should answer with a marketing question"
+  },
+  {
+    "start": "883",
+    "end": "01:19:24,560 --> 01:19:29,560",
+    "text": "and I look at Leonardo's shirt"
+  },
+  {
+    "start": "884",
+    "end": "01:19:29,560 --> 01:19:34,560",
+    "text": "otherwise the direct answer to your question is"
+  },
+  {
+    "start": "885",
+    "end": "01:19:34,560 --> 01:19:35,560",
+    "text": "marketing"
+  },
+  {
+    "start": "886",
+    "end": "01:19:35,560 --> 01:19:37,560",
+    "text": "I'm done"
+  },
+  {
+    "start": "887",
+    "end": "01:19:38,560 --> 01:19:47,060",
+    "text": "In my opinion it's just a matter of advertising all the various features that a framework can have"
+  },
+  {
+    "start": "888",
+    "end": "01:19:47,060 --> 01:19:49,960",
+    "text": "And then..."
+  },
+  {
+    "start": "889",
+    "end": "01:19:49,960 --> 01:19:54,960",
+    "text": "A framework that does everything will probably do everything wrong"
+  },
+  {
+    "start": "890",
+    "end": "01:19:54,960 --> 01:20:01,160",
+    "text": "I always have this opinion, honestly"
+  },
+  {
+    "start": "891",
+    "end": "01:20:03,760 --> 01:20:13,760",
+    "text": "and as soon as you leave the seeding, it becomes a very impervious road"
+  },
+  {
+    "start": "892",
+    "end": "01:20:13,760 --> 01:20:20,760",
+    "text": "and so it's necessary, I don't know, sometimes I have the idea"
+  },
+  {
+    "start": "893",
+    "end": "01:20:20,760 --> 01:20:28,760",
+    "text": "but if we all worked on the same project, if we all worked on the same things"
+  },
+  {
+    "start": "894",
+    "end": "01:20:29,760 --> 01:20:33,760",
+    "text": "we will live in the future"
+  },
+  {
+    "start": "895",
+    "end": "01:20:33,760 --> 01:20:37,760",
+    "text": "and I don't know how true this is"
+  },
+  {
+    "start": "896",
+    "end": "01:20:37,760 --> 01:20:41,760",
+    "text": "sorry, I just remembered"
+  },
+  {
+    "start": "897",
+    "end": "01:20:41,760 --> 01:20:45,760",
+    "text": "there was a framework called Sales"
+  },
+  {
+    "start": "898",
+    "end": "01:20:45,760 --> 01:20:49,760",
+    "text": "I don't know if it still exists"
+  },
+  {
+    "start": "899",
+    "end": "01:20:49,760 --> 01:20:53,760",
+    "text": "there are two, one is Sales, JS"
+  },
+  {
+    "start": "900",
+    "end": "01:20:53,760 --> 01:20:57,760",
+    "text": "and the other is Adonis, which is a bit more apart"
+  },
+  {
+    "start": "901",
+    "end": "01:20:57,760 --> 01:21:02,760",
+    "text": "The truth is that they are not famous and structured"
+  },
+  {
+    "start": "902",
+    "end": "01:21:02,760 --> 01:21:05,760",
+    "text": "The one with IBM is called Loopback"
+  },
+  {
+    "start": "903",
+    "end": "01:21:05,760 --> 01:21:07,760",
+    "text": "Loopback, yes, yes"
+  },
+  {
+    "start": "904",
+    "end": "01:21:07,760 --> 01:21:09,760",
+    "text": "Let's leave Loopback"
+  },
+  {
+    "start": "905",
+    "end": "01:21:09,760 --> 01:21:14,760",
+    "text": "But on this thing, coming from the world of PHP with Aravel"
+  },
+  {
+    "start": "906",
+    "end": "01:21:14,760 --> 01:21:18,760",
+    "text": "Even now, if I have to think about it"
+  },
+  {
+    "start": "907",
+    "end": "01:21:18,760 --> 01:21:20,760",
+    "text": "If I had to make a full stack application"
+  },
+  {
+    "start": "908",
+    "end": "01:21:20,760 --> 01:21:23,760",
+    "text": "I've always done it with Aravel because it already had everything integrated"
+  },
+  {
+    "start": "909",
+    "end": "01:21:23,760 --> 01:21:35,760",
+    "text": "If I had to do API, I used Node.js with API, which was the JSON part of Express, and then Fastify."
+  },
+  {
+    "start": "910",
+    "end": "01:21:35,760 --> 01:21:40,760",
+    "text": "But it's as if in JavaScript this problem wasn't solved."
+  },
+  {
+    "start": "911",
+    "end": "01:21:40,760 --> 01:21:45,760",
+    "text": "If it wasn't solved, I would think there was a reason, because I don't think anyone thought about it."
+  },
+  {
+    "start": "912",
+    "end": "01:21:45,760 --> 01:21:49,760",
+    "text": "But maybe in the meantime there was a division between doing the backend and doing the frontend,"
+  },
+  {
+    "start": "913",
+    "end": "01:21:49,760 --> 01:21:54,080",
+    "text": "the frontend, which was very separate, because I said, ok, I have to do the frontend in a way"
+  },
+  {
+    "start": "914",
+    "end": "01:21:54,080 --> 01:21:59,600",
+    "text": "and then call the API with a framework, a web server, or whatever we want to call it,"
+  },
+  {
+    "start": "915",
+    "end": "01:21:59,600 --> 01:22:04,520",
+    "text": "that is fast to do API. Then you have to do your side project and you lose"
+  },
+  {
+    "start": "916",
+    "end": "01:22:04,520 --> 01:22:10,520",
+    "text": "four and a half days doing scaffolding. And your friend with Aravel has already deployed,"
+  },
+  {
+    "start": "917",
+    "end": "01:22:10,520 --> 01:22:16,840",
+    "text": "gone out to the market and is already monetizing. Exactly, the thing is that, in the sense, there is"
+  },
+  {
+    "start": "918",
+    "end": "01:22:16,840 --> 01:22:23,560",
+    "text": "There's NEST, or Nezaho NEST, which is a pretty cool thing, but the world is beautiful because it's diverse"
+  },
+  {
+    "start": "919",
+    "end": "01:22:23,560 --> 01:22:30,080",
+    "text": "But, in the sense of something that has the speed, the robustness and the documentation of"
+  },
+  {
+    "start": "920",
+    "end": "01:22:30,080 --> 01:22:34,240",
+    "text": "Linux, Rails, Laravel, Symfony, I don't know, in the sense of"
+  },
+  {
+    "start": "921",
+    "end": "01:22:34,240 --> 01:22:38,480",
+    "text": "It's something that I think is missing and could be useful to a lot of people"
+  },
+  {
+    "start": "922",
+    "end": "01:22:38,480 --> 01:22:45,240",
+    "text": "But, here I put the disclaimer, something that doesn't go to mock the other frameworks"
+  },
+  {
+    "start": "923",
+    "end": "01:22:45,240 --> 01:22:53,240",
+    "text": "Or better, if I find myself in the same situation where the class is already written to make the controller, well, I already have it nested."
+  },
+  {
+    "start": "924",
+    "end": "01:22:53,240 --> 01:23:01,240",
+    "text": "So having something that is well integrated into the language and that connects me to do my things."
+  },
+  {
+    "start": "925",
+    "end": "01:23:01,240 --> 01:23:13,240",
+    "text": "I mean, I don't know, if I had to do it as my side project, but I'm no one, I don't know, it would be like an extension of the current Cli of Fastify."
+  },
+  {
+    "start": "926",
+    "end": "01:23:13,240 --> 01:23:20,400",
+    "text": "I would do the project scaffolding, but maybe I would give you some options with the more or less official plugins, etc."
+  },
+  {
+    "start": "927",
+    "end": "01:23:20,400 --> 01:23:23,080",
+    "text": "to do something more structured."
+  },
+  {
+    "start": "928",
+    "end": "01:23:23,080 --> 01:23:29,200",
+    "text": "In the sense, Fastify with the click, with the autoloading of things is going in that direction."
+  },
+  {
+    "start": "929",
+    "end": "01:23:29,200 --> 01:23:35,480",
+    "text": "The fact that I put things in a terminated folder according to a certain convention"
+  },
+  {
+    "start": "930",
+    "end": "01:23:35,480 --> 01:23:38,080",
+    "text": "and I find them according to that certain convention,"
+  },
+  {
+    "start": "931",
+    "end": "01:23:38,080 --> 01:23:41,680",
+    "text": "it goes a lot in the direction of this type of product."
+  },
+  {
+    "start": "932",
+    "end": "01:23:41,680 --> 01:23:46,680",
+    "text": "my hope is that maybe by following this direction"
+  },
+  {
+    "start": "933",
+    "end": "01:23:46,680 --> 01:23:52,680",
+    "text": "we can provide more opinionated choices on certain things"
+  },
+  {
+    "start": "934",
+    "end": "01:23:52,680 --> 01:23:57,680",
+    "text": "and while before we were saying that if a framework does everything, maybe it doesn't do it well"
+  },
+  {
+    "start": "935",
+    "end": "01:23:57,680 --> 01:24:01,680",
+    "text": "there's the Lorocto that is turning on the Lamborghini"
+  },
+  {
+    "start": "936",
+    "end": "01:24:01,680 --> 01:24:04,680",
+    "text": "but in the sense that..."
+  },
+  {
+    "start": "937",
+    "end": "01:24:04,680 --> 01:24:09,680",
+    "text": "a framework... sorry, I'm recalculating"
+  },
+  {
+    "start": "938",
+    "end": "01:24:09,680 --> 01:24:11,680",
+    "text": "because often it's a framework..."
+  },
+  {
+    "start": "939",
+    "end": "01:24:11,680 --> 01:24:16,680",
+    "text": "Manuel, we often talk about the context where we work,"
+  },
+  {
+    "start": "940",
+    "end": "01:24:16,680 --> 01:24:21,680",
+    "text": "which is often a context of quite complicated applications,"
+  },
+  {
+    "start": "941",
+    "end": "01:24:21,680 --> 01:24:23,680",
+    "text": "very large, many microservices,"
+  },
+  {
+    "start": "942",
+    "end": "01:24:23,680 --> 01:24:26,680",
+    "text": "where I would never use Laravel or similar,"
+  },
+  {
+    "start": "943",
+    "end": "01:24:26,680 --> 01:24:30,680",
+    "text": "but I need to have control over every small component."
+  },
+  {
+    "start": "944",
+    "end": "01:24:30,680 --> 01:24:34,680",
+    "text": "In the context, I return to the small agency,"
+  },
+  {
+    "start": "945",
+    "end": "01:24:34,680 --> 01:24:39,680",
+    "text": "because the market has that breadth."
+  },
+  {
+    "start": "946",
+    "end": "01:24:39,680 --> 01:24:43,680",
+    "text": "So I return mentally to the small agency and I think,"
+  },
+  {
+    "start": "947",
+    "end": "01:24:43,680 --> 01:24:52,680",
+    "text": "if I have to create a site for a client,"
+  },
+  {
+    "start": "948",
+    "end": "01:24:52,680 --> 01:24:56,680",
+    "text": "I have to pull it up in four days,"
+  },
+  {
+    "start": "949",
+    "end": "01:24:56,680 --> 01:24:58,680",
+    "text": "because these are the deadlines,"
+  },
+  {
+    "start": "950",
+    "end": "01:24:58,680 --> 01:25:01,680",
+    "text": "I have to pull it up for yesterday, with authentication,"
+  },
+  {
+    "start": "951",
+    "end": "01:25:01,680 --> 01:25:03,680",
+    "text": "Un piccolo panelino"
+  },
+  {
+    "start": "952",
+    "end": "01:25:03,680 --> 01:25:10,400",
+    "text": "L invio di mail a quel punto farlo con confusione di con la prima cosa che faccio installo fastify"
+  },
+  {
+    "start": "953",
+    "end": "01:25:10,400 --> 01:25:17,120",
+    "text": "Ok, puoi ci vuol mettere l'inter e ci vuol mettere prettier e ceo fare questo e poi il plugin di"
+  },
+  {
+    "start": "954",
+    "end": "01:25:17,120 --> 01:25:22,560",
+    "text": "Di di loghi quale utilizzo quindi in realtà quel fastify a tutto"
+  },
+  {
+    "start": "955",
+    "end": "01:25:22,560 --> 01:25:27,040",
+    "text": "quello che manca e il glue code che ci mette ritutto"
+  },
+  {
+    "start": "956",
+    "end": "01:25:27,240 --> 01:25:33,480",
+    "text": "Yes, but it's also a matter of standardization, I mean, it's true if I have to do my own service, the complex code, I have to use a framework"
+  },
+  {
+    "start": "957",
+    "end": "01:25:33,480 --> 01:25:37,640",
+    "text": "But, yes, SNI, I mean, if I talk about my personal experience"
+  },
+  {
+    "start": "958",
+    "end": "01:25:37,640 --> 01:25:43,080",
+    "text": "We have a complex product, which is Trent, a system of coins, blah blah blah, several services"
+  },
+  {
+    "start": "959",
+    "end": "01:25:43,080 --> 01:25:46,120",
+    "text": "But they are made with Phoenix, in the Phoenix way"
+  },
+  {
+    "start": "960",
+    "end": "01:25:46,120 --> 01:25:51,560",
+    "text": "But the same thing, we could do it with Rails, we could do it with Django, with something else"
+  },
+  {
+    "start": "961",
+    "end": "01:25:51,560 --> 01:25:56,440",
+    "text": "what the framework gives you are binaries that are battle-tested,"
+  },
+  {
+    "start": "962",
+    "end": "01:25:56,440 --> 01:26:00,080",
+    "text": "that have sensible defaults,"
+  },
+  {
+    "start": "963",
+    "end": "01:26:00,080 --> 01:26:04,160",
+    "text": "that allow you to focus on your business logic,"
+  },
+  {
+    "start": "964",
+    "end": "01:26:04,160 --> 01:26:05,160",
+    "text": "on what really matters,"
+  },
+  {
+    "start": "965",
+    "end": "01:26:05,160 --> 01:26:07,040",
+    "text": "which can be the little panel,"
+  },
+  {
+    "start": "966",
+    "end": "01:26:07,040 --> 01:26:09,040",
+    "text": "or the system of..."
+  },
+  {
+    "start": "967",
+    "end": "01:26:09,040 --> 01:26:13,640",
+    "text": "or an iterating, or the next distributed system, etc."
+  },
+  {
+    "start": "968",
+    "end": "01:26:13,640 --> 01:26:18,760",
+    "text": "That obviously also depends on the type of technology you have chosen,"
+  },
+  {
+    "start": "969",
+    "end": "01:26:18,760 --> 01:26:21,360",
+    "text": "but for me the framework is useful because it gives you guidelines,"
+  },
+  {
+    "start": "970",
+    "end": "01:26:21,360 --> 01:26:25,360",
+    "text": "that allows you to focus on infrastructural things that"
+  },
+  {
+    "start": "971",
+    "end": "01:26:25,360 --> 01:26:29,360",
+    "text": "either you can't do or you don't know how to do or that take your time"
+  },
+  {
+    "start": "972",
+    "end": "01:26:29,360 --> 01:26:32,360",
+    "text": "and that can be already standardized"
+  },
+  {
+    "start": "973",
+    "end": "01:26:32,360 --> 01:26:36,360",
+    "text": "I always like to repeat that if you have to spend 40 hours"
+  },
+  {
+    "start": "974",
+    "end": "01:26:36,360 --> 01:26:41,360",
+    "text": "to make your routing system, your ORM, your query builder, whatever you want"
+  },
+  {
+    "start": "975",
+    "end": "01:26:41,360 --> 01:26:46,360",
+    "text": "it means that you don't have your product"
+  },
+  {
+    "start": "976",
+    "end": "01:26:46,360 --> 01:26:55,360",
+    "text": "and if you can afford to spend 40 hours on these bullshit that have already been solved in 15 different languages"
+  },
+  {
+    "start": "977",
+    "end": "01:26:55,360 --> 01:26:59,360",
+    "text": "rather than writing a piece of business logic."
+  },
+  {
+    "start": "978",
+    "end": "01:26:59,360 --> 01:27:03,360",
+    "text": "Probably it's the nth crude with a nice marketing department"
+  },
+  {
+    "start": "979",
+    "end": "01:27:03,360 --> 01:27:08,360",
+    "text": "and there's nothing wrong with it, but at this point it uses the right tool."
+  },
+  {
+    "start": "980",
+    "end": "01:27:08,360 --> 01:27:16,360",
+    "text": "It's not about the number, but in the recording date of this podcast"
+  },
+  {
+    "start": "981",
+    "end": "01:27:16,360 --> 01:27:19,360",
+    "text": "the Platformatic 1.0 came out."
+  },
+  {
+    "start": "982",
+    "end": "01:27:19,360 --> 01:27:21,360",
+    "text": "This episode is not sponsored"
+  },
+  {
+    "start": "983",
+    "end": "01:27:21,360 --> 01:27:23,360",
+    "text": "But it has nothing to do with what we talked about."
+  },
+  {
+    "start": "984",
+    "end": "01:27:23,360 --> 01:27:26,360",
+    "text": "We take care of that. I mean, I am paid by the strong Platformatic powers"
+  },
+  {
+    "start": "985",
+    "end": "01:27:26,360 --> 01:27:29,360",
+    "text": "so I had to bring this thing."
+  },
+  {
+    "start": "986",
+    "end": "01:27:29,360 --> 01:27:35,360",
+    "text": "You can say this, because people understand"
+  },
+  {
+    "start": "987",
+    "end": "01:27:35,360 --> 01:27:38,360",
+    "text": "I would like to say it too, guys, it's about to be..."
+  },
+  {
+    "start": "988",
+    "end": "01:27:38,360 --> 01:27:41,360",
+    "text": "It's about to be, we released a few weeks ago"
+  },
+  {
+    "start": "989",
+    "end": "01:27:41,360 --> 01:27:45,360",
+    "text": "a new version of Trent, the monitoring tool for the two clusters"
+  },
+  {
+    "start": "990",
+    "end": "01:27:45,360 --> 01:27:48,360",
+    "text": "No, I swear"
+  },
+  {
+    "start": "991",
+    "end": "01:27:48,360 --> 01:27:56,360",
+    "text": "If you want to see it, I think it's a bit different"
+  },
+  {
+    "start": "992",
+    "end": "01:27:56,360 --> 01:28:00,360",
+    "text": "compared to the platform one"
+  },
+  {
+    "start": "993",
+    "end": "01:28:00,360 --> 01:28:02,360",
+    "text": "but on SAP..."
+  },
+  {
+    "start": "994",
+    "end": "01:28:02,360 --> 01:28:11,360",
+    "text": "Carmine, I'll just send you a sentence"
+  },
+  {
+    "start": "995",
+    "end": "01:28:11,360 --> 01:28:14,360",
+    "text": "to answer you"
+  },
+  {
+    "start": "996",
+    "end": "01:28:14,360 --> 01:28:17,360",
+    "text": "I repeat, marketing"
+  },
+  {
+    "start": "997",
+    "end": "01:28:17,360 --> 01:28:20,360",
+    "text": "because I put some links in the chat"
+  },
+  {
+    "start": "998",
+    "end": "01:28:20,360 --> 01:28:23,360",
+    "text": "that will be included in the night of the episode"
+  },
+  {
+    "start": "999",
+    "end": "01:28:23,360 --> 01:28:28,360",
+    "text": "There was a project Fastify DX that had this purpose"
+  },
+  {
+    "start": "1000",
+    "end": "01:28:28,360 --> 01:28:32,360",
+    "text": "But, here it is, what happened?"
+  },
+  {
+    "start": "1001",
+    "end": "01:28:32,360 --> 01:28:38,360",
+    "text": "The only maintainer that was actively working on it, is basically not working anymore"
+  },
+  {
+    "start": "1002",
+    "end": "01:28:38,360 --> 01:28:49,360",
+    "text": "So it's true that the Fastify organization has a lot of lack of people that the frontend knows as its pockets"
+  },
+  {
+    "start": "1003",
+    "end": "01:28:49,360 --> 01:28:56,360",
+    "text": "and another link I sent you is my repository on github, Receptify"
+  },
+  {
+    "start": "1004",
+    "end": "01:28:56,360 --> 01:29:03,360",
+    "text": "which is a refactor of an existing application that was on Express"
+  },
+  {
+    "start": "1005",
+    "end": "01:29:03,360 --> 01:29:11,360",
+    "text": "and that one has everything, it has a React web application with Vite"
+  },
+  {
+    "start": "1006",
+    "end": "01:29:11,360 --> 01:29:15,360",
+    "text": "and it has the OAuth authentication with Spotify"
+  },
+  {
+    "start": "1007",
+    "end": "01:29:15,360 --> 01:29:19,480",
+    "text": "a little bit of API to show a little bit of data"
+  },
+  {
+    "start": "1008",
+    "end": "01:29:19,480 --> 01:29:21,480",
+    "text": "very simple"
+  },
+  {
+    "start": "1009",
+    "end": "01:29:21,480 --> 01:29:26,560",
+    "text": "is that marketing takes away more time than managing"
+  },
+  {
+    "start": "1010",
+    "end": "01:29:26,560 --> 01:29:29,880",
+    "text": "a thousand thousand repositories"
+  },
+  {
+    "start": "1011",
+    "end": "01:29:29,880 --> 01:29:31,880",
+    "text": "and really"
+  },
+  {
+    "start": "1012",
+    "end": "01:29:31,880 --> 01:29:35,800",
+    "text": "if there were people who want to contribute to the open source"
+  },
+  {
+    "start": "1013",
+    "end": "01:29:35,800 --> 01:29:40,880",
+    "text": "but he is not a programmer but he is simply a marketing person"
+  },
+  {
+    "start": "1014",
+    "end": "01:29:40,880 --> 01:29:45,880",
+    "text": "that could really find so much space and visibility"
+  },
+  {
+    "start": "1015",
+    "end": "01:29:45,880 --> 01:29:50,880",
+    "text": "within open source channels that I think you have no idea about."
+  },
+  {
+    "start": "1016",
+    "end": "01:29:50,880 --> 01:29:58,880",
+    "text": "And on this sentence, and remembering that marketing takes time but also a lot of money,"
+  },
+  {
+    "start": "1017",
+    "end": "01:29:58,880 --> 01:30:02,880",
+    "text": "and Next.js is an example,"
+  },
+  {
+    "start": "1018",
+    "end": "01:30:05,880 --> 01:30:15,880",
+    "text": "Let's go to the village of Baluchi, because if we don't open this Pandora's box, we'll stay for another two days and we're already an hour and a half."
+  },
+  {
+    "start": "1019",
+    "end": "01:30:15,880 --> 01:30:26,880",
+    "text": "So I wanted to ask you, classic question, here there will be the fantastic Sigletta, but I wanted to ask you, do you have something to share with us?"
+  },
+  {
+    "start": "1020",
+    "end": "01:30:26,880 --> 01:30:32,880",
+    "text": "a book, a talk, a video, something that has caught your attention."
+  },
+  {
+    "start": "1021",
+    "end": "01:30:32,880 --> 01:30:37,880",
+    "text": "So, I ask Manuel, did you bring something for us?"
+  },
+  {
+    "start": "1022",
+    "end": "01:30:37,880 --> 01:30:40,880",
+    "text": "I'm taking you to the country of the Balochi!"
+  },
+  {
+    "start": "1023",
+    "end": "01:30:40,880 --> 01:30:42,880",
+    "text": "Ah, the country of the Balochi!"
+  },
+  {
+    "start": "1024",
+    "end": "01:30:42,880 --> 01:30:51,880",
+    "text": "So, I don't want to bring things as a developer, that's enough."
+  },
+  {
+    "start": "1025",
+    "end": "01:30:51,880 --> 01:30:56,600",
+    "text": "I'm taking my life into my own hands and I'll bring a book"
+  },
+  {
+    "start": "1026",
+    "end": "01:30:56,600 --> 01:30:59,160",
+    "text": "which is a role-playing game"
+  },
+  {
+    "start": "1027",
+    "end": "01:30:59,160 --> 01:31:01,640",
+    "text": "made by an Italian"
+  },
+  {
+    "start": "1028",
+    "end": "01:31:01,640 --> 01:31:04,280",
+    "text": "which is called \"Fabula Ultima\""
+  },
+  {
+    "start": "1029",
+    "end": "01:31:04,280 --> 01:31:07,800",
+    "text": "it's an old-style role-playing game"
+  },
+  {
+    "start": "1030",
+    "end": "01:31:07,800 --> 01:31:12,680",
+    "text": "you have to take the manual, read it, then find some friends, a group of enthusiasts"
+  },
+  {
+    "start": "1031",
+    "end": "01:31:12,680 --> 01:31:13,720",
+    "text": "and play it"
+  },
+  {
+    "start": "1032",
+    "end": "01:31:13,720 --> 01:31:17,000",
+    "text": "exactly, I saw the D&D DAD"
+  },
+  {
+    "start": "1033",
+    "end": "01:31:17,000 --> 01:31:29,000",
+    "text": "So I really recommend it if you like the anime style, it's very beautiful, very exciting I must say"
+  },
+  {
+    "start": "1034",
+    "end": "01:31:29,000 --> 01:31:36,000",
+    "text": "And a second \"balocco\" which is a videogame"
+  },
+  {
+    "start": "1035",
+    "end": "01:31:36,000 --> 01:31:42,000",
+    "text": "A few episodes ago it was presented by The Messenger and Sea of Stars"
+  },
+  {
+    "start": "1036",
+    "end": "01:31:42,000 --> 01:31:47,000",
+    "text": "On that false line I recommend \"Sword of Convalaria\""
+  },
+  {
+    "start": "1037",
+    "end": "01:31:47,000 --> 01:31:53,000",
+    "text": "It's not out yet, but I think it really deserves it"
+  },
+  {
+    "start": "1038",
+    "end": "01:31:53,000 --> 01:32:01,000",
+    "text": "And let's remember that the free time spent relaxing is not wasted time"
+  },
+  {
+    "start": "1039",
+    "end": "01:32:06,000 --> 01:32:11,000",
+    "text": "It's holy, it's very holy. Words, the applause should have started but I couldn't find the button."
+  },
+  {
+    "start": "1040",
+    "end": "01:32:11,000 --> 01:32:14,000",
+    "text": "It happens. Carmine, Leo?"
+  },
+  {
+    "start": "1041",
+    "end": "01:32:14,000 --> 01:32:23,000",
+    "text": "So, I don't have a book, actually, but something that might be useful to you,"
+  },
+  {
+    "start": "1042",
+    "end": "01:32:23,000 --> 01:32:30,000",
+    "text": "because I think I was laughing at 60% of the problems with my desk,"
+  },
+  {
+    "start": "1043",
+    "end": "01:32:30,000 --> 01:32:35,000",
+    "text": "moving them in the bottom, because I can't see them,"
+  },
+  {
+    "start": "1044",
+    "end": "01:32:35,000 --> 01:32:40,000",
+    "text": "I bought a docking station,"
+  },
+  {
+    "start": "1045",
+    "end": "01:32:40,000 --> 01:32:43,000",
+    "text": "which is one of those things that probably"
+  },
+  {
+    "start": "1046",
+    "end": "01:32:43,000 --> 01:32:47,000",
+    "text": "who has the Mac, the new one, the new Holy Fancy,"
+  },
+  {
+    "start": "1047",
+    "end": "01:32:47,000 --> 01:32:51,000",
+    "text": "with less ports but faster, already has..."
+  },
+  {
+    "start": "1048",
+    "end": "01:32:51,000 --> 01:32:53,000",
+    "text": "Holy Fancy?"
+  },
+  {
+    "start": "1049",
+    "end": "01:32:53,000 --> 01:32:55,000",
+    "text": "Fancy..."
+  },
+  {
+    "start": "1050",
+    "end": "01:32:55,000 --> 01:33:05,320",
+    "text": "who has OnlyFans probably already has the hang of putting the light, the webcam, the other things"
+  },
+  {
+    "start": "1051",
+    "end": "01:33:05,320 --> 01:33:10,840",
+    "text": "so yes, a docking station, which in reality has become something extremely common"
+  },
+  {
+    "start": "1052",
+    "end": "01:33:10,840 --> 01:33:15,400",
+    "text": "precisely among those who have a Mac, in the sense that I inform myself on YouTube"
+  },
+  {
+    "start": "1053",
+    "end": "01:33:15,400 --> 01:33:19,240",
+    "text": "in all the common portals and it is full of these videos"
+  },
+  {
+    "start": "1054",
+    "end": "01:33:19,240 --> 01:33:24,040",
+    "text": "the docking station that changed my life and I'm on all the Macs"
+  },
+  {
+    "start": "1055",
+    "end": "01:33:24,040 --> 01:33:33,780",
+    "text": "I took one of the Lenovo, for my computer that is a ThinkPad, but it is compatible with almost anything"
+  },
+  {
+    "start": "1056",
+    "end": "01:33:33,780 --> 01:33:46,840",
+    "text": "so you have this box and you can transform it, basically bring it to your desktop"
+  },
+  {
+    "start": "1057",
+    "end": "01:33:46,840 --> 01:33:52,440",
+    "text": "It's available in 15,000 versions, all with different prices."
+  },
+  {
+    "start": "1058",
+    "end": "01:33:52,440 --> 01:33:57,840",
+    "text": "Don't get fooled, I've already been fooled."
+  },
+  {
+    "start": "1059",
+    "end": "01:33:57,840 --> 01:34:00,240",
+    "text": "Don't do it."
+  },
+  {
+    "start": "1060",
+    "end": "01:34:00,240 --> 01:34:05,640",
+    "text": "I confirm, because I also have a Lenovo docking station,"
+  },
+  {
+    "start": "1061",
+    "end": "01:34:05,640 --> 01:34:06,640",
+    "text": "thanks MongoDB,"
+  },
+  {
+    "start": "1062",
+    "end": "01:34:06,640 --> 01:34:10,240",
+    "text": "and it works very well with Mac, it also works with Lenovo,"
+  },
+  {
+    "start": "1063",
+    "end": "01:34:10,240 --> 01:34:14,240",
+    "text": "so it's all USB-C, there are no problems."
+  },
+  {
+    "start": "1064",
+    "end": "01:34:14,240 --> 01:34:21,240",
+    "text": "There are problems sometimes with Linux for the display driver, that stuff, but it's a niche thing, but we don't talk about it."
+  },
+  {
+    "start": "1065",
+    "end": "01:34:21,240 --> 01:34:26,240",
+    "text": "Instead, I bring a podcast that has nothing to do with programming, as usual,"
+  },
+  {
+    "start": "1066",
+    "end": "01:34:26,240 --> 01:34:29,240",
+    "text": "which is called \"Very Human Things\"."
+  },
+  {
+    "start": "1067",
+    "end": "01:34:29,240 --> 01:34:34,240",
+    "text": "I recently discovered it, it's a daily podcast, 7 days out of 7, very short, 5-6 minutes,"
+  },
+  {
+    "start": "1068",
+    "end": "01:34:34,240 --> 01:34:37,240",
+    "text": "which talks about things."
+  },
+  {
+    "start": "1069",
+    "end": "01:34:37,240 --> 01:34:40,240",
+    "text": "I'll read you some titles"
+  },
+  {
+    "start": "1070",
+    "end": "01:34:40,240 --> 01:34:43,240",
+    "text": "\"Nose and ears grow forever\""
+  },
+  {
+    "start": "1071",
+    "end": "01:34:43,240 --> 01:34:46,240",
+    "text": "\"Why does the bianco exist after meals?\""
+  },
+  {
+    "start": "1072",
+    "end": "01:34:46,240 --> 01:34:48,240",
+    "text": "\"What is the Bird Strike?\""
+  },
+  {
+    "start": "1073",
+    "end": "01:34:48,240 --> 01:34:50,240",
+    "text": "Then there's a beautiful thing that was"
+  },
+  {
+    "start": "1074",
+    "end": "01:34:50,240 --> 01:34:52,240",
+    "text": "\"Why can't we have wheels?\""
+  },
+  {
+    "start": "1075",
+    "end": "01:34:52,240 --> 01:34:58,240",
+    "text": "So in six minutes, you understand, a new concept that can be up-to-date"
+  },
+  {
+    "start": "1076",
+    "end": "01:34:58,240 --> 01:34:59,240",
+    "text": "but also of history like this"
+  },
+  {
+    "start": "1077",
+    "end": "01:34:59,240 --> 01:35:01,240",
+    "text": "and make a nice figure at the bar"
+  },
+  {
+    "start": "1078",
+    "end": "01:35:01,240 --> 01:35:03,240",
+    "text": "and since we're in a bar anyway"
+  },
+  {
+    "start": "1079",
+    "end": "01:35:03,240 --> 01:35:06,240",
+    "text": "it seemed great to propose it to me"
+  },
+  {
+    "start": "1080",
+    "end": "01:35:06,240 --> 01:35:17,240",
+    "text": "My balucchi... I actually don't have one. I just have to go and get it. It's a paper."
+  },
+  {
+    "start": "1081",
+    "end": "01:35:17,240 --> 01:35:27,240",
+    "text": "The title is \"The effects of extrinsic motivation and satisfaction in the development of open source\"."
+  },
+  {
+    "start": "1082",
+    "end": "01:35:27,240 --> 01:35:29,240",
+    "text": "Ah, that's where you found that word."
+  },
+  {
+    "start": "1083",
+    "end": "01:35:29,240 --> 01:35:34,240",
+    "text": "Well, I don't... I don't know, I'm actually being prepared."
+  },
+  {
+    "start": "1084",
+    "end": "01:35:34,240 --> 01:35:36,240",
+    "text": "What have you studied?"
+  },
+  {
+    "start": "1085",
+    "end": "01:35:36,240 --> 01:35:44,240",
+    "text": "It's a very short paper, because I'm only 26 pages long,"
+  },
+  {
+    "start": "1086",
+    "end": "01:35:44,240 --> 01:35:54,240",
+    "text": "but super interesting, published in the newspaper of the Association of Informative Systems,"
+  },
+  {
+    "start": "1087",
+    "end": "01:35:54,240 --> 01:35:56,240",
+    "text": "it's the first time I've heard it,"
+  },
+  {
+    "start": "1088",
+    "end": "01:35:56,240 --> 01:36:02,240",
+    "text": "but it analyzes the engines that push open source,"
+  },
+  {
+    "start": "1089",
+    "end": "01:36:02,240 --> 01:36:04,240",
+    "text": "and it made me worry a lot."
+  },
+  {
+    "start": "1090",
+    "end": "01:36:04,240 --> 01:36:06,240",
+    "text": "So if you don't want to sleep at night"
+  },
+  {
+    "start": "1091",
+    "end": "01:36:06,240 --> 01:36:08,240",
+    "text": "thinking about an industry"
+  },
+  {
+    "start": "1092",
+    "end": "01:36:08,240 --> 01:36:10,240",
+    "text": "that is on the furniture,"
+  },
+  {
+    "start": "1093",
+    "end": "01:36:10,240 --> 01:36:12,240",
+    "text": "this could be a good way to do it."
+  },
+  {
+    "start": "1094",
+    "end": "01:36:12,240 --> 01:36:14,240",
+    "text": "Another way to do it"
+  },
+  {
+    "start": "1095",
+    "end": "01:36:14,240 --> 01:36:16,240",
+    "text": "is a book."
+  },
+  {
+    "start": "1096",
+    "end": "01:36:16,240 --> 01:36:18,240",
+    "text": "We didn't talk about it in episode,"
+  },
+  {
+    "start": "1097",
+    "end": "01:36:18,240 --> 01:36:20,240",
+    "text": "I waited until the last one"
+  },
+  {
+    "start": "1098",
+    "end": "01:36:20,240 --> 01:36:22,240",
+    "text": "because"
+  },
+  {
+    "start": "1099",
+    "end": "01:36:22,240 --> 01:36:24,240",
+    "text": "I liked it that way."
+  },
+  {
+    "start": "1100",
+    "end": "01:36:24,240 --> 01:36:26,240",
+    "text": "It's the book"
+  },
+  {
+    "start": "1101",
+    "end": "01:36:26,240 --> 01:36:28,240",
+    "text": "that Manuel wrote"
+  },
+  {
+    "start": "1102",
+    "end": "01:36:28,240 --> 01:36:30,240",
+    "text": "together with Maxim and Matteo."
+  },
+  {
+    "start": "1103",
+    "end": "01:36:30,240 --> 01:36:41,240",
+    "text": "and Matteo, this one. I didn't download it, I didn't hack it, don't worry, Manuel."
+  },
+  {
+    "start": "1104",
+    "end": "01:36:41,240 --> 01:36:46,480",
+    "text": "I had it in preview, by the way. It's a very interesting book for those who are"
+  },
+  {
+    "start": "1105",
+    "end": "01:36:46,480 --> 01:36:51,800",
+    "text": "getting closer to Fastify and it was exactly what was needed for Fastify."
+  },
+  {
+    "start": "1106",
+    "end": "01:36:51,800 --> 01:36:56,760",
+    "text": "Of course, everything is on the episode notes and, by the way, the Amazon links"
+  },
+  {
+    "start": "1107",
+    "end": "01:36:56,760 --> 01:37:01,280",
+    "text": "I'm also in some way, how do you say it was guys?"
+  },
+  {
+    "start": "1108",
+    "end": "01:37:01,280 --> 01:37:08,880",
+    "text": "I'm not affiliated, affiliated, affiliated, now they give us the money, yes, a few cents that"
+  },
+  {
+    "start": "1109",
+    "end": "01:37:08,880 --> 01:37:16,120",
+    "text": "given the costs we have of the 7000 services we took to pass the video"
+  },
+  {
+    "start": "1110",
+    "end": "01:37:16,120 --> 01:37:22,480",
+    "text": "let's say they're a little stuff but at this point let's say I take this opportunity to remind you"
+  },
+  {
+    "start": "1111",
+    "end": "01:37:22,480 --> 01:37:31,480",
+    "text": "that if you like it, I support you. I like how Franco Solerio told it in the last episode of Digitalia."
+  },
+  {
+    "start": "1112",
+    "end": "01:37:31,480 --> 01:37:39,480",
+    "text": "You see Gitbar as... and here I say, it's the flour of Franco Solerio's bag, this metaphor."
+  },
+  {
+    "start": "1113",
+    "end": "01:37:39,480 --> 01:37:46,480",
+    "text": "You see Gitbar as the fruit stand where you can serve yourself and leave the coins or the money out."
+  },
+  {
+    "start": "1114",
+    "end": "01:37:46,480 --> 01:37:58,480",
+    "text": "So, if you like to support us, if you like Geekbar and you want to help us to continue doing it, you can find the links in the site."
+  },
+  {
+    "start": "1115",
+    "end": "01:38:00,480 --> 01:38:08,480",
+    "text": "Well, here we are, here we are, we have arrived, I must say that in our back channel I said"
+  },
+  {
+    "start": "1116",
+    "end": "01:38:08,480 --> 01:38:13,480",
+    "text": "for this new season, the fourth of Geekbar, we will try to stay in an hour, in fact the"
+  },
+  {
+    "start": "1117",
+    "end": "01:38:13,480 --> 01:38:20,480",
+    "text": "time is 1 hour 40, so I would say that we can close."
+  },
+  {
+    "start": "1118",
+    "end": "01:38:20,480 --> 01:38:29,480",
+    "text": "I thank Manuel very much for coming to see us, I know that you will also be"
+  },
+  {
+    "start": "1119",
+    "end": "01:38:29,480 --> 01:38:45,480",
+    "text": "with us, so we will have a chance to drink a real beer, so thank you for accepting our invitation, thank you from the bottom of my heart."
+  },
+  {
+    "start": "1120",
+    "end": "01:38:45,480 --> 01:38:49,480",
+    "text": "Thank you, and here the beer is really good."
+  },
+  {
+    "start": "1121",
+    "end": "01:38:49,480 --> 01:38:52,480",
+    "text": "It's a lot. Good and a lot."
+  },
+  {
+    "start": "1122",
+    "end": "01:38:52,480 --> 01:38:57,480",
+    "text": "Hi Carmine, hi Leo. How did this episode go?"
+  },
+  {
+    "start": "1123",
+    "end": "01:38:57,480 --> 01:39:00,480",
+    "text": "Only videos? You thought I was going to leave you."
+  },
+  {
+    "start": "1124",
+    "end": "01:39:00,480 --> 01:39:03,480",
+    "text": "What do you mean only videos? There's no audio."
+  },
+  {
+    "start": "1125",
+    "end": "01:39:03,480 --> 01:39:05,480",
+    "text": "I want to listen to it again."
+  },
+  {
+    "start": "1126",
+    "end": "01:39:05,480 --> 01:39:08,480",
+    "text": "I confess that I always listen to myself in podcasts."
+  },
+  {
+    "start": "1127",
+    "end": "01:39:08,480 --> 01:39:11,480",
+    "text": "Because I want to hear my voice twice as loud."
+  },
+  {
+    "start": "1128",
+    "end": "01:39:11,480 --> 01:39:16,480",
+    "text": "The first podcast only with sign language we could do."
+  },
+  {
+    "start": "1129",
+    "end": "01:39:16,480 --> 01:39:19,480",
+    "text": "But it could be an experiment, for the fifth season..."
+  },
+  {
+    "start": "1130",
+    "end": "01:39:19,480 --> 01:39:21,480",
+    "text": "Let's do an experiment!"
+  },
+  {
+    "start": "1131",
+    "end": "01:39:21,480 --> 01:39:23,480",
+    "text": "We'll make a \"Git Barliss\""
+  },
+  {
+    "start": "1132",
+    "end": "01:39:23,480 --> 01:39:29,480",
+    "text": "It would be cool and above all it would draw attention to accessibility"
+  },
+  {
+    "start": "1133",
+    "end": "01:39:29,480 --> 01:39:33,480",
+    "text": "I have to say that in this episode we will upload the subtitles"
+  },
+  {
+    "start": "1134",
+    "end": "01:39:33,480 --> 01:39:37,480",
+    "text": "So I think it's compliant with some screen readers"
+  },
+  {
+    "start": "1135",
+    "end": "01:39:37,480 --> 01:39:42,480",
+    "text": "So it will be possible to do it, at least I hope so"
+  },
+  {
+    "start": "1136",
+    "end": "01:39:42,480 --> 01:39:47,480",
+    "text": "How was the first episode of the fourth season of Geekbar?"
+  },
+  {
+    "start": "1137",
+    "end": "01:39:47,480 --> 01:39:54,480",
+    "text": "It's not out yet, so there are no haters comments, so we're good, we're friends."
+  },
+  {
+    "start": "1138",
+    "end": "01:39:54,480 --> 01:39:58,480",
+    "text": "Sorry, so we're still recording?"
+  },
+  {
+    "start": "1139",
+    "end": "01:39:58,480 --> 01:40:01,480",
+    "text": "We're still recording, absolutely yes."
+  },
+  {
+    "start": "1140",
+    "end": "01:40:01,480 --> 01:40:07,480",
+    "text": "I'll tell you later. Did everything go well?"
+  },
+  {
+    "start": "1141",
+    "end": "01:40:07,480 --> 01:40:11,480",
+    "text": "So far, so good."
+  },
+  {
+    "start": "1142",
+    "end": "01:40:11,480 --> 01:40:15,400",
+    "text": "So, having said that, I give you an appointment for the next episode,"
+  },
+  {
+    "start": "1143",
+    "end": "01:40:15,400 --> 01:40:16,800",
+    "text": "reminding you of our contracts."
+  },
+  {
+    "start": "1144",
+    "end": "01:40:16,800 --> 01:40:18,800",
+    "text": "For more info, visit github.com/github"
+  },
+  {
+    "start": "1145",
+    "end": "01:40:18,800 --> 01:40:20,080",
+    "text": "and @brainrepo on Twitter."
+  },
+  {
+    "start": "1146",
+    "end": "01:40:20,080 --> 01:40:24,920",
+    "text": "Our YouTube channel, at this point, we have to say,"
+  },
+  {
+    "start": "1147",
+    "end": "01:40:24,920 --> 01:40:27,640",
+    "text": "you can find it by searching for \"github\"."
+  },
+  {
+    "start": "1148",
+    "end": "01:40:27,640 --> 01:40:30,520",
+    "text": "On any YouTube channel, you know how it is."
+  },
+  {
+    "start": "1149",
+    "end": "01:40:30,520 --> 01:40:33,840",
+    "text": "You look at Telegram, you replace it, you do a \"preg replace\"."
+  },
+  {
+    "start": "1150",
+    "end": "01:40:33,840 --> 01:40:36,600",
+    "text": "So you can also watch us on your home TV,"
+  },
+  {
+    "start": "1151",
+    "end": "01:40:36,600 --> 01:40:39,600",
+    "text": "64 inches. Our beautiful faces."
+  },
+  {
+    "start": "1152",
+    "end": "01:40:39,600 --> 01:40:41,600",
+    "text": "Our beautiful faces."
+  },
+  {
+    "start": "1153",
+    "end": "01:40:41,600 --> 01:40:43,600",
+    "text": "And our..."
+  },
+  {
+    "start": "1154",
+    "end": "01:40:43,600 --> 01:40:47,600",
+    "text": "Our Tereram group is the best group in Italy,"
+  },
+  {
+    "start": "1155",
+    "end": "01:40:47,600 --> 01:40:50,600",
+    "text": "which is not like all the other groups, but it's the best."
+  },
+  {
+    "start": "1156",
+    "end": "01:40:50,600 --> 01:40:52,600",
+    "text": "Because it doesn't have \"Italy\" in its name."
+  },
+  {
+    "start": "1157",
+    "end": "01:40:52,600 --> 01:40:54,600",
+    "text": "Because it doesn't have \"Italy\" in its name, exactly."
+  },
+  {
+    "start": "1158",
+    "end": "01:40:54,600 --> 01:40:58,600",
+    "text": "It's not \"Gitbar Italy\", but it's just \"Gitbar Italy\"."
+  },
+  {
+    "start": "1159",
+    "end": "01:40:58,600 --> 01:41:04,600",
+    "text": "But someone will invent a programming language called \"Gitbar\""
+  },
+  {
+    "start": "1160",
+    "end": "01:41:04,600 --> 01:41:06,600",
+    "text": "and then the group will be called \"Git Var Italia\""
+  },
+  {
+    "start": "1161",
+    "end": "01:41:06,600 --> 01:41:08,600",
+    "text": "Exactly"
+  },
+  {
+    "start": "1162",
+    "end": "01:41:08,600 --> 01:41:14,600",
+    "text": "We are waiting for you to talk to us about anything"
+  },
+  {
+    "start": "1163",
+    "end": "01:41:14,600 --> 01:41:16,600",
+    "text": "and actually to give you feedback"
+  },
+  {
+    "start": "1164",
+    "end": "01:41:16,600 --> 01:41:18,600",
+    "text": "A lot of feedback"
+  },
+  {
+    "start": "1165",
+    "end": "01:41:18,600 --> 01:41:21,600",
+    "text": "This is the first episode we make videos"
+  },
+  {
+    "start": "1166",
+    "end": "01:41:21,600 --> 01:41:26,600",
+    "text": "so we are waiting for your questions and feedback"
+  },
+  {
+    "start": "1167",
+    "end": "01:41:26,600 --> 01:41:28,600",
+    "text": "on our beautiful sets"
+  },
+  {
+    "start": "1168",
+    "end": "01:41:28,600 --> 01:41:30,600",
+    "text": "Actually Mauro is the most professional"
+  },
+  {
+    "start": "1169",
+    "end": "01:41:30,600 --> 01:41:32,600",
+    "text": "I literally had to do..."
+  },
+  {
+    "start": "1170",
+    "end": "01:41:32,600 --> 01:41:41,600",
+    "text": "I was convinced of something else, so there's the water carafe, the scottex, the beer, the rest, I think."
+  },
+  {
+    "start": "1171",
+    "end": "01:41:41,600 --> 01:41:46,600",
+    "text": "For the next times we'll organize it better, now I'm going straight to the bathroom."
+  },
+  {
+    "start": "1172",
+    "end": "01:41:46,600 --> 01:41:52,600",
+    "text": "Well, there's a podcast that records in the bathroom, so..."
+  },
+  {
+    "start": "1173",
+    "end": "01:41:52,600 --> 01:42:01,600",
+    "text": "Having said that, I remind you to ring the bell, because the normal YouTube channels have the bell, we have the bell."
+  },
+  {
+    "start": "1174",
+    "end": "01:42:01,600 --> 01:42:05,040",
+    "text": "So I'll see you next week."
+  },
+  {
+    "start": "1175",
+    "end": "01:42:05,040 --> 01:42:06,040",
+    "text": "Bye guys!"
+  },
+  {
+    "start": "1176",
+    "end": "01:42:06,040 --> 01:42:07,040",
+    "text": "Bye!"
+  },
+  {
+    "start": "1177",
+    "end": "01:42:07,040 --> 01:42:08,040",
+    "text": "Bye!"
+  },
+  {
+    "start": "1178",
+    "end": "01:42:08,040 --> 01:42:08,540",
+    "text": "Bye bye!"
+  },
+  {
+    "start": "1179",
+    "end": "01:42:08,540 --> 01:42:26,780",
+    "text": "[MUSIC PLAYING]"
+  }
+]

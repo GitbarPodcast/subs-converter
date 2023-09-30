@@ -1,0 +1,4716 @@
+1
+00:00:00,000 --> 00:00:03,400
+[MUSIC PLAYING]
+
+2
+00:00:03,400 --> 00:00:05,980
+(upbeat music)
+
+3
+00:00:05,980 --> 00:00:09,980
+We are the ones who, reading the code, look for the asshole who wrote that shit.
+
+4
+00:00:09,980 --> 00:00:14,480
+But, alas, the asshole is not the same, he wrote it right yesterday.
+
+5
+00:00:14,480 --> 00:00:20,980
+We are the ones who sanctify the new JavaScript framework, secretly preferring jQuery.
+
+6
+00:00:20,980 --> 00:00:26,980
+The same for which testing is important, in fact, our codebase has only two tests, and flakes too.
+
+7
+00:00:26,980 --> 00:00:30,980
+We are the ones who make your language sucks, but mine is worse.
+
+8
+00:00:30,980 --> 00:00:36,980
+Those who clarify it in the comment messages first of all, and inside, he calls it all saints.
+
+9
+00:00:36,980 --> 00:00:41,980
+Those who talk on call for 5 minutes before realizing that the mic is mute.
+
+10
+00:00:41,980 --> 00:00:48,980
+Those who can't do default, it quickly becomes a "everything is possible" if you have resources, time and limited budget.
+
+11
+00:00:48,980 --> 00:00:54,980
+We are the ones who have the AI regulated, have you ever seen this new model that kitten funamboli will design?
+
+12
+00:00:54,980 --> 00:00:58,980
+Those who depend on it and join the prison for free.
+
+13
+00:00:58,980 --> 00:01:00,980
+and those who make the RAL...
+
+14
+00:01:00,980 --> 00:01:02,980
+no, come on, it's already funny like this.
+
+15
+00:01:02,980 --> 00:01:06,980
+We are the ones who make the slalom
+
+16
+00:01:06,980 --> 00:01:08,980
+among the specifics that change constantly,
+
+17
+00:01:08,980 --> 00:01:11,980
+now resigned that the definition of ready
+
+18
+00:01:11,980 --> 00:01:13,980
+is just a pia illusion.
+
+19
+00:01:13,980 --> 00:01:15,980
+Those who feel like saying
+
+20
+00:01:15,980 --> 00:01:17,980
+"I have an idea for an app"
+
+21
+00:01:17,980 --> 00:01:19,980
+and it's immediately the umpteenth social
+
+22
+00:01:19,980 --> 00:01:21,980
+like Instagram, but better.
+
+23
+00:01:21,980 --> 00:01:27,980
+We are the ones who, despite the failed deploy,
+
+24
+00:01:27,980 --> 00:01:35,980
+The seat is red, the business is fucked up, we are in front of a bar and everything seems a little less serious.
+
+25
+00:01:35,980 --> 00:01:50,980
+Hello and welcome to Get Bar, finally in video! It's really cool to give you the chance to enter our circle of developers.
+
+26
+00:01:50,980 --> 00:02:01,980
+I really have to say it! I'm really excited, I'm excited to open the doors, I'm excited to pour beer in this virtual pub.
+
+27
+00:02:01,980 --> 00:02:08,980
+I'm excited, but I won't forget that Gitbar is a podcast.
+
+28
+00:02:08,980 --> 00:02:11,980
+I want to make a small premise.
+
+29
+00:02:11,980 --> 00:02:15,980
+Gitbar is and will always be a podcast.
+
+30
+00:02:15,980 --> 00:02:19,980
+Where by podcast we mean a RSS feed.
+
+31
+00:02:19,980 --> 00:02:27,980
+I know, we don't like XML, but RSS is the only use of XML that makes sense.
+
+32
+00:02:27,980 --> 00:02:41,980
+So, GitBar will continue to be an audio podcast, with the possibility to see it and to use it in an increased way, through the video on YouTube, and then we'll see how to evolve.
+
+33
+00:02:41,980 --> 00:02:45,980
+I don't know if you've seen the new acronym, it tells a little bit about who we are.
+
+34
+00:02:45,980 --> 00:02:49,980
+and I use the plural
+
+35
+00:02:49,980 --> 00:02:52,980
+also because Gitbar is not a brainwrap
+
+36
+00:02:52,980 --> 00:02:55,980
+but a group of people
+
+37
+00:02:55,980 --> 00:02:57,980
+and the first people I want to thank
+
+38
+00:02:57,980 --> 00:03:00,980
+for this evolution of Gitbar
+
+39
+00:03:00,980 --> 00:03:03,980
+are my co-hosts, the baristas
+
+40
+00:03:03,980 --> 00:03:05,980
+the people who pour drinks in this
+
+41
+00:03:05,980 --> 00:03:07,980
+province of pubs
+
+42
+00:03:07,980 --> 00:03:10,980
+for all the frustrated developers
+
+43
+00:03:10,980 --> 00:03:13,980
+and I have with me Leo and Carmine
+
+44
+00:03:13,980 --> 00:03:15,980
+Hi guys, how are you?
+
+45
+00:03:15,980 --> 00:03:17,980
+Hi, all good.
+
+46
+00:03:17,980 --> 00:03:21,980
+Unfortunately we are in video mode, so I can't say hello to you from my pool villa in Dubai,
+
+47
+00:03:21,980 --> 00:03:25,980
+which was the beginning I wanted to give to this new season, but it's okay anyway.
+
+48
+00:03:25,980 --> 00:03:32,980
+You don't have, let's say, the passive intro, it wasn't as passive as you expected.
+
+49
+00:03:32,980 --> 00:03:36,980
+Exactly, exactly. I put this green screen of a normal house.
+
+50
+00:03:36,980 --> 00:03:40,980
+In fact, I also put the green screen. As you can see, everything is very static,
+
+51
+00:03:40,980 --> 00:03:45,980
+Static, this image is really stock, with our great and powerful tools.
+
+52
+00:03:45,980 --> 00:03:48,980
+Thanks to the donors, who can allow us to make these videos.
+
+53
+00:03:48,980 --> 00:03:52,980
+Donate, so I can also put it on a fridge here.
+
+54
+00:03:52,980 --> 00:03:58,980
+Exactly, our video experience has costs, so if you like to support us,
+
+55
+00:03:58,980 --> 00:04:03,980
+please do it, you can find everything on www.gitbar.it
+
+56
+00:04:03,980 --> 00:04:08,980
+and on one of the last frames of this episode.
+
+57
+00:04:08,980 --> 00:04:13,980
+We have great things in store for the fourth season of Geekbar.
+
+58
+00:04:13,980 --> 00:04:19,980
+We have a series of ideas that are fermenting a bit, like good wine.
+
+59
+00:04:19,980 --> 00:04:23,980
+I think this episode is already a bit too alcoholic, but...
+
+60
+00:04:23,980 --> 00:04:32,980
+I was saying, they are fermenting and you will find many, many news, but I will not spoil you more.
+
+61
+00:04:32,980 --> 00:04:45,480
+Guys, today we're talking about open source and framework, which are two hot topics
+
+62
+00:04:45,480 --> 00:04:49,480
+But before we do that, we have to quickly remind our contacts
+
+63
+00:04:49,480 --> 00:04:54,480
+The contacts remain the same, despite this podcast refresh
+
+64
+00:04:54,480 --> 00:04:58,480
+info@gitbar.it and www.gitbar.it
+
+65
+00:04:58,480 --> 00:05:02,480
+@BrainRepo on Twitter, but...
+
+66
+00:05:02,480 --> 00:05:05,480
+Go Carmine, it's your turn today.
+
+67
+00:05:05,480 --> 00:05:08,480
+Today it's me as always.
+
+68
+00:05:08,480 --> 00:05:10,480
+We remind you of our Telegram group.
+
+69
+00:05:10,480 --> 00:05:16,480
+You can find us on Telegram by typing "Gitbar" on your favorite Telegram client.
+
+70
+00:05:16,480 --> 00:05:20,480
+We are more than a thousand, actually we are more than a thousand and more than a thousand people.
+
+71
+00:05:20,480 --> 00:05:25,480
+We are waiting for you too and remembering that we are the group that distinguishes itself.
+
+72
+00:05:25,480 --> 00:05:28,480
+This time I'm not saying anything about you, so we don't cut you off.
+
+73
+00:05:28,480 --> 00:05:31,480
+Exactly, we're at 1417.
+
+74
+00:05:31,480 --> 00:05:34,480
+I remember we were around 1300.
+
+75
+00:05:34,480 --> 00:05:37,480
+I must have missed a few.
+
+76
+00:05:37,480 --> 00:05:40,480
+There's a bot problem on Telegram, like on Twitter, on X.
+
+77
+00:05:40,480 --> 00:05:44,480
+Ah, there's a bot. We don't have the bot tool.
+
+78
+00:05:44,480 --> 00:05:46,480
+No, it's a joke.
+
+79
+00:05:46,480 --> 00:05:51,480
+Clearly, they're all normal users, because we have the bots and we catch them right away.
+
+80
+00:05:51,480 --> 00:05:57,720
+I think I'm completely crazy this period of losing everything
+
+81
+00:05:57,720 --> 00:06:03,320
+But that's okay, that's okay, we were focused on this passage to the video of Geetvar
+
+82
+00:06:03,320 --> 00:06:08,600
+It's already been seven minutes and we haven't started the episode yet and this is starting to worry me
+
+83
+00:06:08,600 --> 00:06:10,600
+Well, five minutes was the opening so...
+
+84
+00:06:10,600 --> 00:06:12,600
+Yes, it's true, it's true, it's true
+
+85
+00:06:12,600 --> 00:06:17,760
+It means that we will have to make a reduced version, I promise
+
+86
+00:06:17,760 --> 00:06:21,760
+In the next episode we will have a reduced version and we keep this as a trailer.
+
+87
+00:06:21,760 --> 00:06:27,760
+But, let's get to work. It's time to introduce our guest.
+
+88
+00:06:27,760 --> 00:06:46,760
+Here we are, here we are. Today we have with us a friend, a colleague too,
+
+89
+00:06:46,760 --> 00:06:54,760
+Senior Software Developer at NearForm and a Core Contributor at Fastify
+
+90
+00:06:54,760 --> 00:06:58,760
+We see him more and more often at conferences
+
+91
+00:06:58,760 --> 00:07:00,760
+We have with us our friend Manuel Spigolon
+
+92
+00:07:00,760 --> 00:07:02,760
+Hi Manuel, how are you?
+
+93
+00:07:02,760 --> 00:07:07,760
+Hi to all the hosts and a greeting to the audience of the Gitbar
+
+94
+00:07:07,760 --> 00:07:10,760
+I'm sorry, I said "hosts"
+
+95
+00:07:10,760 --> 00:07:12,760
+because anyway...
+
+96
+00:07:12,760 --> 00:07:15,760
+It's beautiful, from now on we'll use this appellative
+
+97
+00:07:15,760 --> 00:07:18,760
+Thank you for the idea. Hi Manuel
+
+98
+00:07:18,760 --> 00:07:21,760
+Today you finally came to see us
+
+99
+00:07:21,760 --> 00:07:24,760
+and you know that I
+
+100
+00:07:24,760 --> 00:07:26,760
+I've been going through
+
+101
+00:07:26,760 --> 00:07:29,760
+the things you've said around
+
+102
+00:07:29,760 --> 00:07:32,760
+to try to understand
+
+103
+00:07:32,760 --> 00:07:35,760
+your idea of many things
+
+104
+00:07:35,760 --> 00:07:39,760
+The first topic we wanted to address with you
+
+105
+00:07:39,760 --> 00:07:43,760
+was the one from the Hello World to the open source.
+
+106
+00:07:43,760 --> 00:07:49,760
+When you are a developer, there are a series of stages.
+
+107
+00:07:49,760 --> 00:07:53,760
+There is the Hello World stage, where the first experiments begin,
+
+108
+00:07:53,760 --> 00:08:00,760
+better said, fueled by the idea of a side project,
+
+109
+00:08:00,760 --> 00:08:04,760
+which is the spark that pushes the experimentation towards a language,
+
+110
+00:08:04,760 --> 00:08:09,760
+to a framework, to whatever has a code underneath.
+
+111
+00:08:09,760 --> 00:08:13,760
+Then there's the transition a little further
+
+112
+00:08:13,760 --> 00:08:15,760
+to the open source world.
+
+113
+00:08:15,760 --> 00:08:19,760
+Not everyone takes this leap, many are scared.
+
+114
+00:08:19,760 --> 00:08:23,760
+I want to know, though,
+
+115
+00:08:23,760 --> 00:08:28,760
+as a Java programmer,
+
+116
+00:08:28,760 --> 00:08:30,760
+as you said at the beginning of your career,
+
+117
+00:08:30,760 --> 00:08:32,760
+you think I got away with it, right?
+
+118
+00:08:32,760 --> 00:08:39,760
+to a core contributor of a widely used framework, Fastify
+
+119
+00:08:39,760 --> 00:08:44,760
+what are the milestones that you recognize
+
+120
+00:08:44,760 --> 00:08:52,760
+that lead you to say "there was this transition, this transition" and so on?
+
+121
+00:08:52,760 --> 00:09:08,760
+Ok, so now I will say a bit about buzzwords, because otherwise you can't define yourself as a developer if you don't say "comfort zone" to start
+
+122
+00:09:08,760 --> 00:09:14,760
+So the concept is "stay hungry and stay foolish" obviously
+
+123
+00:09:14,760 --> 00:09:18,760
+thank you, thank you
+
+124
+00:09:18,760 --> 00:09:20,760
+what happened?
+
+125
+00:09:20,760 --> 00:09:25,760
+the developer, like many others, basically
+
+126
+00:09:25,760 --> 00:09:29,760
+at the beginning I started working
+
+127
+00:09:29,760 --> 00:09:33,760
+I hadn't even finished high school, actually
+
+128
+00:09:33,760 --> 00:09:36,760
+because I already had the employment contract
+
+129
+00:09:36,760 --> 00:09:41,760
+and I hadn't yet passed the famous state exam
+
+130
+00:09:41,760 --> 00:09:43,760
+it was very funny
+
+131
+00:09:43,760 --> 00:09:49,760
+and what happened? I fell in love with the company I worked for
+
+132
+00:09:49,760 --> 00:09:55,760
+I fell in love with the people I worked with
+
+133
+00:09:55,760 --> 00:10:06,760
+but, actually, when I started the first Milestone, when I started to participate in the first conferences
+
+134
+00:10:06,760 --> 00:10:13,760
+I saw these developers on stage and I was ecstatic
+
+135
+00:10:13,760 --> 00:10:17,760
+by how they managed to involve the audience
+
+136
+00:10:17,760 --> 00:10:23,760
+and how they worked on projects that for me were really science fiction.
+
+137
+00:10:23,760 --> 00:10:30,760
+And there was the first seed that instilled in me
+
+138
+00:10:30,760 --> 00:10:37,760
+I had this desire to be like these "famous" people
+
+139
+00:10:37,760 --> 00:10:39,760
+in my eyes, clearly
+
+140
+00:10:39,760 --> 00:10:42,760
+and so this was the first step
+
+141
+00:10:42,760 --> 00:10:52,760
+the second step was to throw myself on the latest technology that was fashionable in those years
+
+142
+00:10:52,760 --> 00:10:55,760
+in the JS, in particular
+
+143
+00:10:55,760 --> 00:11:03,280
+and so I simply filled the free time I had studying this language
+
+144
+00:11:03,280 --> 00:11:09,280
+and in the end there's the exit from the comfort zone
+
+145
+00:11:09,280 --> 00:11:21,280
+that is, to abandon the work, let's say, that is quiet and warm, as comfortable as winter blankets
+
+146
+00:11:21,280 --> 00:11:28,280
+and tell my boss, with whom I've been working for almost 10 years,
+
+147
+00:11:28,280 --> 00:11:42,280
+"Look, I'm sorry, but I'm sorry, and I even had the opportunity to move to a new city,
+
+148
+00:11:42,280 --> 00:11:46,280
+get out of the house's nest
+
+149
+00:11:46,280 --> 00:11:52,280
+and start living alone and paying the bills
+
+150
+00:11:52,280 --> 00:11:55,280
+and so it was really a
+
+151
+00:11:55,280 --> 00:11:57,280
+how to say
+
+152
+00:11:57,280 --> 00:12:00,280
+a breaking wave
+
+153
+00:12:00,280 --> 00:12:05,280
+that single grain of the conference
+
+154
+00:12:05,280 --> 00:12:08,280
+to start participating in conferences
+
+155
+00:12:08,280 --> 00:12:10,280
+Manuel, sorry if I interrupt you
+
+156
+00:12:10,280 --> 00:12:16,280
+I want to ask you a question, because in my opinion it's one of the most interesting passages.
+
+157
+00:12:16,280 --> 00:12:24,280
+You said that you left the company for which you had been working for many years.
+
+158
+00:12:24,280 --> 00:12:25,280
+Exactly.
+
+159
+00:12:25,280 --> 00:12:32,280
+I want to return to this concept, because actually many people I talk to,
+
+160
+00:12:32,280 --> 00:12:39,280
+who have to make that leap in terms of seniority, who have to go and run after those stimuli,
+
+161
+00:12:39,280 --> 00:12:45,280
+They say "Yes, but the company I work for is a family.
+
+162
+00:12:45,280 --> 00:12:55,280
+And the break-up of these ties, which also have an emotional relationship, becomes devastating.
+
+163
+00:12:55,280 --> 00:13:00,280
+I remember when I left my company.
+
+164
+00:13:00,280 --> 00:13:06,280
+For me it was a deep crisis of identity.
+
+165
+00:13:06,280 --> 00:13:15,280
+leaving all the ties, leaving the certainties, but above all the people with whom you had built something that, being a small company,
+
+166
+00:13:15,280 --> 00:13:21,280
+and I don't know how big your company was initially, but mine was really small, so it was more like a family,
+
+167
+00:13:21,280 --> 00:13:33,280
+and it was like the son who falls in love with the girl who ran away from home and leaves leaving the parents, a kind of son to the prodigal, right?
+
+168
+00:13:33,280 --> 00:13:38,280
+How did you experience this distance, this separation?
+
+169
+00:13:38,280 --> 00:13:45,280
+I lost a bit of time, sorry if you're frozen
+
+170
+00:13:45,280 --> 00:13:48,280
+but I'm trying to answer the question
+
+171
+00:13:48,280 --> 00:13:56,280
+how was it to leave the company for which I worked for 9 years and 4 months
+
+172
+00:13:56,280 --> 00:14:01,280
+and I remember it because it was really bad for us
+
+173
+00:14:01,280 --> 00:14:06,280
+because when you gave up irrevocably
+
+174
+00:14:06,280 --> 00:14:16,280
+it seemed like if you had shot him
+
+175
+00:14:16,280 --> 00:14:22,280
+I felt a bit repudiated, I have to admit it
+
+176
+00:14:22,280 --> 00:14:36,280
+and this didn't do me any good, on the contrary, I thought "well, I was just a number, the number 8"
+
+177
+00:14:36,280 --> 00:14:44,280
+and so it made me realize that yes, we are all "a big family"
+
+178
+00:14:44,280 --> 00:14:51,620
+but in the end the money you make doesn't go into my pocket
+
+179
+00:14:51,620 --> 00:14:57,620
+and you're a person who has to make money
+
+180
+00:14:57,620 --> 00:15:00,620
+so that's how I felt
+
+181
+00:15:00,620 --> 00:15:04,020
+so it wasn't great, honestly
+
+182
+00:15:04,020 --> 00:15:09,620
+I would have imagined a goodbye where we would hug each other crying
+
+183
+00:15:09,620 --> 00:15:11,620
+"thank you for the time we spent together"
+
+184
+00:15:11,620 --> 00:15:17,620
+but it wasn't like that, and I'm a bit sorry about that.
+
+185
+00:15:17,620 --> 00:15:19,620
+But...
+
+186
+00:15:19,620 --> 00:15:24,620
+Sorry, I'll intervene for a moment, because you said that you gave them irrevocable submissions,
+
+187
+00:15:24,620 --> 00:15:30,620
+so you didn't leave them any space to try and see if they were up to it.
+
+188
+00:15:30,620 --> 00:15:33,620
+You already had your idea, you made Ben go for it,
+
+189
+00:15:33,620 --> 00:15:38,620
+so considering the reaction of people, one who sees himself in front of them and says,
+
+190
+00:15:38,620 --> 00:15:40,620
+"Look, you can do anything, but I'm leaving."
+
+191
+00:15:40,620 --> 00:15:46,620
+I was invincible because it wasn't a matter of money
+
+192
+00:15:46,620 --> 00:15:53,620
+It's weird to say, but here money didn't matter
+
+193
+00:15:53,620 --> 00:16:01,620
+Only the cool projects I saw during the talks mattered
+
+194
+00:16:01,620 --> 00:16:03,620
+the technological stack was in the way
+
+195
+00:16:03,620 --> 00:16:05,620
+and so
+
+196
+00:16:05,620 --> 00:16:07,620
+everything else was
+
+197
+00:16:07,620 --> 00:16:09,620
+an excuse
+
+198
+00:16:09,620 --> 00:16:11,620
+to not decide
+
+199
+00:16:11,620 --> 00:16:13,620
+to make the big leap
+
+200
+00:16:13,620 --> 00:16:15,620
+Moving forward
+
+201
+00:16:15,620 --> 00:16:17,620
+with the career
+
+202
+00:16:17,620 --> 00:16:19,620
+I wanted to
+
+203
+00:16:19,620 --> 00:16:21,620
+understand for a moment
+
+204
+00:16:21,620 --> 00:16:23,620
+how and what was your first
+
+205
+00:16:23,620 --> 00:16:25,620
+contact
+
+206
+00:16:25,620 --> 00:16:27,620
+with open source
+
+207
+00:16:27,620 --> 00:16:29,620
+the moment you connected the socket
+
+208
+00:16:29,620 --> 00:16:34,620
+"Ok, now I have to do something, raising my hands, right?"
+
+209
+00:16:34,620 --> 00:16:41,620
+Absolutely. And here too, we are filming in the buzzwords,
+
+210
+00:16:41,620 --> 00:16:47,620
+because we are in this new city, in this new company,
+
+211
+00:16:47,620 --> 00:16:52,620
+in this new adventure, because the technological stack is totally different.
+
+212
+00:16:52,620 --> 00:16:58,620
+we are talking about the leap you made from Java with Oracle
+
+213
+00:16:58,620 --> 00:17:04,620
+practically in a banking environment, so really hyper-limited and limiting
+
+214
+00:17:04,620 --> 00:17:12,620
+towards Node.js, MongoDB, Redis and other nice companies
+
+215
+00:17:12,620 --> 00:17:22,620
+and what was the thing that supported me in all this migration journey
+
+216
+00:17:22,620 --> 00:17:32,620
+was the fact that I was in a new city, alone, and so I really spent the nights studying
+
+217
+00:17:32,620 --> 00:17:34,620
+"Punto"
+
+218
+00:17:34,620 --> 00:17:39,620
+Like a student, I would go there in the morning
+
+219
+00:17:39,620 --> 00:17:44,620
+on some books, some tutorials on YouTube,
+
+220
+00:17:44,620 --> 00:17:49,620
+and buzzwords, motivational videos,
+
+221
+00:17:49,620 --> 00:17:51,620
+as if there was no tomorrow.
+
+222
+00:17:51,620 --> 00:17:56,620
+There I learned the impostor syndrome,
+
+223
+00:17:56,620 --> 00:17:59,620
+there I learned a lot of nice things,
+
+224
+00:17:59,620 --> 00:18:10,620
+and we can say that the "too long, didn't read" is simply "tu sei l'unico responsabile della tua formazione"
+
+225
+00:18:10,620 --> 00:18:14,620
+"non devi demandare all'azienda questa cosa"
+
+226
+00:18:14,620 --> 00:18:19,620
+and that's where I made the first step towards open source
+
+227
+00:18:19,620 --> 00:18:29,620
+I took the holidays, I paid myself, I think, a lot of money, we're talking about 300-500 euros
+
+228
+00:18:29,620 --> 00:18:36,620
+of course, kept by Matteo Collina. This was my first contact with Open Source.
+
+229
+00:18:36,620 --> 00:18:43,620
+So it's not a bit like the motivational videos said, just imagine and you'll have it,
+
+230
+00:18:43,620 --> 00:18:48,620
+like The Secret, right? It would be great to take a piece of The Secret and put it in the video,
+
+231
+00:18:48,620 --> 00:18:50,620
+but I'm sure they'll strike it
+
+232
+00:18:50,620 --> 00:18:55,620
+but in the end you opened the wallet
+
+233
+00:18:55,620 --> 00:18:57,620
+armed with patience and guts
+
+234
+00:18:57,620 --> 00:18:59,620
+and you said to yourself
+
+235
+00:18:59,620 --> 00:19:03,620
+"ok, now I start"
+
+236
+00:19:03,620 --> 00:19:11,620
+Is this the first merge request or is this the one you want?
+
+237
+00:19:11,620 --> 00:19:21,620
+This is nice, because I did it on December 24th, 2018, if I remember correctly
+
+238
+00:19:21,620 --> 00:19:25,620
+You even remember the time, at this point
+
+239
+00:19:25,620 --> 00:19:28,620
+We can check on Github if it's true
+
+240
+00:19:28,620 --> 00:19:30,620
+Towards the evening, if I remember correctly
+
+241
+00:19:30,620 --> 00:19:35,620
+This was the first real pull request towards Fastify, if I remember correctly
+
+242
+00:19:35,620 --> 00:19:45,620
+So I let you imagine the fantastic evenings that we spent together
+
+243
+00:19:45,620 --> 00:19:48,620
+How did you get to this PURE QUEST?
+
+244
+00:19:48,620 --> 00:19:53,620
+Because everyone says "take a good first issue"
+
+245
+00:19:53,620 --> 00:19:56,620
+Exactly, a simple good first issue, but you get pissed off
+
+246
+00:19:56,620 --> 00:20:02,140
+Every time you go to get it, how many times I write to myself in private and I tell him take a
+
+247
+00:20:02,140 --> 00:20:05,780
+Good first issue first good issue
+
+248
+00:20:05,780 --> 00:20:13,260
+We mix the words as you want to say it, but every time I suggest this the answer I get is
+
+249
+00:20:13,260 --> 00:20:19,620
+Well, my friends, but all the good first issue have a comment below, can I take it?
+
+250
+00:20:19,620 --> 00:20:24,140
+Yes, and they are almost all taken and in the end
+
+251
+00:20:24,500 --> 00:20:29,500
+Yes, it's easy to say, but 90% of the cases don't work.
+
+252
+00:20:29,500 --> 00:20:31,500
+Sorry, this is my bold opinion.
+
+253
+00:20:31,500 --> 00:20:38,500
+No, no, so, it's true, there are also many who say "I'll do it and you'll never see them again"
+
+254
+00:20:38,500 --> 00:20:46,500
+and then the concept is "take it and do it" without being here to threaten the camperlaya.
+
+255
+00:20:46,500 --> 00:21:01,500
+I know, but at that point Galatea comes in. I want to get to the concept of Galatea, of open source, because it's something that is very close to my heart. Sorry if I interrupt you.
+
+256
+00:21:01,500 --> 00:21:08,500
+No, no, no, go easy, go easy. I'll answer the previous question first, otherwise I'll lose it.
+
+257
+00:21:08,500 --> 00:21:14,500
+So, what was the engine for the first pull request?
+
+258
+00:21:14,500 --> 00:21:18,500
+Always at the course of Matteo Collina.
+
+259
+00:21:18,500 --> 00:21:27,500
+In the end, he did teach me a lot of things about Node.js, how it works, etc.
+
+260
+00:21:27,500 --> 00:21:38,780
+but in the breaks, listening to his stories, listening to his sentences, even banal questions
+
+261
+00:21:38,780 --> 00:21:45,180
+but that basically destroy all the opinion you have of yourself
+
+262
+00:21:45,180 --> 00:21:52,860
+because obviously there was a moment of sharing on the group, of the studio
+
+263
+00:21:52,860 --> 00:21:58,460
+in which many people were complaining about the company
+
+264
+00:21:58,460 --> 00:22:04,460
+many, not all, but several people were there self-financing
+
+265
+00:22:04,460 --> 00:22:11,460
+and so they said "my company thinks it doesn't need this, it thinks it doesn't need that other"
+
+266
+00:22:11,460 --> 00:22:14,460
+and Matteo said "why are you still there?"
+
+267
+00:22:14,460 --> 00:22:21,460
+"I don't know how to change, I'm graduating, I have to plan"
+
+268
+00:22:21,460 --> 00:22:28,460
+1000 excuses of answer and he says and Matteo answers
+
+269
+00:22:28,460 --> 00:22:36,460
+"Look, you can start to get some experience in open source, so you have the possibility to find mentors
+
+270
+00:22:36,460 --> 00:22:45,460
+because if in your company you are the best and you don't have the opportunity to change in a better company
+
+271
+00:22:45,460 --> 00:22:56,460
+You are surely blocked for the fact of mentoring. Go to the open source, you will find some maintainer that will lead you by the hand.
+
+272
+00:22:56,460 --> 00:23:02,460
+And above all, how to start? Start from the issues that no one wants to do.
+
+273
+00:23:02,460 --> 00:23:07,460
+Don't worry, you will receive loads non-stop.
+
+274
+00:23:07,460 --> 00:23:13,460
+And so my first pull request is the documentation. Documentation as if there was no tomorrow.
+
+275
+00:23:13,460 --> 00:23:16,460
+[Italian]
+
+276
+00:23:16,460 --> 00:23:22,980
+From what you were representing, you created the image
+
+277
+00:23:22,980 --> 00:23:26,640
+Today I'm caustic, be patient
+
+278
+00:23:26,640 --> 00:23:31,380
+I know you, I love you Manuel, so I can afford it with you
+
+279
+00:23:31,380 --> 00:23:39,300
+You represented, you represent, I always represent the maintainers, the contributors
+
+280
+00:23:39,820 --> 00:23:44,020
+Open Source is like San Francesco or Santa Rita,
+
+281
+00:23:44,020 --> 00:23:48,020
+which take you by the hand in the magical world of Open Source.
+
+282
+00:23:48,020 --> 00:23:52,220
+Actually, every time I did Open Source,
+
+283
+00:23:52,220 --> 00:23:55,220
+maintaining, rather than taking me by the hand, was given to me by ciphones.
+
+284
+00:23:55,220 --> 00:23:58,020
+And ciphones that were also quite powerful.
+
+285
+00:23:58,020 --> 00:24:04,420
+Important ciphones, but still ciphones.
+
+286
+00:24:04,420 --> 00:24:12,420
+On the other hand, I understand that for a maintainer, for a core contributor,
+
+287
+00:24:12,420 --> 00:24:16,420
+a fixed presence, that you read the Emerge Requests,
+
+288
+00:24:16,420 --> 00:24:22,420
+and it filters among tens, if not hundreds of "puttanate" that people write,
+
+289
+00:24:22,420 --> 00:24:29,420
+it becomes difficult to keep a certain lucidity,
+
+290
+00:24:29,420 --> 00:24:34,820
+and always be the San Francesco or the saint of the situation.
+
+291
+00:24:34,820 --> 00:24:44,320
+So, actually, often times, we see answers that are not really soft,
+
+292
+00:24:44,320 --> 00:24:47,320
+that, I repeat, have their importance.
+
+293
+00:24:47,320 --> 00:24:52,820
+So I wanted for a moment to move to the concept of the contributor and the maintainer,
+
+294
+00:24:52,820 --> 00:24:56,320
+the figure of the contributor and the maintainer.
+
+295
+00:24:56,320 --> 00:25:03,920
+I've noticed that you're always present in the threads of the Emerging Quests and the Ishu
+
+296
+00:25:03,920 --> 00:25:06,320
+You're quite active from that point of view
+
+297
+00:25:06,320 --> 00:25:11,920
+How do you keep a certain lucidity?
+
+298
+00:25:11,920 --> 00:25:22,320
+So, the first question I'm asking you, which is more of a provocation
+
+299
+00:25:22,320 --> 00:25:28,720
+"Did those slaps you received were instructive or not?"
+
+300
+00:25:28,720 --> 00:25:34,320
+This is something that one should ask oneself
+
+301
+00:25:34,320 --> 00:25:42,320
+And anyway, yes, you need to have a bit of hair on your stomach
+
+302
+00:25:42,320 --> 00:25:46,320
+to allow me this "sillogismo"
+
+303
+00:25:46,320 --> 00:25:50,320
+Basically, it depends a lot on the personality
+
+304
+00:25:50,320 --> 00:25:53,320
+I, for example, am not the type of person who gets it
+
+305
+00:25:53,320 --> 00:25:55,320
+I'm really...
+
+306
+00:25:55,320 --> 00:25:58,320
+quite... I mean, you can tell me anything
+
+307
+00:25:58,320 --> 00:26:00,320
+and I don't care
+
+308
+00:26:00,320 --> 00:26:05,320
+and I definitely noticed that in open source
+
+309
+00:26:05,320 --> 00:26:09,320
+the more a person has repositories
+
+310
+00:26:09,320 --> 00:26:17,320
+the more he tends to reduce the number of words he uses during the review
+
+311
+00:26:17,320 --> 00:26:32,840
+But I learned that, by concentrating carefully, I read the reviews that were made 2000 times, I searched, I documented myself and I learned
+
+312
+00:26:32,840 --> 00:26:44,200
+I didn't take for granted "look, he's telling me that he doesn't want my code, he's telling me that this if doesn't work" etc.
+
+313
+00:26:44,200 --> 00:26:54,200
+I'm learning to relate better with people, with "superiors"
+
+314
+00:26:54,200 --> 00:27:04,200
+because if we relate this dialogue as if it were a job
+
+315
+00:27:04,200 --> 00:27:13,200
+you have a higher level, a person who is telling you to correct the code you wrote
+
+316
+00:27:13,200 --> 00:27:25,600
+and so, in my opinion, thanks to their being chaotic sometimes, which then, being chaotic, never offends the person
+
+317
+00:27:25,600 --> 00:27:30,640
+they write to you "look, here the code is not right, here I would do it in another way"
+
+318
+00:27:30,640 --> 00:27:37,840
+nothing transcendental, surely the fourth time you make a pull request, they turn you a bit
+
+319
+00:27:37,840 --> 00:27:43,440
+but every time you rewrite it, you rewrite it better and better
+
+320
+00:27:43,440 --> 00:27:47,240
+and this approach then, you bring it to work
+
+321
+00:27:47,240 --> 00:27:54,640
+and learning communication in the world of work is very important
+
+322
+00:27:54,640 --> 00:28:03,240
+so contributing to open source has made my shoulders wide and even more solid
+
+323
+00:28:03,240 --> 00:28:11,560
+and all this interaction I bring it to work and it benefits the same work
+
+324
+00:28:11,560 --> 00:28:20,120
+because I learned that when you have a maintainer that presents a bug without the code to replicate it, for example
+
+325
+00:28:20,120 --> 00:28:24,840
+the maintainer says "look, bye" and closes it immediately
+
+326
+00:28:24,840 --> 00:28:28,600
+but they do it like that also on StarCoverFlow, in parentheses
+
+327
+00:28:28,600 --> 00:28:35,100
+The fact is that if I open a bug I get good answers
+
+328
+00:28:35,100 --> 00:28:36,600
+Same thing at work
+
+329
+00:28:36,600 --> 00:28:41,100
+If I ask for help and I say what I did, how I did it
+
+330
+00:28:41,100 --> 00:28:48,100
+and providing the code that makes sense to exist
+
+331
+00:28:48,100 --> 00:28:52,100
+I get smart answers
+
+332
+00:28:52,100 --> 00:28:54,600
+or I get coherent answers
+
+333
+00:28:54,600 --> 00:28:59,840
+Otherwise, try to reinstall and restart the PC
+
+334
+00:28:59,840 --> 00:29:01,840
+Let's finish there
+
+335
+00:29:01,840 --> 00:29:03,840
+I'm inserting myself with a motivational sentence
+
+336
+00:29:03,840 --> 00:29:07,440
+that if you want to have more, you have to give more
+
+337
+00:29:07,440 --> 00:29:11,520
+If you want to have better answers, you have to ask better questions
+
+338
+00:29:11,520 --> 00:29:16,480
+And then I also wanted to express a thought about the fact that even if the maintainer
+
+339
+00:29:16,480 --> 00:29:23,120
+who has this relationship, how to say, is the boss of the repository
+
+340
+00:29:23,120 --> 00:29:32,720
+Even if it doesn't answer you, it tries to answer you, but it doesn't answer 100 people in the same day.
+
+341
+00:29:32,720 --> 00:29:33,720
+And it does it anyway.
+
+342
+00:29:33,720 --> 00:29:42,120
+It's a stressful job for him, but for the project, we have to admit that we're not the only ones contributing to it.
+
+343
+00:29:42,120 --> 00:29:46,520
+This person does it, so if he spends time, even the least amount of time,
+
+344
+00:29:46,520 --> 00:29:48,120
+for which he writes you "bye" and closes the door,
+
+345
+00:29:48,120 --> 00:29:52,520
+he sees it and says "next time I'll do better because I want to improve the job".
+
+346
+00:29:52,520 --> 00:29:55,020
+so I think this thought is also included.
+
+347
+00:29:55,020 --> 00:30:00,520
+I wanted to make a note for those who are listening to us
+
+348
+00:30:00,520 --> 00:30:06,020
+or are watching us, it's nice that this season the viewers are watching us,
+
+349
+00:30:06,020 --> 00:30:10,520
+who are maybe interested in making their first contribution
+
+350
+00:30:10,520 --> 00:30:14,020
+but are a little scared by this situation,
+
+351
+00:30:14,020 --> 00:30:17,520
+no one is going to eat you, in the sense that
+
+352
+00:30:17,520 --> 00:30:25,120
+Every project, every repo, every community is the mirror of our human interactions.
+
+353
+00:30:25,120 --> 00:30:33,320
+There are places, there are places, there are moments where it is possible to have a type of communication
+
+354
+00:30:33,320 --> 00:30:40,720
+that is even more welcoming for those who are starting.
+
+355
+00:30:40,720 --> 00:30:47,120
+There are maybe those days when you can do better, those days when you can do worse.
+
+356
+00:30:47,120 --> 00:30:53,520
+It was the right thing to do to make a point to go in that rhetoric
+
+357
+00:30:53,520 --> 00:31:03,920
+so it's right if they answer you badly because "oh well, but I'm doing the validation library that you use and you didn't write it yourself"
+
+358
+00:31:03,920 --> 00:31:13,280
+and so ok, they are legitimate to do this thing, in the sense that they are a stupid person and stupid even if you have repositories with 15,000 stars
+
+359
+00:31:13,280 --> 00:31:18,280
+I heard you are a Storvald somewhere
+
+360
+00:31:18,280 --> 00:31:28,280
+No, no, my thing is a general thing, I mean, try us, if you don't like it, you have the chance to not like it too
+
+361
+00:31:28,280 --> 00:31:40,280
+Actually, I mentioned the concept of community because I wanted to connect to another thing, plus a question
+
+362
+00:31:40,280 --> 00:31:58,280
+I always have the impression that, if I have to choose a project that I want to follow, that I want to contribute, but also more extreme, that I want to use or not use,
+
+363
+00:31:58,280 --> 00:32:02,780
+for me it's very important, the type of community that you bring behind.
+
+364
+00:32:02,780 --> 00:32:09,780
+By type of community I mean the type of communication that happens in the community,
+
+365
+00:32:09,780 --> 00:32:17,780
+how the controversies are resolved, the various processes for which you can bring your idea to be an idea,
+
+366
+00:32:17,780 --> 00:32:23,780
+let's say, maybe to RFC, to implementation, etc.
+
+367
+00:32:23,780 --> 00:32:41,780
+and I noticed that often and willingly the proactivity of the community and the expectations of the community can differ
+
+368
+00:32:41,780 --> 00:32:51,060
+how do you manage, or how do you advise to manage the expectations of the company itself?
+
+369
+00:32:51,060 --> 00:32:57,020
+Because then, in a sense, you still enter that dynamic of social pressure of your peers,
+
+370
+00:32:57,020 --> 00:33:04,140
+or at least in this case, let's say, of your clients, if we want to call them that,
+
+371
+00:33:04,140 --> 00:33:06,340
+who obviously have expectations.
+
+372
+00:33:06,340 --> 00:33:13,140
+and it's difficult to convey what's behind satisfying that expectation
+
+373
+00:33:13,140 --> 00:33:21,860
+because maybe the person is lucky and can contribute to that project as part of their work
+
+374
+00:33:21,860 --> 00:33:26,100
+so they are actually paid for a certain amount of hours that they can dedicate to that thing
+
+375
+00:33:26,100 --> 00:33:31,860
+and that's one of the sweet spots that you can reach
+
+376
+00:33:31,860 --> 00:33:42,600
+or maybe it's developing in the free time and so actually receiving a certain kind of pressure is not really a good thing
+
+377
+00:33:42,600 --> 00:33:47,800
+How do you relate to this and if you have any advice to give us?
+
+378
+00:33:47,800 --> 00:33:56,680
+So, I'll start with the simplest thing, that is, the quality of the community
+
+379
+00:33:56,680 --> 00:34:07,680
+I'll give you an example, at the moment, on active contributors, which are part of the Fastify collaborators,
+
+380
+00:34:07,680 --> 00:34:17,680
+there's a maintainer that's a bit sarcastic, for example, when they get questions that are a bit silly.
+
+381
+00:34:17,680 --> 00:34:28,080
+Also here, I say it in the first person, when I see messages that are not healthy
+
+382
+00:34:28,080 --> 00:34:33,680
+or at least can be misunderstood by a person who asked a question
+
+383
+00:34:33,680 --> 00:34:41,280
+"but why did you release this thing? It broke my whole production and I'm angry about it"
+
+384
+00:34:41,280 --> 00:34:49,280
+Also there, you don't have to take the anger of the people who write to you and throw it back
+
+385
+00:34:49,280 --> 00:34:54,280
+you have to teach respect to the person who is writing to you
+
+386
+00:34:54,280 --> 00:35:03,280
+and so I have some messages, simply prefacts, in which I quote the mid-license
+
+387
+00:35:03,280 --> 00:35:17,280
+and you also try to train other contributors so that they spread good intentions in the environment
+
+388
+00:35:17,280 --> 00:35:22,160
+and so you try to train this person who got angry
+
+389
+00:35:22,160 --> 00:35:27,960
+by saying "look, if you're in production and I broke everything,
+
+390
+00:35:27,960 --> 00:35:33,320
+it means you're not working with a package lock"
+
+391
+00:35:33,320 --> 00:35:37,520
+and so you train them, you respond to hate with love
+
+392
+00:35:37,520 --> 00:35:41,120
+and this usually always pays off in the long run
+
+393
+00:35:41,120 --> 00:35:48,120
+There are maintainers that don't have time and don't answer, simply.
+
+394
+00:35:48,120 --> 00:35:59,120
+I instead have the time for a link, so I always try to give, to form, to be useful if I comment.
+
+395
+00:35:59,120 --> 00:36:10,620
+instead, but this is me now, in December I will be 5 years old as a contributor to Open Source
+
+396
+00:36:10,620 --> 00:36:17,620
+so I'm now a veteran, not to say a senior in this environment
+
+397
+00:36:17,620 --> 00:36:20,120
+you're a senior, right?
+
+398
+00:36:20,120 --> 00:36:22,620
+a little bit, yes
+
+399
+00:36:22,620 --> 00:36:34,620
+At the beginning of my "career" I felt all the pressure you mentioned
+
+400
+00:36:34,620 --> 00:36:45,620
+because in the first months of 2019 I made important changes to the validation part of Fastify
+
+401
+00:36:45,620 --> 00:36:49,620
+I can say that I did all the validation part of Fastify
+
+402
+00:36:49,620 --> 00:36:52,620
+Or better, I rewrote it, sorry
+
+403
+00:36:52,620 --> 00:36:55,620
+Thomas from Vedova wrote it
+
+404
+00:36:55,620 --> 00:36:59,620
+And then I refactored it on top
+
+405
+00:36:59,620 --> 00:37:02,620
+And then I rewrote it in parts
+
+406
+00:37:02,620 --> 00:37:06,620
+So, the first bugs
+
+407
+00:37:06,620 --> 00:37:09,620
+For me, I lost my hair
+
+408
+00:37:09,620 --> 00:37:13,620
+Because people wrote "oh, it's not working anymore"
+
+409
+00:37:13,620 --> 00:37:17,620
+"Why did it go up before? It's not going up anymore, what the hell did you do?"
+
+410
+00:37:17,620 --> 00:37:19,620
+And I felt guilty
+
+411
+00:37:19,620 --> 00:37:23,620
+And I had transformed my evenings
+
+412
+00:37:23,620 --> 00:37:27,620
+Maybe I had a free evening per week to watch a movie
+
+413
+00:37:27,620 --> 00:37:33,620
+No, I was up all night to fix that bug that I had caused
+
+414
+00:37:33,620 --> 00:37:35,620
+I felt guilty
+
+415
+00:37:35,620 --> 00:37:42,620
+It's like, I don't know, damaging a public property
+
+416
+00:37:42,620 --> 00:37:48,140
+you get anxious and try to repair it in some way
+
+417
+00:37:48,140 --> 00:37:52,300
+and this is not healthy, it's not healthy at all
+
+418
+00:37:52,300 --> 00:38:01,340
+I haven't reached the extreme level where people would maybe taunt me on social media
+
+419
+00:38:01,340 --> 00:38:08,220
+- but still - no, I don't think we'll get to that point
+
+420
+00:38:08,220 --> 00:38:16,700
+but surely some emails that said "hey look, I have this issue, what do we do?"
+
+421
+00:38:16,700 --> 00:38:24,900
+so there was this feeling of debt towards the community
+
+422
+00:38:24,900 --> 00:38:33,300
+so maybe you had some experiences that you saw as third party
+
+423
+00:38:33,300 --> 00:38:37,480
+of burnout related to this topic here
+
+424
+00:38:37,480 --> 00:38:42,320
+because I imagine it can be a consequence
+
+425
+00:38:42,320 --> 00:38:47,280
+and then, in your opinion, another question like this, maybe this one too
+
+426
+00:38:47,280 --> 00:38:49,880
+a bit like this
+
+427
+00:38:49,880 --> 00:38:56,880
+the fact of being able to work and spend part of your working day
+
+428
+00:38:56,880 --> 00:39:00,400
+or work for an open source project
+
+429
+00:39:00,400 --> 00:39:04,400
+so being paid to do a certain thing
+
+430
+00:39:04,400 --> 00:39:10,400
+does it make you feel, or do you think it could make you feel less of this kind of pressure?
+
+431
+00:39:10,400 --> 00:39:16,400
+Like, "ok, it's my job, I created a bug, I'll fix it tomorrow morning"
+
+432
+00:39:16,400 --> 00:39:23,400
+So, to quote a story, without saying names and surnames
+
+433
+00:39:23,400 --> 00:39:31,400
+they kept forcing me to do something
+
+434
+00:39:31,400 --> 00:39:45,400
+saying "I have this pack, you haven't closed it yet, if you don't fix it I'll be fired, I have a family, I have kids, they won't be able to eat, what will I do? It's your fault"
+
+435
+00:39:45,400 --> 00:39:48,920
+but they told me this kind of stories
+
+436
+00:39:48,920 --> 00:39:54,720
+and so, receiving this kind of email...
+
+437
+00:39:54,720 --> 00:39:59,040
+I don't even want to think about it, luckily it didn't happen to me
+
+438
+00:39:59,040 --> 00:40:01,440
+because otherwise I don't know how I would react
+
+439
+00:40:01,440 --> 00:40:10,560
+but it's there that you understand that you have to "get off" the "you" person
+
+440
+00:40:10,560 --> 00:40:18,560
+and therefore your needs, your free time and your day
+
+441
+00:40:18,560 --> 00:40:21,560
+with the problems of others
+
+442
+00:40:21,560 --> 00:40:27,560
+Sometimes it's good to remember that you can't save the world every day
+
+443
+00:40:27,560 --> 00:40:32,560
+This is definitely something to remember
+
+444
+00:40:32,560 --> 00:40:36,560
+It's an open source project
+
+445
+00:40:36,560 --> 00:40:46,060
+and if you have a bug, maybe the previous version works, it does the pin of the dependency
+
+446
+00:40:46,060 --> 00:40:53,060
+at most you become an expert in suggesting workarounds, let's say
+
+447
+00:40:53,060 --> 00:41:01,060
+you do the eye, or maybe you even suggest the approach to solve
+
+448
+00:41:01,060 --> 00:41:08,560
+in a constructive way to receive a better feedback from the community
+
+449
+00:41:08,560 --> 00:41:12,560
+rather than only bad emotions.
+
+450
+00:41:12,560 --> 00:41:19,560
+I want to ask you a question, shifting a bit to the side,
+
+451
+00:41:19,560 --> 00:41:27,560
+returning to the concept of contribution and speech on contributions.
+
+452
+00:41:27,560 --> 00:41:35,560
+I don't know, I'm getting a little detached in the thread, but I think it's ok.
+
+453
+00:41:35,560 --> 00:41:42,560
+What do you think, since I know you're also quite active on Stack Overflow,
+
+454
+00:41:42,560 --> 00:41:55,560
+what do you think is the difference between a commented issue and a thread on Stack Overflow?
+
+455
+00:41:55,560 --> 00:41:59,560
+Often, there's no difference.
+
+456
+00:41:59,560 --> 00:42:06,560
+I mean, I add a variable to your speech,
+
+457
+00:42:06,560 --> 00:42:10,560
+and those who ask for support on Discord,
+
+458
+00:42:10,560 --> 00:42:15,560
+I find them unbearable, in fact I'm not very active on Discord,
+
+459
+00:42:15,560 --> 00:42:22,560
+because it's a chat and there's too much communication that tends to be synchronous.
+
+460
+00:42:22,560 --> 00:42:25,560
+I don't like it at all.
+
+461
+00:42:25,560 --> 00:42:31,560
+I think that support is required on GitHub or Stack Overflow.
+
+462
+00:42:31,560 --> 00:42:34,560
+Stack Overflow is better in my opinion,
+
+463
+00:42:34,560 --> 00:42:43,560
+because it is more obvious and easier to find.
+
+464
+00:42:43,560 --> 00:42:49,560
+Or people read it more than GitHub.
+
+465
+00:42:49,560 --> 00:42:58,760
+But there is more vitality in the Fastify tag on Stack Overflow
+
+466
+00:42:58,760 --> 00:43:02,040
+but there is still not enough
+
+467
+00:43:02,040 --> 00:43:06,760
+because I think that if someone asks questions
+
+468
+00:43:06,760 --> 00:43:11,880
+the answers could be more useful for everyone
+
+469
+00:43:11,880 --> 00:43:14,680
+for all those who will have the same problem
+
+470
+00:43:14,680 --> 00:43:21,680
+So I prefer to stay on Stack Overflow for a long time between the two
+
+471
+00:43:21,680 --> 00:43:26,680
+and the best ones are the ones who ask the same question on Stack Overflow and GitHub
+
+472
+00:43:26,680 --> 00:43:34,680
+and then I systematically answer only on Stack Overflow and I close the issue on GitHub with the link to Stack Overflow
+
+473
+00:43:34,680 --> 00:43:42,680
+just to make it clear that a platform is enough, you don't need to write anywhere
+
+474
+00:43:42,680 --> 00:43:49,680
+We are talking about a lot of things that take a lot of time and therefore cost a lot of money
+
+475
+00:43:49,680 --> 00:43:54,680
+but this open source, who pays for it? Who has to pay for it? We have to pay for it, the company has to pay for it,
+
+476
+00:43:54,680 --> 00:44:02,680
+you have to do the open collective, you have to not pay for it because it is right,
+
+477
+00:44:02,680 --> 00:44:06,680
+people who do open source and do not wash themselves do not need money
+
+478
+00:44:06,680 --> 00:44:11,680
+just because they live like this on the street with their computers
+
+479
+00:44:11,680 --> 00:44:13,680
+In your opinion?
+
+480
+00:44:13,680 --> 00:44:26,680
+I'll answer for myself, which is important, because from your previous question it seemed there was a bit of smoke in my kind of work.
+
+481
+00:44:26,680 --> 00:44:35,680
+I am paid to do my client project. I am not paid minimally to do open source.
+
+482
+00:44:35,680 --> 00:44:45,680
+All the open source I do, all the questions I answer, all the assistance, it's all free time.
+
+483
+00:44:45,680 --> 00:45:00,680
+All my coffee breaks are spent maybe on spitting out the GitHub notifications or emails, but at the moment I'm not part of the team in NearForm,
+
+484
+00:45:00,680 --> 00:45:05,680
+we have a team in NearForm that normally works free time
+
+485
+00:45:05,680 --> 00:45:10,680
+I wanted to mention that, because at the same time there are "enlightened" companies
+
+486
+00:45:10,680 --> 00:45:16,680
+Absolutely, but unfortunately at the moment I'm not in that team
+
+487
+00:45:16,680 --> 00:45:22,680
+and therefore, I repeat, all my contributions are free time
+
+488
+00:45:22,680 --> 00:45:26,680
+and who pays it? At the moment no one
+
+489
+00:45:26,680 --> 00:45:36,680
+and the fact is that it depends a lot on the person, on how he feels repaid by the community
+
+490
+00:45:36,680 --> 00:45:46,680
+it's very important, because I would like to underline, if it wasn't clear, I started to contribute to Open Source for pure selfishness
+
+491
+00:45:46,680 --> 00:46:02,680
+because I wanted a mentor, because I wanted a better job, because I wanted to work with the stars that went on stage during the conferences
+
+492
+00:46:02,680 --> 00:46:08,680
+and so that seemed to me to be the best way to reach my goals
+
+493
+00:46:08,680 --> 00:46:19,080
+and I received a lot, I keep saying that I still receive, precisely because I learn
+
+494
+00:46:19,080 --> 00:46:26,280
+what I learn by answering the questions, even the most disparate ones in some respects
+
+495
+00:46:26,280 --> 00:46:30,680
+then, clearly, I "resell" it to my work
+
+496
+00:46:30,680 --> 00:46:38,680
+as simply looking more professional, looking like someone who knows one more page of the book
+
+497
+00:46:38,680 --> 00:46:44,680
+so that job is... I consider it training
+
+498
+00:46:44,680 --> 00:46:51,680
+be careful, but it's not like that anymore in the last period
+
+499
+00:46:51,680 --> 00:46:57,680
+before moving on to the last period, which we talked about a bit
+
+500
+00:46:57,680 --> 00:47:01,680
+I know the situation you are living.
+
+501
+00:47:01,680 --> 00:47:06,680
+I want to ask you a question, I want to get to it like this.
+
+502
+00:47:06,680 --> 00:47:11,680
+We have said that a good part of our industry,
+
+503
+00:47:11,680 --> 00:47:14,680
+and we have always said it, a good part of our industry
+
+504
+00:47:14,680 --> 00:47:18,680
+is based, it has its roots in open source.
+
+505
+00:47:18,680 --> 00:47:21,680
+If there was no open source, probably our industry
+
+506
+00:47:21,680 --> 00:47:23,680
+would not be as it is.
+
+507
+00:47:23,680 --> 00:47:30,680
+We also have the numbers, if you want I can share them in the Telegram group, I was reading a beautiful book on open source.
+
+508
+00:47:30,680 --> 00:47:37,680
+We have the numbers that tell us that individual contributions are a very high number.
+
+509
+00:47:37,680 --> 00:47:51,760
+And at this point I ask myself, is it sustainable to bring an industry, an ecosystem that is
+
+510
+00:47:51,760 --> 00:47:59,760
+is repaid, for the most part, by visibility,
+
+511
+00:47:59,760 --> 00:48:09,760
+by the possibility of working with famous people or rock stars of the situation.
+
+512
+00:48:09,760 --> 00:48:15,760
+This thing is sustainable, because it's okay if it's selfish,
+
+513
+00:48:15,760 --> 00:48:27,760
+But if this driver, as selfish as it is, is as stable as the money that pays the contributions?
+
+514
+00:48:27,760 --> 00:48:33,760
+I think it's as stable as the sand in the Sahara, probably.
+
+515
+00:48:33,760 --> 00:48:36,440
+I think its stability is
+
+516
+00:48:36,440 --> 00:48:39,160
+fluctuating because the only
+
+517
+00:48:39,160 --> 00:48:42,000
+real element
+
+518
+00:48:42,000 --> 00:48:44,680
+Of the open source
+
+519
+00:48:44,680 --> 00:48:51,600
+The only element that actually defines its stability is related to motivation
+
+520
+00:48:51,600 --> 00:48:59,000
+And motivation can be of two types, indeed it can be of different types
+
+521
+00:49:01,000 --> 00:49:06,240
+But let's say the most striking elements are intrinsic and extrinsic motivation
+
+522
+00:49:06,240 --> 00:49:09,200
+Let's call them
+
+523
+00:49:09,200 --> 00:49:13,120
+exogenous and endogenous motivation, therefore internal to yourself
+
+524
+00:49:13,120 --> 00:49:16,120
+that pushes from the outside
+
+525
+00:49:16,120 --> 00:49:20,800
+If at the beginning the motivation is
+
+526
+00:49:20,800 --> 00:49:25,120
+Endogenous
+
+527
+00:49:25,640 --> 00:49:37,640
+So you feel it pushing from the inside, that you want to do something cool, you want to know new topics, and that's fine.
+
+528
+00:49:37,640 --> 00:49:46,640
+In the end, a good part of the motivation in evolution will come to you as an element that comes to you from outside,
+
+529
+00:49:46,640 --> 00:49:52,640
+outside of your control, of social recognition in the community,
+
+530
+00:49:52,640 --> 00:49:57,640
+of becoming a visible element.
+
+531
+00:49:57,640 --> 00:50:02,640
+And this thing, in my opinion, is at high risk.
+
+532
+00:50:02,640 --> 00:50:05,640
+I have a previous experience.
+
+533
+00:50:05,640 --> 00:50:10,640
+Many of you know that in my previous life I was a DJ, in clubs.
+
+534
+00:50:10,640 --> 00:50:14,060
+Okay, and there was a specific period around the year
+
+535
+00:50:14,060 --> 00:50:21,560
+2003 2004 when the djs became the rockstar djs
+
+536
+00:50:21,560 --> 00:50:25,880
+When there was this passage
+
+537
+00:50:25,880 --> 00:50:28,820
+a good part of the tracks
+
+538
+00:50:28,820 --> 00:50:30,960
+were
+
+539
+00:50:30,960 --> 00:50:37,000
+fed, therefore the record production was fed by the search for that
+
+540
+00:50:37,000 --> 00:50:39,440
+exogenous motivation
+
+541
+00:50:40,240 --> 00:50:45,440
+And so everyone wanted to be rockstar djs to do rockstar djs they had to do more open source
+
+542
+00:50:45,440 --> 00:50:48,880
+possible no now I'm shifting the perspective
+
+543
+00:50:48,880 --> 00:50:54,600
+Here at the end this thing was a disaster for the world of djs
+
+544
+00:50:54,600 --> 00:51:00,520
+because all the research part of underground is all lost
+
+545
+00:51:00,520 --> 00:51:06,480
+so when I see in the conference halls the new framework
+
+546
+00:51:07,880 --> 00:51:15,200
+Script the figuissimo Bobo next js puto stock a a tutti vogliono contribuire la
+
+547
+00:51:15,200 --> 00:51:21,440
+questa contributione che guidata prevalentemente dalla parte strinseca e
+
+548
+00:51:21,440 --> 00:51:26,920
+Rischiosa e la mia domanda è a livello personale come ti trovi in questo in questo
+
+549
+00:51:26,920 --> 00:51:30,160
+in questo
+
+550
+00:51:30,160 --> 00:51:36,920
+Allora, c'è tantissimo da dire anche qui, ma mi dispiace per il tempo benvenuto su github
+
+551
+00:51:36,920 --> 00:51:45,920
+I'll start with a recent example that made me think
+
+552
+00:51:45,920 --> 00:51:51,920
+Recently there was the release of BUN, version 1
+
+553
+00:51:51,920 --> 00:51:57,920
+It was a big talk
+
+554
+00:51:57,920 --> 00:52:04,920
+In the Facts of the Species, they were comparing JS and BUN
+
+555
+00:52:04,920 --> 00:52:15,420
+And in the middle of the cycle, one of the leaders of the NoJS team on the performance
+
+556
+00:52:15,420 --> 00:52:24,420
+I don't remember the name, I know that Jag has something on Twitter, I'll get it back to you later
+
+557
+00:52:24,420 --> 00:52:26,420
+I'll get it back later
+
+558
+00:52:26,420 --> 00:52:30,420
+and it ended up in Cyclone's eye
+
+559
+00:52:30,420 --> 00:52:37,420
+because he was the reference of this team
+
+560
+00:52:37,420 --> 00:52:40,420
+and everyone started to talk about it
+
+561
+00:52:40,420 --> 00:52:43,420
+nobody knew who he was
+
+562
+00:52:43,420 --> 00:52:49,420
+and this is already a moral blow to the low
+
+563
+00:52:49,420 --> 00:52:52,420
+that really makes you bleed
+
+564
+00:52:52,420 --> 00:52:56,420
+everyone started to criticize him
+
+565
+00:52:56,420 --> 00:52:58,420
+very funny
+
+566
+00:52:58,420 --> 00:53:00,420
+then it ended
+
+567
+00:53:00,420 --> 00:53:02,420
+in the youtube cycle
+
+568
+00:53:02,420 --> 00:53:04,420
+with the
+
+569
+00:53:04,420 --> 00:53:06,420
+the prisma
+
+570
+00:53:06,420 --> 00:53:08,420
+i will never remember the names
+
+571
+00:53:08,420 --> 00:53:10,420
+they have too complex nicknames
+
+572
+00:53:10,420 --> 00:53:12,420
+the one that always does all the videos
+
+573
+00:53:12,420 --> 00:53:14,420
+prime gem
+
+574
+00:53:14,420 --> 00:53:16,420
+very good prime gem
+
+575
+00:53:16,420 --> 00:53:18,420
+it ended in the cycle
+
+576
+00:53:18,420 --> 00:53:20,420
+and
+
+577
+00:53:20,420 --> 00:53:22,420
+What was the result?
+
+578
+00:53:22,420 --> 00:53:29,920
+He said "Guys, it's all free time, I spend it on improving Nod's performance"
+
+579
+00:53:29,920 --> 00:53:32,920
+It ended up on Cyclone's eye, it was crushed
+
+580
+00:53:32,920 --> 00:53:37,920
+And the next day, I think, he opened a pull request
+
+581
+00:53:37,920 --> 00:53:43,920
+In which he said "Guys, I'm leaving the performance team"
+
+582
+00:53:43,920 --> 00:53:45,920
+"Get ready"
+
+583
+00:53:45,920 --> 00:53:52,920
+Here is the danger of open source
+
+584
+00:53:52,920 --> 00:53:56,920
+and also the advantage, in the sense that when you get bored,
+
+585
+00:53:56,920 --> 00:54:06,920
+when you are really targeted as the worst developer of the last 20 years
+
+586
+00:54:06,920 --> 00:54:11,920
+one gets angry, one gets angry and says "but who makes me do it?"
+
+587
+00:54:11,920 --> 00:54:20,300
+And his last tweets were him playing Call of Duty
+
+588
+00:54:20,300 --> 00:54:29,680
+Let's realize that, because sometimes we forget that if there is no Manuel who releases the game
+
+589
+00:54:29,680 --> 00:54:33,300
+And sometimes they ping me, thanks, because I lose them
+
+590
+00:54:33,300 --> 00:54:37,720
+If there is no Manuel who releases the game, the features, the bugfixes and so on
+
+591
+00:54:37,720 --> 00:54:40,720
+they are not released
+
+592
+00:54:40,720 --> 00:54:45,720
+all Fastify maintainers have access and can release them
+
+593
+00:54:45,720 --> 00:54:48,720
+it's clear, I'm not saying that I have a centralized power
+
+594
+00:54:48,720 --> 00:54:50,720
+but the concept is
+
+595
+00:54:50,720 --> 00:54:53,720
+treat us like people
+
+596
+00:54:53,720 --> 00:54:56,720
+we are human beings too
+
+597
+00:54:56,720 --> 00:54:58,720
+but it's not the same as in a company
+
+598
+00:54:58,720 --> 00:55:00,720
+because then I relate to what you said before
+
+599
+00:55:00,720 --> 00:55:03,720
+only that, apart from the fact that in a company they pay you
+
+600
+00:55:03,720 --> 00:55:05,720
+and maybe the boss is one or two
+
+601
+00:55:05,720 --> 00:55:07,720
+it's not all about the internet
+
+602
+00:55:07,720 --> 00:55:09,720
+but it's a similar thing
+
+603
+00:55:09,720 --> 00:55:11,720
+if you want to be good
+
+604
+00:55:11,720 --> 00:55:13,720
+if a person feels good in an environment
+
+605
+00:55:13,720 --> 00:55:15,720
+that can be his own project
+
+606
+00:55:15,720 --> 00:55:17,720
+it doesn't go away
+
+607
+00:55:17,720 --> 00:55:19,720
+if it goes away, it's obviously not
+
+608
+00:55:19,720 --> 00:55:21,720
+something that comes from the outside
+
+609
+00:55:21,720 --> 00:55:23,720
+but it's much easier
+
+610
+00:55:23,720 --> 00:55:25,720
+since those who use fastify
+
+611
+00:55:25,720 --> 00:55:27,720
+don't pay you
+
+612
+00:55:27,720 --> 00:55:29,720
+to say "hey, if you don't like me, go away"
+
+613
+00:55:29,720 --> 00:55:31,720
+and then you don't realize
+
+614
+00:55:31,720 --> 00:55:33,720
+that you're actually leaving us
+
+615
+00:55:33,720 --> 00:55:43,720
+I would like to add a note of folklore, a post that I share on our backchannel today, on the performances of Node.js.
+
+616
+00:55:43,720 --> 00:56:01,720
+Today, Jared Summer has shared on Twitter, a link to an issue that he had raised in 2021 regarding the Node.js performances.
+
+617
+00:56:01,720 --> 00:56:09,720
+Our mutual friend Matteo has made one of his and he gave a beautiful answer.
+
+618
+00:56:09,720 --> 00:56:22,720
+He wrote "Imagine a different world where you open a pull request to fix this and become a Node collaborator making it work even faster".
+
+619
+00:56:22,720 --> 00:56:24,720
+This is...
+
+620
+00:56:24,720 --> 00:56:27,520
+This is something that...
+
+621
+00:56:27,520 --> 00:56:29,520
+In my opinion, it's pure psychology.
+
+622
+00:56:29,520 --> 00:56:31,520
+At this moment, I was thinking about Matteo Collina,
+
+623
+00:56:31,520 --> 00:56:33,520
+who is really pissed off when he sees this.
+
+624
+00:56:33,520 --> 00:56:35,520
+Okay?
+
+625
+00:56:35,520 --> 00:56:37,520
+And he says, "What do I do?"
+
+626
+00:56:37,520 --> 00:56:39,520
+"Do I feed the flame in a way...
+
+627
+00:56:39,520 --> 00:56:43,520
+Huh? Or do I try to..."
+
+628
+00:56:43,520 --> 00:56:45,520
+- In a constructive way! - In a nice way.
+
+629
+00:56:45,520 --> 00:56:47,520
+Actually, it's a big-ass joke.
+
+630
+00:56:47,520 --> 00:56:49,520
+But at least...
+
+631
+00:56:49,520 --> 00:56:51,520
+At least he made me understand,
+
+632
+00:56:51,520 --> 00:56:56,520
+that you can communicate in a slightly ironic,
+
+633
+00:56:56,520 --> 00:56:59,520
+pungent, but also polite way.
+
+634
+00:56:59,520 --> 00:57:02,520
+I've seen the worst things in the ban context.
+
+635
+00:57:02,520 --> 00:57:06,520
+Yes, however, the first tweet was also pungent,
+
+636
+00:57:06,520 --> 00:57:08,520
+how to say, controversial.
+
+637
+00:57:08,520 --> 00:57:10,520
+I mean, he meant, "I opened it in 2021,
+
+638
+00:57:10,520 --> 00:57:12,520
+no one has sh*t on me,
+
+639
+00:57:12,520 --> 00:57:15,520
+I did my run time with..."
+
+640
+00:57:15,520 --> 00:57:16,520
+Blackjack.
+
+641
+00:57:16,520 --> 00:57:18,520
+"Blackjack, the Russian guy."
+
+642
+00:57:20,520 --> 00:57:42,520
+Actually, between No Jays and Banner, I'm seeing a flame between the beginning of the game and the other games, like Symphony of the Aravel and Symphony of the Colors.
+
+643
+00:57:42,520 --> 00:57:49,720
+I wanted to ask you a question that has nothing to do with it, but it's related to what we were saying before, at the beginning.
+
+644
+00:57:49,720 --> 00:58:01,120
+In your opinion, how can we create an open source training process?
+
+645
+00:58:01,120 --> 00:58:04,720
+I'll tell you something like this.
+
+646
+00:58:04,720 --> 00:58:09,360
+a few years ago, to participate in a workshop
+
+647
+00:58:09,360 --> 00:58:15,560
+held by GNOME contributors and maintainers
+
+648
+00:58:15,560 --> 00:58:18,880
+on how to make a pull request on GNOME
+
+649
+00:58:18,880 --> 00:58:23,520
+and how the architecture worked in general.
+
+650
+00:58:23,520 --> 00:58:29,680
+So, it was a mistake to work on a...
+
+651
+00:58:29,680 --> 00:58:31,880
+not on the desktop environment,
+
+652
+00:58:31,880 --> 00:58:35,480
+if that would have been utopian to do the workshop interview
+
+653
+00:58:35,480 --> 00:58:39,980
+but on an application that was included by default in the desktop environment
+
+654
+00:58:39,980 --> 00:58:48,780
+so to see a little how to integrate the UI with GTK inside GNOME
+
+655
+00:58:48,780 --> 00:58:53,280
+how to use BUS in the way everyone expects to use BUS
+
+656
+00:58:53,280 --> 00:58:59,180
+in short, it was a session on how to introduce people
+
+657
+00:58:59,180 --> 00:59:04,680
+that were never developed for Gnome
+
+658
+00:59:04,680 --> 00:59:07,680
+because, like all open source projects,
+
+659
+00:59:07,680 --> 00:59:11,180
+they need people to contribute to them.
+
+660
+00:59:11,180 --> 00:59:14,180
+In my opinion, is it possible to do something like that?
+
+661
+00:59:14,180 --> 00:59:17,180
+It's just a matter of fact,
+
+662
+00:59:17,180 --> 00:59:21,680
+I don't have any idea about projects in the ecosystem.
+
+663
+00:59:21,680 --> 00:59:24,180
+As I said, it can be or not.
+
+664
+00:59:24,180 --> 00:59:27,180
+If tomorrow morning I want to wake up and say
+
+665
+00:59:27,180 --> 00:59:37,180
+I know about C++, I know about JavaScript, I want to contribute to this thing here. Where can I start?
+
+666
+00:59:38,180 --> 00:59:47,180
+So, clearly, as the initial title says, it depends.
+
+667
+00:59:47,180 --> 00:59:55,180
+I clearly remember that the Node.js Core project has several talks
+
+668
+00:59:55,180 --> 01:00:03,180
+where, in live, the person explained the Node.js codebase for a moment
+
+669
+01:00:03,180 --> 01:00:08,180
+because it is clearly very important in terms of dimensions
+
+670
+01:00:08,180 --> 01:00:13,180
+and it did a pull request during the talk
+
+671
+01:00:13,180 --> 01:00:16,180
+so this kind of training is there
+
+672
+01:00:16,180 --> 01:00:20,180
+but many projects don't have it
+
+673
+01:00:20,180 --> 01:00:27,180
+and certainly the initial entry barrier
+
+674
+01:00:27,180 --> 01:00:31,180
+for people who are approaching
+
+675
+01:00:31,180 --> 01:00:35,180
+I'm assuming that at least Git knows it
+
+676
+01:00:35,180 --> 01:00:47,180
+because we often had people who closed the pull request and created a new one every time you asked them to change something
+
+677
+01:00:47,180 --> 01:00:58,180
+and so you train them and tell them "read a bit of GitHub's documentation, which is very well done, so you can explain the pull request process"
+
+678
+01:00:58,180 --> 01:01:14,180
+I think that explaining the codebase lowers the level of fear that a normal person has as soon as they approach a framework
+
+679
+01:01:14,180 --> 01:01:23,180
+because you feel a bit out of place, where do I start, where do I not start, the first steps, these things here
+
+680
+01:01:23,180 --> 01:01:31,180
+would simplify the entry barrier a lot, in my opinion.
+
+681
+01:01:31,180 --> 01:01:37,180
+I don't think I've seen it done a lot, honestly.
+
+682
+01:01:37,180 --> 01:01:43,180
+And on Fastify there's definitely a high level.
+
+683
+01:01:43,180 --> 01:01:50,180
+There's the contributing file, which explains the basic steps.
+
+684
+01:01:50,180 --> 01:02:00,180
+you fork, you check out, you modify the code and then you start the pull request process
+
+685
+01:02:00,180 --> 01:02:12,180
+but something that explains the codebase, that explains where the validation is, that explains how the validation works, that explains these things doesn't exist
+
+686
+01:02:13,180 --> 01:02:26,180
+It needs a little bit of strength from the developer
+
+687
+01:02:26,180 --> 01:02:31,180
+and he says "ok, I don't know the apocode base, I have to start reading it"
+
+688
+01:02:31,180 --> 01:02:36,180
+I start, obviously from the package.json and I look at the starting point
+
+689
+01:02:36,180 --> 01:02:40,180
+and from there I try to understand the "smoke" cycle
+
+690
+01:02:40,180 --> 01:02:42,180
+because otherwise...
+
+691
+01:02:42,180 --> 01:02:48,180
+let's say, if you wait...
+
+692
+01:02:48,180 --> 01:02:53,180
+when I say that the maintainer accompanies you like San Francesco
+
+693
+01:02:53,180 --> 01:02:55,180
+taking you by the hand, etc.
+
+694
+01:02:55,180 --> 01:02:57,180
+it's not really like that
+
+695
+01:02:57,180 --> 01:02:59,180
+I should say that it's more like the Spartans
+
+696
+01:02:59,180 --> 01:03:02,180
+He accompanies you by taking you by the ass, maybe it's better
+
+697
+01:03:02,180 --> 01:03:04,180
+It's more like the Spartans
+
+698
+01:03:04,180 --> 01:03:06,180
+he takes you and throws you in the forest
+
+699
+01:03:06,180 --> 01:03:09,180
+if you survive and go, you'll get out of it faster
+
+700
+01:03:09,180 --> 01:03:25,180
+But yes, learning to read the code is the first step, unfortunately, when you don't have a light accompanying process to the codebase.
+
+701
+01:03:25,180 --> 01:03:31,180
+Sorry, I just want to make a small remark on this. I use the podcast as a personal thing.
+
+702
+01:03:31,180 --> 01:03:35,180
+Right on this topic I will do a talk at Code in Motion
+
+703
+01:03:35,180 --> 01:03:37,180
+on the exploration of codebase
+
+704
+01:03:37,180 --> 01:03:41,180
+So if you come to Code in Motion, I'll be waiting for you
+
+705
+01:03:41,180 --> 01:03:43,180
+with the flags, the stripes
+
+706
+01:03:43,180 --> 01:03:49,180
+I wanted to say about this thing
+
+707
+01:03:49,180 --> 01:03:52,180
+that I did some talks on some conferences on Aravel
+
+708
+01:03:52,180 --> 01:03:55,180
+starting from that reason
+
+709
+01:03:55,180 --> 01:03:57,180
+because I didn't understand how some things worked
+
+710
+01:03:57,180 --> 01:04:04,180
+The documentation is explained very well, but for how to use a feature, but to know how it works,
+
+711
+01:04:04,180 --> 01:04:10,180
+because I was interested in that, because sometimes you reach edge cases that are not explained in the documentation,
+
+712
+01:04:10,180 --> 01:04:21,180
+and exploring, I did several talks on some aspects of Laravel, on the template engine, on the authorization.
+
+713
+01:04:21,180 --> 01:04:26,180
+Actually, you realize that Laravel is a PHP-based framework, so we're not talking about PHP,
+
+714
+01:04:26,180 --> 01:04:29,680
+where there are also things called to the system, but a much more complex thing.
+
+715
+01:04:29,680 --> 01:04:37,680
+But they have been very appreciated, because even if one does not contribute to the codebase of Laravel,
+
+716
+01:04:37,680 --> 01:04:42,680
+when he writes the code, he knows what happens underneath, and therefore he knows what to fix,
+
+717
+01:04:42,680 --> 01:04:47,180
+and if he should find some bugs, he also knows where to go to see,
+
+718
+01:04:47,180 --> 01:04:50,680
+which thanks to the ideas like PHPStorm
+
+719
+01:04:50,680 --> 01:04:52,180
+it's easy to get into it
+
+720
+01:04:52,180 --> 01:04:55,680
+you just click on a function and it brings you into the framework
+
+721
+01:04:55,680 --> 01:04:59,680
+and you see that it's PHP code, there's nothing else
+
+722
+01:04:59,680 --> 01:05:03,680
+then PHP loads everything in a PHP file and executes it
+
+723
+01:05:03,680 --> 01:05:08,680
+I have to say that, just to connect to the Telegram group
+
+724
+01:05:08,680 --> 01:05:13,680
+seeing that "go to" inside Laravel's codebase was beautiful
+
+725
+01:05:13,680 --> 01:05:16,180
+I didn't see it, but it must be one of those secrets
+
+726
+01:05:16,180 --> 01:05:18,680
+like there are some Easter eggs in Monkey Island.
+
+727
+01:05:18,680 --> 01:05:20,680
+And then another thing I wanted to say
+
+728
+01:05:20,680 --> 01:05:23,180
+about a complex codebase like Node.js,
+
+729
+01:05:23,180 --> 01:05:27,180
+Paolo Insogna, who we all know,
+
+730
+01:05:27,180 --> 01:05:30,680
+he's part of Nirvana, he's someone who talks a lot,
+
+731
+01:05:30,680 --> 01:05:36,180
+he's a core contributor of HTTP and something else,
+
+732
+01:05:36,180 --> 01:05:37,680
+he says he doesn't know anything else.
+
+733
+01:05:37,680 --> 01:05:42,680
+So we can't even claim to know the whole codebase
+
+734
+01:05:42,680 --> 01:05:44,680
+to have the knowledge of the frameworks.
+
+735
+01:05:44,680 --> 01:05:52,680
+If you're working on the HTTP, the stream, like Matteo was doing a lot in the stream,
+
+736
+01:05:52,680 --> 01:06:00,680
+you focus on that, and that's enough to make you, if you want to,
+
+737
+01:06:00,680 --> 01:06:07,680
+your position in the contributor, but we can't know everything.
+
+738
+01:06:07,680 --> 01:06:10,680
+In some way, we have to trust something, so we have to follow our instincts
+
+739
+01:06:10,680 --> 01:06:15,680
+and see what we like and what we don't like about such a big database.
+
+740
+01:06:15,680 --> 01:06:20,680
+I wanted to go back to a topic we left unsaid for a moment,
+
+741
+01:06:20,680 --> 01:06:23,680
+and that is the topic of motivation.
+
+742
+01:06:23,680 --> 01:06:28,680
+Sorry if I jump ahead, but I've found a tweet of yours,
+
+743
+01:06:28,680 --> 01:06:30,680
+which we're watching right now.
+
+744
+01:06:30,680 --> 01:06:34,680
+Actually, you can imagine it, because you're not watching it, but it will be on YouTube.
+
+745
+01:06:34,680 --> 01:06:35,680
+No, really.
+
+746
+01:06:36,680 --> 01:06:57,680
+And it's a tweet that says "Sometimes I wonder why I'm doing open source, managing a thousand small modules, rather than making the big tool that would give me great visibility"
+
+747
+01:06:57,680 --> 01:07:00,680
+Did I get it right? More or less, that was the meaning?
+
+748
+01:07:00,680 --> 01:07:06,080
+That's exactly the point you gave us
+
+749
+01:07:06,080 --> 01:07:10,080
+Going back to your previous question
+
+750
+01:07:10,080 --> 01:07:15,080
+where I told you "yes, we know how to move, we know how to chop meat"
+
+751
+01:07:15,080 --> 01:07:18,080
+for the poor maintainer of Nod
+
+752
+01:07:18,080 --> 01:07:24,580
+But, attention, that's a cause for which we give up everything
+
+753
+01:07:24,580 --> 01:07:30,580
+that is, the community really treats you like a dirty rag
+
+754
+01:07:30,580 --> 01:07:39,580
+the other motivation, on which I feel a little inside, if I have to be honest
+
+755
+01:07:39,580 --> 01:07:42,580
+is that I have achieved my goals
+
+756
+01:07:42,580 --> 01:07:47,580
+I had set some goals when I started to contribute to Open Source
+
+757
+01:07:47,580 --> 01:07:49,580
+and I have achieved them
+
+758
+01:07:49,580 --> 01:07:54,080
+and now I have to find new goals
+
+759
+01:07:54,080 --> 01:07:58,080
+and look for new motivation
+
+760
+01:07:58,080 --> 01:07:59,580
+basically
+
+761
+01:07:59,580 --> 01:08:03,580
+and it's not an easy search, in my opinion
+
+762
+01:08:03,580 --> 01:08:06,580
+and I'm in that phase
+
+763
+01:08:06,580 --> 01:08:12,080
+and that tweet condenses exactly what I'm trying now
+
+764
+01:08:12,080 --> 01:08:16,580
+because, often and willingly
+
+765
+01:08:16,580 --> 01:08:28,580
+If a pull request is emerged, ok, good, but if it is not released, your code remains on GitHub and that's it.
+
+766
+01:08:28,580 --> 01:08:35,580
+So there are daily operations that I find myself doing.
+
+767
+01:08:35,580 --> 01:08:42,860
+check the notifications on the github, check all the billions of pull requests
+
+768
+01:08:42,860 --> 01:08:49,660
+that the pendabot sends and press mark as done after having done if they give them all
+
+769
+01:08:49,660 --> 01:08:58,540
+and now for me it's routine, now I do it automatically
+
+770
+01:08:58,540 --> 01:09:10,940
+I have my tool, "LazyFy", which is kept together with the tape, probably older than my grandmother
+
+771
+01:09:10,940 --> 01:09:19,740
+but it does its job, and I don't intend to update it, honestly, because... who makes me do it?
+
+772
+01:09:19,740 --> 01:09:27,740
+I'm in that phase, I'm in the phase where I see a lot of content creators
+
+773
+01:09:27,740 --> 01:09:32,740
+that make a career, that get great results
+
+774
+01:09:32,740 --> 01:09:39,740
+and for great results, guys, let's be clear, I'm not just talking about money
+
+775
+01:09:39,740 --> 01:09:47,740
+but I'm talking about, for example, if you need a beautiful O1 visa for America
+
+776
+01:09:47,740 --> 01:09:55,740
+and you don't have a degree, like in my case, you need to have won awards
+
+777
+01:09:55,740 --> 01:10:02,740
+if you won the MVP or the Google Developer Expert, these things here
+
+778
+01:10:02,740 --> 01:10:10,740
+you can ask for a VISTO or ONE, which is crazy if you think about it
+
+779
+01:10:10,740 --> 01:10:16,340
+and so you see people who use what you do,
+
+780
+01:10:16,340 --> 01:10:20,940
+go further than what you've never done before
+
+781
+01:10:20,940 --> 01:10:25,140
+and so it's a bit of a drag, it's a drag on the inside, yeah, of course
+
+782
+01:10:25,140 --> 01:10:31,140
+on this, they're talking about envy, is envy bad as an emotion?
+
+783
+01:10:31,140 --> 01:10:37,740
+Yes, a bit, yes, but if we take envy and, how to say,
+
+784
+01:10:37,740 --> 01:10:41,740
+if we become sour, it's bad
+
+785
+01:10:41,740 --> 01:10:45,740
+but if we take this envy and transform it into motivation
+
+786
+01:10:45,740 --> 01:10:49,740
+or admiration
+
+787
+01:10:49,740 --> 01:10:55,740
+I don't know if I admire all these content creators
+
+788
+01:10:55,740 --> 01:11:01,740
+anyway, you take it and transform it into energy
+
+789
+01:11:01,740 --> 01:11:05,740
+to find new goals
+
+790
+01:11:05,740 --> 01:11:09,740
+and then say "ok, you know what?
+
+791
+01:11:09,740 --> 01:11:13,740
+the plugin should be re-made"
+
+792
+01:11:13,740 --> 01:11:17,740
+I'm ok with that, I know how to use it
+
+793
+01:11:17,740 --> 01:11:21,740
+and if someone wants to use it again,
+
+794
+01:11:21,740 --> 01:11:25,740
+they should do it, otherwise
+
+795
+01:11:25,740 --> 01:11:29,740
+I work on my projects, and in the last
+
+796
+01:11:29,740 --> 01:11:33,740
+4-5 months I've been doing this
+
+797
+01:11:33,740 --> 01:11:37,180
+I'm doing maintenance for sure, for the Fastify projects
+
+798
+01:11:37,180 --> 01:11:43,020
+I was going back to the train on Sunday, there were the test of Fastify that didn't work
+
+799
+01:11:43,020 --> 01:11:47,180
+I fixed them, a little bit of maintenance, I have to do it
+
+800
+01:11:47,180 --> 01:11:50,780
+But big features, I'm not doing them
+
+801
+01:11:50,780 --> 01:11:56,540
+The last big feature I think is in July, June
+
+802
+01:11:56,540 --> 01:12:01,900
+So I'm going a little bit slow if I have to be honest
+
+803
+01:12:01,900 --> 01:12:05,900
+And what does this mean for you, community?
+
+804
+01:12:05,900 --> 01:12:13,900
+It means that the 5.0 version of Fastify, if we don't implement all the necessary things,
+
+805
+01:12:13,900 --> 01:12:17,900
+it won't be released at the beginning of next year.
+
+806
+01:12:17,900 --> 01:12:19,900
+It will be released, maybe, at the end.
+
+807
+01:12:19,900 --> 01:12:22,900
+Now, clearly, there's Matteo with his startup,
+
+808
+01:12:22,900 --> 01:12:26,900
+he's really giving a crazy boost to Fastify.
+
+809
+01:12:26,900 --> 01:12:31,900
+but it may not be enough
+
+810
+01:12:31,900 --> 01:12:38,900
+and this goes back to the discussion we made about sustainability
+
+811
+01:12:38,900 --> 01:12:44,900
+if the currency you pay with, or one of the few currencies you pay with
+
+812
+01:12:44,900 --> 01:12:50,900
+all the effort, the visibility, when it doesn't arrive, the land starts to falter
+
+813
+01:12:50,900 --> 01:12:56,900
+If you are that programmer in Massachusetts or in Culandia
+
+814
+01:12:56,900 --> 01:12:59,900
+who manages the module that does...
+
+815
+01:12:59,900 --> 01:13:04,900
+(as far as JavaScript is concerned, this is very present)
+
+816
+01:13:04,900 --> 01:13:08,900
+the module that does a specific thing but nobody cares about it
+
+817
+01:13:08,900 --> 01:13:11,900
+because it is used by everyone...
+
+818
+01:13:11,900 --> 01:13:13,900
+but... well...
+
+819
+01:13:13,900 --> 01:13:15,900
+an example...
+
+820
+01:13:15,900 --> 01:13:18,900
+Babel is quite famous, right?
+
+821
+01:13:18,900 --> 01:13:28,900
+but we could draw the example of some modulino that is everywhere and no one gives a shit about it
+
+822
+01:13:28,900 --> 01:13:35,900
+in the end you really risk that the whole industry that is built above does not hold
+
+823
+01:13:35,900 --> 01:13:41,900
+very simple, because the currency with which it is paying is the "we want if it's good"
+
+824
+01:13:41,900 --> 01:13:47,900
+and among other things "we want if it's good" does not always hold because there are shitty bullets
+
+825
+01:13:47,900 --> 01:13:51,900
+because the new super framework is coming out
+
+826
+01:13:51,900 --> 01:13:54,900
+which has the investment fund under its hood
+
+827
+01:13:54,900 --> 01:13:56,900
+which is unhooking cash
+
+828
+01:13:56,900 --> 01:14:00,900
+and we are building the products
+
+829
+01:14:00,900 --> 01:14:03,900
+It was quite recent, a few months ago
+
+830
+01:14:03,900 --> 01:14:06,900
+I don't remember which project, Node.js
+
+831
+01:14:06,900 --> 01:14:09,900
+that Mantini said "I won't do it anymore
+
+832
+01:14:09,900 --> 01:14:11,900
+because I saw that whoever uses it"
+
+833
+01:14:11,900 --> 01:14:15,900
+and we were talking about Microsoft, Google, etc
+
+834
+01:14:15,900 --> 01:14:20,900
+I don't do it anymore, I asked for help and no one gives me a penny
+
+835
+01:14:20,900 --> 01:14:26,900
+so I quit and you keep it. I don't remember the name of the event
+
+836
+01:14:26,900 --> 01:14:32,900
+I remember the event that made a big impact on Twitter
+
+837
+01:14:32,900 --> 01:14:37,900
+but then nothing was done there
+
+838
+01:14:37,900 --> 01:14:39,900
+Yes
+
+839
+01:14:39,900 --> 01:14:45,960
+I would say, I was looking at the time, I actually have a lot of questions
+
+840
+01:14:45,960 --> 01:14:48,620
+I want to ask you one
+
+841
+01:14:48,620 --> 01:14:51,020
+that
+
+842
+01:14:51,020 --> 01:14:56,920
+you manage, in addition to the codebase, in some way you collaborate in addition to the codebase of Fastify, also
+
+843
+01:14:56,920 --> 01:15:01,720
+has a gazillion of plugins, because how Fastify did everything
+
+844
+01:15:02,900 --> 01:15:09,480
+Can be a plugin. You said you have your tooling to do it when there are hundreds of
+
+845
+01:15:09,480 --> 01:15:14,500
+A poly rep that touches hundreds of points
+
+846
+01:15:14,500 --> 01:15:20,860
+How how how how how how you manage them that you have
+
+847
+01:15:20,860 --> 01:15:26,380
+So, of course, the ocean board is a
+
+848
+01:15:27,900 --> 01:15:37,340
+a project that has open source on github very banal very spartan version 0 but it works and simply
+
+849
+01:15:37,340 --> 01:15:46,780
+At a regular rate it takes all the information from github and puts them on a table in ocean
+
+850
+01:15:46,780 --> 01:15:54,340
+End this is basic this gives me the overview of the projects and what I do by looking
+
+851
+01:15:56,180 --> 01:16:01,880
+This table I look at which repositories have more open issues
+
+852
+01:16:01,880 --> 01:16:08,060
+Because and then I go to check there was some problem
+
+853
+01:16:08,060 --> 01:16:12,660
+if a repository is too much and this part means that
+
+854
+01:16:12,660 --> 01:16:16,140
+It's staying a little behind with the review
+
+855
+01:16:16,140 --> 01:16:23,100
+I do this kind of analysis this usually on Saturday morning
+
+856
+01:16:24,220 --> 01:16:30,460
+Instead, for the releases, I rely on the guitar notifications.
+
+857
+01:16:30,460 --> 01:16:35,340
+I have constantly 300 notifications, basically.
+
+858
+01:16:35,340 --> 01:16:42,940
+And I go to a hundred a day, which is constantly refilled the next day.
+
+859
+01:16:42,940 --> 01:16:50,580
+So when I see something that has been merged, or something that has been approved by other people,
+
+860
+01:16:50,580 --> 01:16:54,580
+I emerge and off I go on the launch ramp.
+
+861
+01:16:54,580 --> 01:16:58,780
+So, it's a routine now.
+
+862
+01:16:58,780 --> 01:17:02,700
+It's a routine that requires to be done.
+
+863
+01:17:02,700 --> 01:17:10,260
+You can't hear me, right?
+
+864
+01:17:10,260 --> 01:17:12,980
+Here, as the opening says, right?
+
+865
+01:17:12,980 --> 01:17:17,380
+This time it's not five minutes, but I was talking without a microphone.
+
+866
+01:17:20,460 --> 01:17:32,180
+I would have liked to talk about Fastify, but we don't have the time, we'll probably do a day where we'll try to talk in detail about Fastify
+
+867
+01:17:32,180 --> 01:17:38,780
+and do an episode like "Fastify vs Express" or "Fastify vs Nest"
+
+868
+01:17:38,780 --> 01:17:45,260
+But I know that Carmine has a question about Fastify that he can't keep to himself
+
+869
+01:17:45,260 --> 01:17:52,260
+Actually it's not a question about FF6 but in general, because this is something we often ask ourselves
+
+870
+01:17:52,260 --> 01:17:56,260
+and we also asked our internal group of hosts of Github a few weeks ago
+
+871
+01:17:56,260 --> 01:18:04,260
+Why JavaScript, in your opinion, unlike PHP, Ruby, Python, doesn't have...
+
+872
+01:18:04,260 --> 01:18:15,260
+But, leaving out NEST, I don't want to go into my opinions, please, if you want to do Java, do Java, Java is really nice
+
+873
+01:18:15,260 --> 01:18:25,760
+But, in your opinion, why isn't there a monolithic framework, I don't mean by reference, because there are different ecosystems
+
+874
+01:18:25,760 --> 01:18:37,560
+Why isn't there a monolithic framework or opinionated to do production, to do RAD, but also the equivalent of Rails for JavaScript?
+
+875
+01:18:37,560 --> 01:18:48,560
+I remember that a while ago, I'm talking about years ago, when I started, there was something about IBM Loop something, but then I think that it has also lost that in Ether.
+
+876
+01:18:48,560 --> 01:18:58,560
+Why? There's no need and if Fastify can become something like that,
+
+877
+01:18:58,560 --> 01:19:02,560
+by joining it to some plugins, a bit like React,
+
+878
+01:19:02,560 --> 01:19:08,560
+which was born as a UI framework but with various libraries around it,
+
+879
+01:19:08,560 --> 01:19:13,560
+it can become something more structured for single-page applications
+
+880
+01:19:13,560 --> 01:19:18,560
+for things that are a bit different from his original goal
+
+881
+01:19:18,560 --> 01:19:20,560
+Well...
+
+882
+01:19:20,560 --> 01:19:24,560
+I don't know if I should answer with a marketing question
+
+883
+01:19:24,560 --> 01:19:29,560
+and I look at Leonardo's shirt
+
+884
+01:19:29,560 --> 01:19:34,560
+otherwise the direct answer to your question is
+
+885
+01:19:34,560 --> 01:19:35,560
+marketing
+
+886
+01:19:35,560 --> 01:19:37,560
+I'm done
+
+887
+01:19:38,560 --> 01:19:47,060
+In my opinion it's just a matter of advertising all the various features that a framework can have
+
+888
+01:19:47,060 --> 01:19:49,960
+And then...
+
+889
+01:19:49,960 --> 01:19:54,960
+A framework that does everything will probably do everything wrong
+
+890
+01:19:54,960 --> 01:20:01,160
+I always have this opinion, honestly
+
+891
+01:20:03,760 --> 01:20:13,760
+and as soon as you leave the seeding, it becomes a very impervious road
+
+892
+01:20:13,760 --> 01:20:20,760
+and so it's necessary, I don't know, sometimes I have the idea
+
+893
+01:20:20,760 --> 01:20:28,760
+but if we all worked on the same project, if we all worked on the same things
+
+894
+01:20:29,760 --> 01:20:33,760
+we will live in the future
+
+895
+01:20:33,760 --> 01:20:37,760
+and I don't know how true this is
+
+896
+01:20:37,760 --> 01:20:41,760
+sorry, I just remembered
+
+897
+01:20:41,760 --> 01:20:45,760
+there was a framework called Sales
+
+898
+01:20:45,760 --> 01:20:49,760
+I don't know if it still exists
+
+899
+01:20:49,760 --> 01:20:53,760
+there are two, one is Sales, JS
+
+900
+01:20:53,760 --> 01:20:57,760
+and the other is Adonis, which is a bit more apart
+
+901
+01:20:57,760 --> 01:21:02,760
+The truth is that they are not famous and structured
+
+902
+01:21:02,760 --> 01:21:05,760
+The one with IBM is called Loopback
+
+903
+01:21:05,760 --> 01:21:07,760
+Loopback, yes, yes
+
+904
+01:21:07,760 --> 01:21:09,760
+Let's leave Loopback
+
+905
+01:21:09,760 --> 01:21:14,760
+But on this thing, coming from the world of PHP with Aravel
+
+906
+01:21:14,760 --> 01:21:18,760
+Even now, if I have to think about it
+
+907
+01:21:18,760 --> 01:21:20,760
+If I had to make a full stack application
+
+908
+01:21:20,760 --> 01:21:23,760
+I've always done it with Aravel because it already had everything integrated
+
+909
+01:21:23,760 --> 01:21:35,760
+If I had to do API, I used Node.js with API, which was the JSON part of Express, and then Fastify.
+
+910
+01:21:35,760 --> 01:21:40,760
+But it's as if in JavaScript this problem wasn't solved.
+
+911
+01:21:40,760 --> 01:21:45,760
+If it wasn't solved, I would think there was a reason, because I don't think anyone thought about it.
+
+912
+01:21:45,760 --> 01:21:49,760
+But maybe in the meantime there was a division between doing the backend and doing the frontend,
+
+913
+01:21:49,760 --> 01:21:54,080
+the frontend, which was very separate, because I said, ok, I have to do the frontend in a way
+
+914
+01:21:54,080 --> 01:21:59,600
+and then call the API with a framework, a web server, or whatever we want to call it,
+
+915
+01:21:59,600 --> 01:22:04,520
+that is fast to do API. Then you have to do your side project and you lose
+
+916
+01:22:04,520 --> 01:22:10,520
+four and a half days doing scaffolding. And your friend with Aravel has already deployed,
+
+917
+01:22:10,520 --> 01:22:16,840
+gone out to the market and is already monetizing. Exactly, the thing is that, in the sense, there is
+
+918
+01:22:16,840 --> 01:22:23,560
+There's NEST, or Nezaho NEST, which is a pretty cool thing, but the world is beautiful because it's diverse
+
+919
+01:22:23,560 --> 01:22:30,080
+But, in the sense of something that has the speed, the robustness and the documentation of
+
+920
+01:22:30,080 --> 01:22:34,240
+Linux, Rails, Laravel, Symfony, I don't know, in the sense of
+
+921
+01:22:34,240 --> 01:22:38,480
+It's something that I think is missing and could be useful to a lot of people
+
+922
+01:22:38,480 --> 01:22:45,240
+But, here I put the disclaimer, something that doesn't go to mock the other frameworks
+
+923
+01:22:45,240 --> 01:22:53,240
+Or better, if I find myself in the same situation where the class is already written to make the controller, well, I already have it nested.
+
+924
+01:22:53,240 --> 01:23:01,240
+So having something that is well integrated into the language and that connects me to do my things.
+
+925
+01:23:01,240 --> 01:23:13,240
+I mean, I don't know, if I had to do it as my side project, but I'm no one, I don't know, it would be like an extension of the current Cli of Fastify.
+
+926
+01:23:13,240 --> 01:23:20,400
+I would do the project scaffolding, but maybe I would give you some options with the more or less official plugins, etc.
+
+927
+01:23:20,400 --> 01:23:23,080
+to do something more structured.
+
+928
+01:23:23,080 --> 01:23:29,200
+In the sense, Fastify with the click, with the autoloading of things is going in that direction.
+
+929
+01:23:29,200 --> 01:23:35,480
+The fact that I put things in a terminated folder according to a certain convention
+
+930
+01:23:35,480 --> 01:23:38,080
+and I find them according to that certain convention,
+
+931
+01:23:38,080 --> 01:23:41,680
+it goes a lot in the direction of this type of product.
+
+932
+01:23:41,680 --> 01:23:46,680
+my hope is that maybe by following this direction
+
+933
+01:23:46,680 --> 01:23:52,680
+we can provide more opinionated choices on certain things
+
+934
+01:23:52,680 --> 01:23:57,680
+and while before we were saying that if a framework does everything, maybe it doesn't do it well
+
+935
+01:23:57,680 --> 01:24:01,680
+there's the Lorocto that is turning on the Lamborghini
+
+936
+01:24:01,680 --> 01:24:04,680
+but in the sense that...
+
+937
+01:24:04,680 --> 01:24:09,680
+a framework... sorry, I'm recalculating
+
+938
+01:24:09,680 --> 01:24:11,680
+because often it's a framework...
+
+939
+01:24:11,680 --> 01:24:16,680
+Manuel, we often talk about the context where we work,
+
+940
+01:24:16,680 --> 01:24:21,680
+which is often a context of quite complicated applications,
+
+941
+01:24:21,680 --> 01:24:23,680
+very large, many microservices,
+
+942
+01:24:23,680 --> 01:24:26,680
+where I would never use Laravel or similar,
+
+943
+01:24:26,680 --> 01:24:30,680
+but I need to have control over every small component.
+
+944
+01:24:30,680 --> 01:24:34,680
+In the context, I return to the small agency,
+
+945
+01:24:34,680 --> 01:24:39,680
+because the market has that breadth.
+
+946
+01:24:39,680 --> 01:24:43,680
+So I return mentally to the small agency and I think,
+
+947
+01:24:43,680 --> 01:24:52,680
+if I have to create a site for a client,
+
+948
+01:24:52,680 --> 01:24:56,680
+I have to pull it up in four days,
+
+949
+01:24:56,680 --> 01:24:58,680
+because these are the deadlines,
+
+950
+01:24:58,680 --> 01:25:01,680
+I have to pull it up for yesterday, with authentication,
+
+951
+01:25:01,680 --> 01:25:03,680
+Un piccolo panelino
+
+952
+01:25:03,680 --> 01:25:10,400
+L invio di mail a quel punto farlo con confusione di con la prima cosa che faccio installo fastify
+
+953
+01:25:10,400 --> 01:25:17,120
+Ok, puoi ci vuol mettere l'inter e ci vuol mettere prettier e ceo fare questo e poi il plugin di
+
+954
+01:25:17,120 --> 01:25:22,560
+Di di loghi quale utilizzo quindi in realtà quel fastify a tutto
+
+955
+01:25:22,560 --> 01:25:27,040
+quello che manca e il glue code che ci mette ritutto
+
+956
+01:25:27,240 --> 01:25:33,480
+Yes, but it's also a matter of standardization, I mean, it's true if I have to do my own service, the complex code, I have to use a framework
+
+957
+01:25:33,480 --> 01:25:37,640
+But, yes, SNI, I mean, if I talk about my personal experience
+
+958
+01:25:37,640 --> 01:25:43,080
+We have a complex product, which is Trent, a system of coins, blah blah blah, several services
+
+959
+01:25:43,080 --> 01:25:46,120
+But they are made with Phoenix, in the Phoenix way
+
+960
+01:25:46,120 --> 01:25:51,560
+But the same thing, we could do it with Rails, we could do it with Django, with something else
+
+961
+01:25:51,560 --> 01:25:56,440
+what the framework gives you are binaries that are battle-tested,
+
+962
+01:25:56,440 --> 01:26:00,080
+that have sensible defaults,
+
+963
+01:26:00,080 --> 01:26:04,160
+that allow you to focus on your business logic,
+
+964
+01:26:04,160 --> 01:26:05,160
+on what really matters,
+
+965
+01:26:05,160 --> 01:26:07,040
+which can be the little panel,
+
+966
+01:26:07,040 --> 01:26:09,040
+or the system of...
+
+967
+01:26:09,040 --> 01:26:13,640
+or an iterating, or the next distributed system, etc.
+
+968
+01:26:13,640 --> 01:26:18,760
+That obviously also depends on the type of technology you have chosen,
+
+969
+01:26:18,760 --> 01:26:21,360
+but for me the framework is useful because it gives you guidelines,
+
+970
+01:26:21,360 --> 01:26:25,360
+that allows you to focus on infrastructural things that
+
+971
+01:26:25,360 --> 01:26:29,360
+either you can't do or you don't know how to do or that take your time
+
+972
+01:26:29,360 --> 01:26:32,360
+and that can be already standardized
+
+973
+01:26:32,360 --> 01:26:36,360
+I always like to repeat that if you have to spend 40 hours
+
+974
+01:26:36,360 --> 01:26:41,360
+to make your routing system, your ORM, your query builder, whatever you want
+
+975
+01:26:41,360 --> 01:26:46,360
+it means that you don't have your product
+
+976
+01:26:46,360 --> 01:26:55,360
+and if you can afford to spend 40 hours on these bullshit that have already been solved in 15 different languages
+
+977
+01:26:55,360 --> 01:26:59,360
+rather than writing a piece of business logic.
+
+978
+01:26:59,360 --> 01:27:03,360
+Probably it's the nth crude with a nice marketing department
+
+979
+01:27:03,360 --> 01:27:08,360
+and there's nothing wrong with it, but at this point it uses the right tool.
+
+980
+01:27:08,360 --> 01:27:16,360
+It's not about the number, but in the recording date of this podcast
+
+981
+01:27:16,360 --> 01:27:19,360
+the Platformatic 1.0 came out.
+
+982
+01:27:19,360 --> 01:27:21,360
+This episode is not sponsored
+
+983
+01:27:21,360 --> 01:27:23,360
+But it has nothing to do with what we talked about.
+
+984
+01:27:23,360 --> 01:27:26,360
+We take care of that. I mean, I am paid by the strong Platformatic powers
+
+985
+01:27:26,360 --> 01:27:29,360
+so I had to bring this thing.
+
+986
+01:27:29,360 --> 01:27:35,360
+You can say this, because people understand
+
+987
+01:27:35,360 --> 01:27:38,360
+I would like to say it too, guys, it's about to be...
+
+988
+01:27:38,360 --> 01:27:41,360
+It's about to be, we released a few weeks ago
+
+989
+01:27:41,360 --> 01:27:45,360
+a new version of Trent, the monitoring tool for the two clusters
+
+990
+01:27:45,360 --> 01:27:48,360
+No, I swear
+
+991
+01:27:48,360 --> 01:27:56,360
+If you want to see it, I think it's a bit different
+
+992
+01:27:56,360 --> 01:28:00,360
+compared to the platform one
+
+993
+01:28:00,360 --> 01:28:02,360
+but on SAP...
+
+994
+01:28:02,360 --> 01:28:11,360
+Carmine, I'll just send you a sentence
+
+995
+01:28:11,360 --> 01:28:14,360
+to answer you
+
+996
+01:28:14,360 --> 01:28:17,360
+I repeat, marketing
+
+997
+01:28:17,360 --> 01:28:20,360
+because I put some links in the chat
+
+998
+01:28:20,360 --> 01:28:23,360
+that will be included in the night of the episode
+
+999
+01:28:23,360 --> 01:28:28,360
+There was a project Fastify DX that had this purpose
+
+1000
+01:28:28,360 --> 01:28:32,360
+But, here it is, what happened?
+
+1001
+01:28:32,360 --> 01:28:38,360
+The only maintainer that was actively working on it, is basically not working anymore
+
+1002
+01:28:38,360 --> 01:28:49,360
+So it's true that the Fastify organization has a lot of lack of people that the frontend knows as its pockets
+
+1003
+01:28:49,360 --> 01:28:56,360
+and another link I sent you is my repository on github, Receptify
+
+1004
+01:28:56,360 --> 01:29:03,360
+which is a refactor of an existing application that was on Express
+
+1005
+01:29:03,360 --> 01:29:11,360
+and that one has everything, it has a React web application with Vite
+
+1006
+01:29:11,360 --> 01:29:15,360
+and it has the OAuth authentication with Spotify
+
+1007
+01:29:15,360 --> 01:29:19,480
+a little bit of API to show a little bit of data
+
+1008
+01:29:19,480 --> 01:29:21,480
+very simple
+
+1009
+01:29:21,480 --> 01:29:26,560
+is that marketing takes away more time than managing
+
+1010
+01:29:26,560 --> 01:29:29,880
+a thousand thousand repositories
+
+1011
+01:29:29,880 --> 01:29:31,880
+and really
+
+1012
+01:29:31,880 --> 01:29:35,800
+if there were people who want to contribute to the open source
+
+1013
+01:29:35,800 --> 01:29:40,880
+but he is not a programmer but he is simply a marketing person
+
+1014
+01:29:40,880 --> 01:29:45,880
+that could really find so much space and visibility
+
+1015
+01:29:45,880 --> 01:29:50,880
+within open source channels that I think you have no idea about.
+
+1016
+01:29:50,880 --> 01:29:58,880
+And on this sentence, and remembering that marketing takes time but also a lot of money,
+
+1017
+01:29:58,880 --> 01:30:02,880
+and Next.js is an example,
+
+1018
+01:30:05,880 --> 01:30:15,880
+Let's go to the village of Baluchi, because if we don't open this Pandora's box, we'll stay for another two days and we're already an hour and a half.
+
+1019
+01:30:15,880 --> 01:30:26,880
+So I wanted to ask you, classic question, here there will be the fantastic Sigletta, but I wanted to ask you, do you have something to share with us?
+
+1020
+01:30:26,880 --> 01:30:32,880
+a book, a talk, a video, something that has caught your attention.
+
+1021
+01:30:32,880 --> 01:30:37,880
+So, I ask Manuel, did you bring something for us?
+
+1022
+01:30:37,880 --> 01:30:40,880
+I'm taking you to the country of the Balochi!
+
+1023
+01:30:40,880 --> 01:30:42,880
+Ah, the country of the Balochi!
+
+1024
+01:30:42,880 --> 01:30:51,880
+So, I don't want to bring things as a developer, that's enough.
+
+1025
+01:30:51,880 --> 01:30:56,600
+I'm taking my life into my own hands and I'll bring a book
+
+1026
+01:30:56,600 --> 01:30:59,160
+which is a role-playing game
+
+1027
+01:30:59,160 --> 01:31:01,640
+made by an Italian
+
+1028
+01:31:01,640 --> 01:31:04,280
+which is called "Fabula Ultima"
+
+1029
+01:31:04,280 --> 01:31:07,800
+it's an old-style role-playing game
+
+1030
+01:31:07,800 --> 01:31:12,680
+you have to take the manual, read it, then find some friends, a group of enthusiasts
+
+1031
+01:31:12,680 --> 01:31:13,720
+and play it
+
+1032
+01:31:13,720 --> 01:31:17,000
+exactly, I saw the D&D DAD
+
+1033
+01:31:17,000 --> 01:31:29,000
+So I really recommend it if you like the anime style, it's very beautiful, very exciting I must say
+
+1034
+01:31:29,000 --> 01:31:36,000
+And a second "balocco" which is a videogame
+
+1035
+01:31:36,000 --> 01:31:42,000
+A few episodes ago it was presented by The Messenger and Sea of Stars
+
+1036
+01:31:42,000 --> 01:31:47,000
+On that false line I recommend "Sword of Convalaria"
+
+1037
+01:31:47,000 --> 01:31:53,000
+It's not out yet, but I think it really deserves it
+
+1038
+01:31:53,000 --> 01:32:01,000
+And let's remember that the free time spent relaxing is not wasted time
+
+1039
+01:32:06,000 --> 01:32:11,000
+It's holy, it's very holy. Words, the applause should have started but I couldn't find the button.
+
+1040
+01:32:11,000 --> 01:32:14,000
+It happens. Carmine, Leo?
+
+1041
+01:32:14,000 --> 01:32:23,000
+So, I don't have a book, actually, but something that might be useful to you,
+
+1042
+01:32:23,000 --> 01:32:30,000
+because I think I was laughing at 60% of the problems with my desk,
+
+1043
+01:32:30,000 --> 01:32:35,000
+moving them in the bottom, because I can't see them,
+
+1044
+01:32:35,000 --> 01:32:40,000
+I bought a docking station,
+
+1045
+01:32:40,000 --> 01:32:43,000
+which is one of those things that probably
+
+1046
+01:32:43,000 --> 01:32:47,000
+who has the Mac, the new one, the new Holy Fancy,
+
+1047
+01:32:47,000 --> 01:32:51,000
+with less ports but faster, already has...
+
+1048
+01:32:51,000 --> 01:32:53,000
+Holy Fancy?
+
+1049
+01:32:53,000 --> 01:32:55,000
+Fancy...
+
+1050
+01:32:55,000 --> 01:33:05,320
+who has OnlyFans probably already has the hang of putting the light, the webcam, the other things
+
+1051
+01:33:05,320 --> 01:33:10,840
+so yes, a docking station, which in reality has become something extremely common
+
+1052
+01:33:10,840 --> 01:33:15,400
+precisely among those who have a Mac, in the sense that I inform myself on YouTube
+
+1053
+01:33:15,400 --> 01:33:19,240
+in all the common portals and it is full of these videos
+
+1054
+01:33:19,240 --> 01:33:24,040
+the docking station that changed my life and I'm on all the Macs
+
+1055
+01:33:24,040 --> 01:33:33,780
+I took one of the Lenovo, for my computer that is a ThinkPad, but it is compatible with almost anything
+
+1056
+01:33:33,780 --> 01:33:46,840
+so you have this box and you can transform it, basically bring it to your desktop
+
+1057
+01:33:46,840 --> 01:33:52,440
+It's available in 15,000 versions, all with different prices.
+
+1058
+01:33:52,440 --> 01:33:57,840
+Don't get fooled, I've already been fooled.
+
+1059
+01:33:57,840 --> 01:34:00,240
+Don't do it.
+
+1060
+01:34:00,240 --> 01:34:05,640
+I confirm, because I also have a Lenovo docking station,
+
+1061
+01:34:05,640 --> 01:34:06,640
+thanks MongoDB,
+
+1062
+01:34:06,640 --> 01:34:10,240
+and it works very well with Mac, it also works with Lenovo,
+
+1063
+01:34:10,240 --> 01:34:14,240
+so it's all USB-C, there are no problems.
+
+1064
+01:34:14,240 --> 01:34:21,240
+There are problems sometimes with Linux for the display driver, that stuff, but it's a niche thing, but we don't talk about it.
+
+1065
+01:34:21,240 --> 01:34:26,240
+Instead, I bring a podcast that has nothing to do with programming, as usual,
+
+1066
+01:34:26,240 --> 01:34:29,240
+which is called "Very Human Things".
+
+1067
+01:34:29,240 --> 01:34:34,240
+I recently discovered it, it's a daily podcast, 7 days out of 7, very short, 5-6 minutes,
+
+1068
+01:34:34,240 --> 01:34:37,240
+which talks about things.
+
+1069
+01:34:37,240 --> 01:34:40,240
+I'll read you some titles
+
+1070
+01:34:40,240 --> 01:34:43,240
+"Nose and ears grow forever"
+
+1071
+01:34:43,240 --> 01:34:46,240
+"Why does the bianco exist after meals?"
+
+1072
+01:34:46,240 --> 01:34:48,240
+"What is the Bird Strike?"
+
+1073
+01:34:48,240 --> 01:34:50,240
+Then there's a beautiful thing that was
+
+1074
+01:34:50,240 --> 01:34:52,240
+"Why can't we have wheels?"
+
+1075
+01:34:52,240 --> 01:34:58,240
+So in six minutes, you understand, a new concept that can be up-to-date
+
+1076
+01:34:58,240 --> 01:34:59,240
+but also of history like this
+
+1077
+01:34:59,240 --> 01:35:01,240
+and make a nice figure at the bar
+
+1078
+01:35:01,240 --> 01:35:03,240
+and since we're in a bar anyway
+
+1079
+01:35:03,240 --> 01:35:06,240
+it seemed great to propose it to me
+
+1080
+01:35:06,240 --> 01:35:17,240
+My balucchi... I actually don't have one. I just have to go and get it. It's a paper.
+
+1081
+01:35:17,240 --> 01:35:27,240
+The title is "The effects of extrinsic motivation and satisfaction in the development of open source".
+
+1082
+01:35:27,240 --> 01:35:29,240
+Ah, that's where you found that word.
+
+1083
+01:35:29,240 --> 01:35:34,240
+Well, I don't... I don't know, I'm actually being prepared.
+
+1084
+01:35:34,240 --> 01:35:36,240
+What have you studied?
+
+1085
+01:35:36,240 --> 01:35:44,240
+It's a very short paper, because I'm only 26 pages long,
+
+1086
+01:35:44,240 --> 01:35:54,240
+but super interesting, published in the newspaper of the Association of Informative Systems,
+
+1087
+01:35:54,240 --> 01:35:56,240
+it's the first time I've heard it,
+
+1088
+01:35:56,240 --> 01:36:02,240
+but it analyzes the engines that push open source,
+
+1089
+01:36:02,240 --> 01:36:04,240
+and it made me worry a lot.
+
+1090
+01:36:04,240 --> 01:36:06,240
+So if you don't want to sleep at night
+
+1091
+01:36:06,240 --> 01:36:08,240
+thinking about an industry
+
+1092
+01:36:08,240 --> 01:36:10,240
+that is on the furniture,
+
+1093
+01:36:10,240 --> 01:36:12,240
+this could be a good way to do it.
+
+1094
+01:36:12,240 --> 01:36:14,240
+Another way to do it
+
+1095
+01:36:14,240 --> 01:36:16,240
+is a book.
+
+1096
+01:36:16,240 --> 01:36:18,240
+We didn't talk about it in episode,
+
+1097
+01:36:18,240 --> 01:36:20,240
+I waited until the last one
+
+1098
+01:36:20,240 --> 01:36:22,240
+because
+
+1099
+01:36:22,240 --> 01:36:24,240
+I liked it that way.
+
+1100
+01:36:24,240 --> 01:36:26,240
+It's the book
+
+1101
+01:36:26,240 --> 01:36:28,240
+that Manuel wrote
+
+1102
+01:36:28,240 --> 01:36:30,240
+together with Maxim and Matteo.
+
+1103
+01:36:30,240 --> 01:36:41,240
+and Matteo, this one. I didn't download it, I didn't hack it, don't worry, Manuel.
+
+1104
+01:36:41,240 --> 01:36:46,480
+I had it in preview, by the way. It's a very interesting book for those who are
+
+1105
+01:36:46,480 --> 01:36:51,800
+getting closer to Fastify and it was exactly what was needed for Fastify.
+
+1106
+01:36:51,800 --> 01:36:56,760
+Of course, everything is on the episode notes and, by the way, the Amazon links
+
+1107
+01:36:56,760 --> 01:37:01,280
+I'm also in some way, how do you say it was guys?
+
+1108
+01:37:01,280 --> 01:37:08,880
+I'm not affiliated, affiliated, affiliated, now they give us the money, yes, a few cents that
+
+1109
+01:37:08,880 --> 01:37:16,120
+given the costs we have of the 7000 services we took to pass the video
+
+1110
+01:37:16,120 --> 01:37:22,480
+let's say they're a little stuff but at this point let's say I take this opportunity to remind you
+
+1111
+01:37:22,480 --> 01:37:31,480
+that if you like it, I support you. I like how Franco Solerio told it in the last episode of Digitalia.
+
+1112
+01:37:31,480 --> 01:37:39,480
+You see Gitbar as... and here I say, it's the flour of Franco Solerio's bag, this metaphor.
+
+1113
+01:37:39,480 --> 01:37:46,480
+You see Gitbar as the fruit stand where you can serve yourself and leave the coins or the money out.
+
+1114
+01:37:46,480 --> 01:37:58,480
+So, if you like to support us, if you like Geekbar and you want to help us to continue doing it, you can find the links in the site.
+
+1115
+01:38:00,480 --> 01:38:08,480
+Well, here we are, here we are, we have arrived, I must say that in our back channel I said
+
+1116
+01:38:08,480 --> 01:38:13,480
+for this new season, the fourth of Geekbar, we will try to stay in an hour, in fact the
+
+1117
+01:38:13,480 --> 01:38:20,480
+time is 1 hour 40, so I would say that we can close.
+
+1118
+01:38:20,480 --> 01:38:29,480
+I thank Manuel very much for coming to see us, I know that you will also be
+
+1119
+01:38:29,480 --> 01:38:45,480
+with us, so we will have a chance to drink a real beer, so thank you for accepting our invitation, thank you from the bottom of my heart.
+
+1120
+01:38:45,480 --> 01:38:49,480
+Thank you, and here the beer is really good.
+
+1121
+01:38:49,480 --> 01:38:52,480
+It's a lot. Good and a lot.
+
+1122
+01:38:52,480 --> 01:38:57,480
+Hi Carmine, hi Leo. How did this episode go?
+
+1123
+01:38:57,480 --> 01:39:00,480
+Only videos? You thought I was going to leave you.
+
+1124
+01:39:00,480 --> 01:39:03,480
+What do you mean only videos? There's no audio.
+
+1125
+01:39:03,480 --> 01:39:05,480
+I want to listen to it again.
+
+1126
+01:39:05,480 --> 01:39:08,480
+I confess that I always listen to myself in podcasts.
+
+1127
+01:39:08,480 --> 01:39:11,480
+Because I want to hear my voice twice as loud.
+
+1128
+01:39:11,480 --> 01:39:16,480
+The first podcast only with sign language we could do.
+
+1129
+01:39:16,480 --> 01:39:19,480
+But it could be an experiment, for the fifth season...
+
+1130
+01:39:19,480 --> 01:39:21,480
+Let's do an experiment!
+
+1131
+01:39:21,480 --> 01:39:23,480
+We'll make a "Git Barliss"
+
+1132
+01:39:23,480 --> 01:39:29,480
+It would be cool and above all it would draw attention to accessibility
+
+1133
+01:39:29,480 --> 01:39:33,480
+I have to say that in this episode we will upload the subtitles
+
+1134
+01:39:33,480 --> 01:39:37,480
+So I think it's compliant with some screen readers
+
+1135
+01:39:37,480 --> 01:39:42,480
+So it will be possible to do it, at least I hope so
+
+1136
+01:39:42,480 --> 01:39:47,480
+How was the first episode of the fourth season of Geekbar?
+
+1137
+01:39:47,480 --> 01:39:54,480
+It's not out yet, so there are no haters comments, so we're good, we're friends.
+
+1138
+01:39:54,480 --> 01:39:58,480
+Sorry, so we're still recording?
+
+1139
+01:39:58,480 --> 01:40:01,480
+We're still recording, absolutely yes.
+
+1140
+01:40:01,480 --> 01:40:07,480
+I'll tell you later. Did everything go well?
+
+1141
+01:40:07,480 --> 01:40:11,480
+So far, so good.
+
+1142
+01:40:11,480 --> 01:40:15,400
+So, having said that, I give you an appointment for the next episode,
+
+1143
+01:40:15,400 --> 01:40:16,800
+reminding you of our contracts.
+
+1144
+01:40:16,800 --> 01:40:18,800
+For more info, visit github.com/github
+
+1145
+01:40:18,800 --> 01:40:20,080
+and @brainrepo on Twitter.
+
+1146
+01:40:20,080 --> 01:40:24,920
+Our YouTube channel, at this point, we have to say,
+
+1147
+01:40:24,920 --> 01:40:27,640
+you can find it by searching for "github".
+
+1148
+01:40:27,640 --> 01:40:30,520
+On any YouTube channel, you know how it is.
+
+1149
+01:40:30,520 --> 01:40:33,840
+You look at Telegram, you replace it, you do a "preg replace".
+
+1150
+01:40:33,840 --> 01:40:36,600
+So you can also watch us on your home TV,
+
+1151
+01:40:36,600 --> 01:40:39,600
+64 inches. Our beautiful faces.
+
+1152
+01:40:39,600 --> 01:40:41,600
+Our beautiful faces.
+
+1153
+01:40:41,600 --> 01:40:43,600
+And our...
+
+1154
+01:40:43,600 --> 01:40:47,600
+Our Tereram group is the best group in Italy,
+
+1155
+01:40:47,600 --> 01:40:50,600
+which is not like all the other groups, but it's the best.
+
+1156
+01:40:50,600 --> 01:40:52,600
+Because it doesn't have "Italy" in its name.
+
+1157
+01:40:52,600 --> 01:40:54,600
+Because it doesn't have "Italy" in its name, exactly.
+
+1158
+01:40:54,600 --> 01:40:58,600
+It's not "Gitbar Italy", but it's just "Gitbar Italy".
+
+1159
+01:40:58,600 --> 01:41:04,600
+But someone will invent a programming language called "Gitbar"
+
+1160
+01:41:04,600 --> 01:41:06,600
+and then the group will be called "Git Var Italia"
+
+1161
+01:41:06,600 --> 01:41:08,600
+Exactly
+
+1162
+01:41:08,600 --> 01:41:14,600
+We are waiting for you to talk to us about anything
+
+1163
+01:41:14,600 --> 01:41:16,600
+and actually to give you feedback
+
+1164
+01:41:16,600 --> 01:41:18,600
+A lot of feedback
+
+1165
+01:41:18,600 --> 01:41:21,600
+This is the first episode we make videos
+
+1166
+01:41:21,600 --> 01:41:26,600
+so we are waiting for your questions and feedback
+
+1167
+01:41:26,600 --> 01:41:28,600
+on our beautiful sets
+
+1168
+01:41:28,600 --> 01:41:30,600
+Actually Mauro is the most professional
+
+1169
+01:41:30,600 --> 01:41:32,600
+I literally had to do...
+
+1170
+01:41:32,600 --> 01:41:41,600
+I was convinced of something else, so there's the water carafe, the scottex, the beer, the rest, I think.
+
+1171
+01:41:41,600 --> 01:41:46,600
+For the next times we'll organize it better, now I'm going straight to the bathroom.
+
+1172
+01:41:46,600 --> 01:41:52,600
+Well, there's a podcast that records in the bathroom, so...
+
+1173
+01:41:52,600 --> 01:42:01,600
+Having said that, I remind you to ring the bell, because the normal YouTube channels have the bell, we have the bell.
+
+1174
+01:42:01,600 --> 01:42:05,040
+So I'll see you next week.
+
+1175
+01:42:05,040 --> 01:42:06,040
+Bye guys!
+
+1176
+01:42:06,040 --> 01:42:07,040
+Bye!
+
+1177
+01:42:07,040 --> 01:42:08,040
+Bye!
+
+1178
+01:42:08,040 --> 01:42:08,540
+Bye bye!
+
+1179
+01:42:08,540 --> 01:42:26,780
+[MUSIC PLAYING]
+
